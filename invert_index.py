@@ -4,8 +4,11 @@ import re
 from collections import defaultdict
 from bs4 import BeautifulSoup
 
+wordDict = defaultdict(list)
+
 
 class InvertedIndex:
+
     def __init__(self):
         # initialize a general dictionary
         self.index = defaultdict(list)
