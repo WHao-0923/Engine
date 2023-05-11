@@ -45,11 +45,9 @@ def read_files():
             soup = BeautifulSoup(content, "html.parser")
             text = soup.get_text()
 
-            tokens = tokenize(text)
+            tokens = tokenize(text,doc_ID)
 
-            index_dict.add_document(doc_ID, tokens)
-
-def tokenize(text):
+def tokenize(text, doc_ID):
     # nltk to tokenize the text provided
     tokens = word_tokenize(text)
 
@@ -58,6 +56,7 @@ def tokenize(text):
         word = token.lower()
         if word.isalnum():
             word_freq[word] += 1
+            index_dict.index[word][doc_ID] += 1
     return list(set(tokens))
 
 
@@ -69,5 +68,5 @@ for k, v in ID_dict.items():
 
 for k,v in index_dict.index.items():
     print(f"###########{k}: -------------{v}")
-    print(f'url {ID_dict[v[0]]} for key {v}')
+    print(f'url {ID_dict[list(v.keys())[0]]} for key {v}')
 
