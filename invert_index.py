@@ -8,12 +8,7 @@ from bs4 import BeautifulSoup
 class InvertedIndex:
     def __init__(self):
         # initialize a general dictionary
-        self.index =  defaultdict(lambda : defaultdict(int))
-
-    # def add_document(self, doc_id, tokens):
-    #     # Get the pure
-    #     for token in tokens:
-    #         self.index[token][doc_id] += 1
+        self.index =  defaultdict(dict)
 
     def get_documents(self, word):
         return self.index.get(word.lower(), [])

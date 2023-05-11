@@ -1,0 +1,5 @@
+Number of Documents: 469
+
+Number of Unique Tokens: 15311
+
+File size of index in disk is 587.07KB
