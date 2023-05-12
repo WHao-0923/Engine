@@ -1,15 +1,21 @@
+# Team Members:
+# Joanna Chen, 66238804
+# Yui Guo, 75458764
+# Weiyu Hao, 59955246
+# Ruiyang Wang, 52294785
+
 from bs4 import BeautifulSoup
 from nltk.tokenize import word_tokenize
 import os, json, pickle
 from collections import defaultdict
 from invert_index import InvertedIndex
-import requests
+#import requests
 import time
 
 word_freq = defaultdict(int)
 ID_dict = defaultdict(str)
 ID_count = 1
-TEST_SIZE = 10
+TEST_SIZE = 99999
 
 index_dict = InvertedIndex()
 
@@ -41,12 +47,12 @@ def process_files(json_path,files):
     counter = 1
     print(f"STARTING: {json_path}, TEST SIZE: {str(TEST_SIZE)}" )
     for file_name in files:
-        # politeness 0.3s:
-        time.sleep(0.3)
+        # # politeness 0.3s:
+        # time.sleep(0.3)
         if counter > TEST_SIZE:
             break
         # Keep track of progress
-        if counter % (TEST_SIZE//10) == 0:
+        if counter % 50 == 0:
             print("INDEXING...: " + str(counter))
         counter += 1
         with open(os.path.join(json_path, file_name), 'r') as f:
@@ -57,31 +63,34 @@ def process_files(json_path,files):
             content = data['content']
             encode = data['encoding']
 
-            # Defragment the url
-            if "#" in url:
-                url = url.split('#')[0]
+            # no need to check validility of url
+
+            # # Defragment the url
+            # if "#" in url:
+            #     url = url.split('#')[0]
             # Use request to check url's status code
-            try:
-                response = requests.head(url, allow_redirects=False, timeout=5)
-                if response.status_code != 200 :
-                    # check if redirects
-                    if response.status_code in (301, 302, 303, 307, 308):
-                        redirect_response = requests.head(response.url, allow_redirects=False,timeout=5)
-                        # check the status code for redirected url
-                        if redirect_response.status_code != 200:
-                            continue
-                        else:
-                            url = redirect_response.url
-                    else:
-                        continue
-            except requests.exceptions.Timeout:
-                # Request timeout
-                print("The request timed out")
-                continue
-            except requests.exceptions.RequestException:
-                # error in sending the request
-                print("Request ERROR")
-                continue
+
+            # try:
+            #     response = requests.head(url, allow_redirects=False, timeout=5)
+            #     if response.status_code != 200 :
+            #         # check if redirects
+            #         if response.status_code in (301, 302, 303, 307, 308):
+            #             redirect_response = requests.head(response.url, allow_redirects=False,timeout=5)
+            #             # check the status code for redirected url
+            #             if redirect_response.status_code != 200:
+            #                 continue
+            #             else:
+            #                 url = redirect_response.url
+            #         else:
+            #             continue
+            # except requests.exceptions.Timeout:
+            #     # Request timeout
+            #     print("The request timed out")
+            #     continue
+            # except requests.exceptions.RequestException:
+            #     # error in sending the request
+            #     print("Request ERROR")
+            #     continue
             
             # check if url is duplicated
             doc_ID = createID(url)
@@ -118,11 +127,21 @@ file_size = os.path.getsize('index.pkl') / 1024
 
 # generate report
 with open('report.txt', 'w+') as file:
+    file.write("Team Members:\n")
+    file.write("Joanna Chen, 66238804\n")
+    file.write("Yui Guo, 75458764\n")
+    file.write("Weiyu Hao, 59955246\n")
+    file.write("Ruiyang Wang, 52294785\n")
+    file.write("\n\n\n\n")
     file.write("Number of Documents: " + str(ID_count))
     file.write("\n\n")
     file.write("Number of Unique Tokens: " + str(len(index_dict.index)))
     file.write("\n\n")
     file.write("File size of index in disk is " + str(round(file_size,2)) + "KB")
+    file.write("\n\n")
+    file.write("DocID with URLs:\n")
+    for k,v in ID_dict.items():
+        file.write(f'DocID {k} ----- {v}\n')
 
 # for k,v in index_dict.index.items():
 #     print(f"###########{k}: -------------{v}")
