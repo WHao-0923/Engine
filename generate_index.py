@@ -13,9 +13,9 @@ from invert_index import InvertedIndex
 import time
 
 word_freq = defaultdict(int)
-ID_dict = defaultdict(str)
+ID_dict = defaultdict(str) #{doc_id: url}
 ID_count = 1
-TEST_SIZE = 99999
+TEST_SIZE = 10
 
 index_dict = InvertedIndex()
 
@@ -37,6 +37,8 @@ def read_files():
     dirs = [path for path in os.listdir(path_to_json)]
     json_files = []
     for d in dirs:
+        if d.startswith('.'):
+            continue
         path = path_to_json + d + '/'
         print(path)
         # Process files from each directory
@@ -119,8 +121,22 @@ def tokenize(text, doc_ID):
 # start the program
 read_files()
 
-with open('index.pkl', 'wb') as f:
-    pickle.dump(index_dict.index, f)
+sorted_index = sorted(index_dict.index.items())
+
+count = 0
+
+f2 = open('main_index.txt', "w+")
+
+with open('index.txt', 'w+') as f:
+    for i in sorted_index:
+        if count % 100 == 0:
+            f2.write(f"{i[0]} {count}\n")
+        f.write(str(i)+'\n')
+        count += 1
+f2.close()
+
+
+
 
 # get size of the file in KB
 file_size = os.path.getsize('index.pkl') / 1024
