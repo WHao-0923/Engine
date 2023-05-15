@@ -125,9 +125,10 @@ sorted_index = sorted(index_dict.index.items())
 
 count = 0
 
-f2 = open('main_index.txt', "w+")
+f2 = open('main_index.txt', "w")
 
-with open('index.txt', 'w+') as f:
+with open('index.txt', 'w') as f:
+    f2.write(str(len(sorted_index)//100) + '\n')
     for i in sorted_index:
         if count % 100 == 0:
             f2.write(f"{i[0]} {count}\n")
