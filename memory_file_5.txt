@@ -4,101 +4,90 @@
 2009---{68: 1, 69: 3, 70: 1, 71: 2, 72: 1}
 a---{69: 1, 70: 1, 71: 6}
 about---{68: 1}
-abstractions---{68: 2}
+abstract---{68: 2}
 access---{70: 2}
-accompanying---{71: 1}
-according---{71: 1}
+accompani---{71: 1}
+accord---{71: 1}
 acm---{69: 3}
-actions---{70: 1}
-activity---{71: 1}
+action---{70: 1}
+activ---{71: 1}
 actual---{71: 1}
 aditi---{69: 1}
 after---{68: 1}
 all---{68: 1}
-allows---{71: 1}
+allow---{71: 1}
 also---{70: 1}
 alumni---{72: 3}
 amarnath---{69: 1}
 ambient---{69: 1}
 among---{71: 1}
 an---{71: 2}
-analysis---{69: 1}
+analysi---{69: 1}
 and---{68: 9, 69: 9, 70: 3, 71: 10, 72: 3}
-annotation---{69: 1, 70: 1}
+annot---{69: 1, 70: 1}
 ansgar---{72: 1}
-approach---{71: 3}
-approaches---{68: 1}
-appropriate---{71: 1}
-architecture---{71: 1}
-archived---{72: 1}
+approach---{68: 1, 71: 3}
+appropri---{71: 1}
+architectur---{71: 1}
+archiv---{72: 1}
 are---{68: 2, 70: 1, 71: 7}
 arjun---{72: 1}
-arts---{69: 2}
+art---{69: 2}
 as---{70: 2, 71: 4, 72: 2}
-assets---{71: 2}
+asset---{71: 2}
 at---{68: 1, 70: 1}
-automatically---{70: 1}
-availability---{69: 1}
-available---{71: 1}
+automat---{70: 1}
+avail---{69: 1, 71: 1}
 barbara---{69: 2}
 basic---{68: 1}
-be---{71: 2}
-being---{71: 1}
+be---{71: 3}
 between---{68: 1, 70: 1}
 bo---{72: 1}
-body---{70: 1}
+bodi---{70: 1}
 bohyung---{72: 1}
 bren---{68: 1}
-bridging---{68: 1}
+bridg---{68: 1}
 by---{71: 1}
-called---{71: 1}
+call---{71: 1}
 can---{71: 2}
-captured---{71: 1}
+captur---{71: 1}
 center---{70: 2}
-change---{70: 2}
-changes---{70: 1}
+chang---{70: 3}
 cite---{70: 1}
 civr---{69: 1}
-classification---{69: 1}
+classif---{69: 1}
 closer---{68: 3}
-collaborative---{69: 1}
-combine---{72: 1}
-coming---{68: 1}
-communication---{69: 3, 71: 1}
-communications---{68: 1}
-composing---{69: 1}
-computer---{68: 2, 69: 1}
-computers---{68: 1}
-computing---{68: 8, 69: 1, 72: 2}
-concepts---{71: 1}
-conference---{69: 5}
-conjunction---{69: 1}
-connecting---{70: 1}
-connection---{71: 1}
-connectivity---{68: 1, 69: 1, 70: 1, 71: 2, 72: 1}
-considered---{71: 1}
-consulation---{70: 1}
-contenxtual---{69: 1}
+collabor---{69: 1}
+combin---{72: 1}
+come---{68: 1}
+commun---{68: 1, 69: 3, 71: 1}
+compos---{69: 1}
+comput---{68: 11, 69: 2, 72: 2}
+concept---{71: 1}
+confer---{69: 5}
+conjunct---{69: 1}
+connect---{68: 1, 69: 1, 70: 2, 71: 3, 72: 1}
+consid---{71: 1}
+consul---{70: 1}
+contenxtu---{69: 1}
 context---{69: 1}
 contrast---{71: 1}
-cooperative---{69: 1}
+cooper---{69: 1}
 copyright---{68: 1, 69: 1, 70: 1, 71: 1, 72: 1}
-corporation---{72: 1}
+corpor---{72: 1}
 current---{68: 1, 69: 1, 70: 1, 71: 2, 72: 1}
 data---{68: 4, 69: 1, 70: 1, 72: 1}
 dataset---{70: 2}
-dealing---{68: 3}
-demo---{68: 1, 69: 1, 70: 2, 71: 1, 72: 1}
-demos---{70: 1, 71: 2}
-department---{68: 1}
-depending---{70: 1}
-detect---{71: 1}
-detection---{69: 1}
-determine---{71: 1}
-developing---{68: 1, 71: 1}
-devices---{71: 1}
-different---{71: 1}
-digital---{69: 2}
+deal---{68: 3}
+demo---{68: 1, 69: 1, 70: 3, 71: 3, 72: 1}
+depart---{68: 1}
+depend---{70: 1}
+detect---{69: 1, 71: 1}
+determin---{71: 1}
+develop---{68: 1, 71: 1}
+devic---{71: 1}
+differ---{71: 1}
+digit---{69: 2}
 display---{70: 1}
 doctor---{70: 2}
 donald---{68: 1}
@@ -109,38 +98,34 @@ due---{71: 1}
 e2e---{68: 1, 69: 4, 70: 2, 71: 3, 72: 1}
 each---{71: 1}
 edu---{70: 1}
-efficient---{71: 1}
+effici---{71: 1}
 effortless---{71: 1}
-electronic---{69: 1}
-emme---{68: 1, 69: 1, 70: 2, 71: 3, 72: 1}
-enter---{70: 1}
-entering---{68: 1}
-entities---{71: 1}
-environment---{68: 3, 69: 9, 70: 4, 71: 9, 72: 3}
-environments---{70: 1, 71: 1}
+electron---{69: 1}
+emm---{68: 1, 69: 1, 70: 2, 71: 3, 72: 1}
+enter---{68: 1, 70: 1}
+entiti---{71: 1}
+environ---{68: 3, 69: 9, 70: 5, 71: 10, 72: 3}
 esl---{68: 5, 69: 2, 70: 3, 71: 2, 72: 2}
-especially---{70: 1}
+especi---{70: 1}
 even---{71: 1}
-events---{69: 1, 71: 4}
-eventserver---{71: 1}
-evolution---{68: 1}
-examination---{70: 1}
-experience---{71: 2}
-experiences---{68: 3, 71: 1}
-experiential---{68: 6, 69: 2, 70: 2, 71: 5, 72: 3}
-experiments---{70: 1}
-experimets---{70: 1}
-faculty---{72: 1}
-falls---{69: 1}
-feeds---{70: 1}
+event---{69: 1, 71: 4}
+eventserv---{71: 1}
+evolut---{68: 1}
+examin---{70: 1}
+experi---{68: 3, 70: 1, 71: 3}
+experienti---{68: 6, 69: 2, 70: 2, 71: 5, 72: 3}
+experimet---{70: 1}
+faculti---{72: 1}
+fall---{69: 1}
+feed---{70: 1}
 first---{68: 1}
-focus---{71: 2}
+focu---{71: 2}
 for---{69: 2, 71: 4, 72: 1}
 form---{71: 1}
 from---{68: 1, 70: 1}
-functionality---{71: 1}
+function---{71: 1}
 fusion---{70: 1}
-future---{69: 2}
+futur---{69: 2}
 gao---{72: 1}
 gap---{68: 1}
 get---{70: 1}
@@ -148,9 +133,9 @@ go---{68: 1}
 gong---{72: 1}
 gupta---{69: 1}
 half---{71: 1}
-hamed---{69: 3, 72: 1}
+hame---{69: 3, 72: 1}
 han---{72: 1}
-happening---{70: 1}
+happen---{70: 1}
 he---{70: 1}
 health---{70: 2}
 held---{69: 1}
@@ -158,56 +143,50 @@ help---{71: 1}
 here---{71: 2}
 home---{68: 1, 69: 1, 70: 1, 71: 1, 72: 1}
 how---{70: 2}
-human---{71: 1}
-humans---{68: 3}
-ics---{68: 1, 69: 1, 70: 2, 71: 1, 72: 1}
+human---{68: 3, 71: 1}
+ic---{68: 1, 69: 1, 70: 2, 71: 1, 72: 1}
 icsc---{69: 1}
-ideas---{71: 1}
+idea---{71: 1}
 if---{70: 1}
-image---{69: 1, 70: 3}
-implementation---{71: 1}
-implemented---{71: 1}
+imag---{69: 1, 70: 3}
+implement---{71: 2}
 in---{68: 2, 69: 11, 70: 3, 71: 8}
-include---{72: 1}
-incoming---{71: 1}
-information---{68: 2, 71: 4, 72: 1}
-insights---{68: 1}
-instrumented---{71: 1}
-intelligent---{72: 1}
-interact---{70: 1}
-interactions---{71: 2}
-interactive---{69: 2}
-interests---{72: 1}
-international---{69: 2}
-irvine---{68: 1}
+includ---{72: 1}
+incom---{71: 1}
+inform---{68: 2, 71: 4, 72: 1}
+insight---{68: 1}
+instrument---{71: 1}
+intellig---{72: 1}
+interact---{69: 2, 70: 1, 71: 2}
+interest---{72: 1}
+intern---{69: 2}
+irvin---{68: 1}
 is---{68: 4, 70: 3, 71: 3}
 ish---{69: 3, 72: 1}
-its---{68: 1}
+it---{68: 1}
 jain---{69: 8, 72: 2}
 jose---{69: 1}
 joung---{72: 1}
-kankanhalli---{69: 1}
+kankanh---{69: 1}
 lab---{68: 3, 69: 2, 70: 2, 71: 2, 72: 2}
-lastly---{70: 1}
-liks---{70: 1}
-limited---{71: 1}
+lastli---{70: 1}
+lik---{70: 1}
+limit---{71: 1}
 line---{70: 1}
 link---{70: 1}
 live---{72: 1}
-looks---{70: 1}
+look---{70: 1}
 lower---{70: 1}
 major---{68: 1}
-majumder---{69: 1}
+majumd---{69: 1}
 make---{71: 1}
-manage---{71: 2}
-management---{68: 1, 69: 1, 70: 2, 71: 5, 72: 1}
-managing---{71: 1}
+manag---{68: 1, 69: 1, 70: 2, 71: 8, 72: 1}
+mani---{71: 1}
 manner---{71: 1}
-many---{71: 1}
 marker---{70: 1}
 mast---{69: 2}
 may---{71: 1}
-mechanism---{71: 1}
+mechan---{71: 1}
 media---{68: 1, 69: 6, 70: 2, 71: 9, 72: 1}
 medium---{71: 1}
 mingyan---{72: 1}
@@ -217,74 +196,67 @@ most---{71: 1}
 move---{70: 2}
 mukesh---{69: 1}
 multimedia---{69: 2, 71: 1, 72: 2}
-multimodal---{69: 1, 71: 1}
-multiple---{71: 2}
+multimod---{69: 1, 71: 1}
+multipl---{71: 2}
 must---{68: 1}
-natural---{71: 3}
-need---{70: 1}
-needs---{68: 1}
+natur---{71: 3}
+need---{68: 1, 70: 1}
 new---{71: 1}
 niagara---{69: 1}
 normal---{68: 1}
-notice---{70: 2}
+notic---{70: 2}
 now---{68: 1}
-nurse---{70: 2}
-object---{71: 1}
-objects---{71: 1}
-observation---{69: 1}
+nurs---{70: 2}
+object---{71: 2}
+observ---{69: 1}
 of---{68: 5, 69: 3, 70: 1, 71: 7}
 on---{69: 4, 70: 2, 71: 2}
-operations---{68: 2}
-optical---{69: 1}
+oper---{68: 2}
+optic---{69: 1}
 or---{70: 1, 71: 1}
-oracle---{72: 1}
-organizing---{71: 1}
+oracl---{72: 1}
+organ---{71: 1}
 other---{71: 1}
 our---{70: 1}
 out---{70: 1}
-papers---{70: 1}
+paper---{70: 1}
 paradigm---{71: 1}
 part---{68: 1}
 patient---{70: 2}
-people---{68: 1, 69: 1, 70: 1, 71: 1, 72: 1}
-personal---{70: 1}
+peopl---{68: 1, 69: 1, 70: 1, 71: 1, 72: 1}
+person---{70: 1}
 phase---{68: 2}
-photo---{70: 1}
-photos---{69: 2}
-physical---{70: 1}
+photo---{69: 2, 70: 1}
+physic---{70: 1}
 pinaki---{69: 2, 72: 1}
 pirsiavash---{69: 3, 72: 1}
-please---{70: 2}
-position---{71: 1}
-postdoctoral---{72: 1}
-powerful---{71: 1}
-presence---{71: 1}
+pleas---{70: 2}
+posit---{71: 1}
+postdoctor---{72: 1}
+power---{71: 1}
+presenc---{71: 1}
 present---{71: 1}
-primarily---{68: 1}
-proceedings---{69: 1}
-projected---{70: 1}
-projects---{68: 1, 69: 1, 70: 1, 71: 1, 72: 1}
+primarili---{68: 1}
+proceed---{69: 1}
+project---{68: 1, 69: 1, 70: 2, 71: 1, 72: 1}
 proper---{70: 1}
 psinha---{70: 1}
-publications---{68: 1, 69: 3, 70: 1, 71: 1, 72: 1}
-publicly---{71: 1}
-puts---{71: 1}
+public---{68: 1, 69: 3, 70: 1, 71: 1, 72: 1}
+publicli---{71: 1}
+put---{71: 1}
 qi---{72: 1}
 rafatirad---{69: 1, 72: 1}
 ramesh---{69: 8, 72: 1}
 real---{71: 1}
-realize---{68: 1}
-remote---{70: 2}
+realiz---{68: 1}
+remot---{70: 2}
 render---{71: 1}
-report---{69: 1}
-reports---{69: 2}
-represent---{71: 1}
-required---{71: 1}
-research---{68: 1, 69: 1, 70: 1, 71: 1, 72: 1}
-researchers---{68: 1}
-retrieval---{69: 1, 70: 1}
-right---{71: 1}
-rights---{70: 1}
+report---{69: 3}
+repres---{71: 1}
+requir---{71: 1}
+research---{68: 2, 69: 1, 70: 1, 71: 1, 72: 1}
+retriev---{69: 1, 70: 1}
+right---{70: 1, 71: 1}
 rishabh---{69: 3, 72: 1}
 room---{70: 2}
 run---{70: 1}
@@ -292,65 +264,55 @@ saini---{69: 1}
 san---{69: 1}
 santa---{69: 2}
 satish---{72: 1}
-scalable---{71: 1}
+scalabl---{71: 1}
 scherp---{72: 1}
 school---{68: 1}
-science---{68: 1, 69: 2}
-sciences---{68: 1}
+scienc---{68: 2, 69: 2}
 search---{72: 1}
 second---{71: 1}
 see---{70: 1, 71: 2}
-selected---{69: 1}
-semantic---{68: 1, 69: 2}
-semantics---{69: 1}
-sensors---{71: 1}
-separately---{71: 1}
+select---{69: 1}
+semant---{68: 1, 69: 3}
+sensor---{71: 1}
+separ---{71: 1}
 setareh---{69: 1, 72: 1}
-share---{71: 1}
-shared---{69: 1}
-show---{70: 1}
-shows---{70: 2}
+share---{69: 1, 71: 1}
+show---{70: 3}
 singh---{69: 5, 72: 1}
 sinha---{69: 2, 72: 1}
-situation---{71: 2}
-spaces---{69: 1}
-students---{72: 2}
-supported---{69: 1, 71: 1}
-system---{70: 2, 71: 3}
-systems---{68: 2, 69: 5, 70: 1, 71: 4, 72: 3}
-tagged---{70: 1}
-technical---{69: 3}
-technology---{69: 2}
-terms---{71: 1}
+situat---{71: 2}
+space---{69: 1}
+student---{72: 2}
+support---{69: 1, 71: 1}
+system---{68: 2, 69: 5, 70: 3, 71: 7, 72: 3}
+tag---{70: 1}
+technic---{69: 3}
+technolog---{69: 2}
+term---{71: 1}
 that---{68: 1, 70: 1, 71: 1}
 the---{68: 5, 69: 2, 70: 13, 71: 13}
 their---{71: 4}
 then---{68: 1}
 these---{71: 2}
 they---{70: 1, 71: 1}
+thi---{68: 1, 70: 3, 71: 1}
 third---{68: 1}
-this---{68: 1, 70: 3, 71: 1}
 to---{68: 7, 69: 4, 70: 10, 71: 12, 72: 1}
-together---{71: 1}
-towards---{68: 1, 69: 1}
-traditionally---{68: 1}
+togeth---{71: 1}
+toward---{68: 1, 69: 1}
+tradit---{68: 1}
 two---{70: 1}
-types---{71: 2}
+type---{71: 2}
 uc---{68: 1}
 uci---{68: 1, 69: 1, 70: 2, 71: 1, 72: 1}
 upper---{70: 1}
-use---{68: 1, 71: 1}
-used---{71: 1}
-user---{69: 1}
-users---{71: 3}
-uses---{68: 1}
-using---{69: 1, 70: 1, 71: 1}
+use---{68: 2, 69: 1, 70: 1, 71: 3}
+user---{69: 1, 71: 3}
 utz---{72: 1}
-vancouver---{69: 2}
-very---{71: 1}
+vancouv---{69: 2}
+veri---{71: 1}
 video---{69: 1, 70: 5}
-visual---{72: 1}
-visualization---{69: 1}
+visual---{69: 1, 72: 1}
 vivek---{69: 5, 72: 1}
 watch---{70: 1}
 way---{68: 1}
@@ -364,8 +326,7 @@ which---{71: 1}
 will---{71: 1}
 with---{68: 5, 69: 1, 70: 1, 71: 1}
 within---{68: 1, 71: 1}
-work---{69: 2, 71: 1}
-works---{68: 1}
+work---{68: 1, 69: 2, 71: 1}
 workshop---{69: 3}
 world---{71: 1}
 yan---{72: 1}

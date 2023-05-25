@@ -1,263 +1,254 @@
-0---{8328: 1}
-a---{8331: 11}
-abstraction---{8331: 1}
-accordingly---{8331: 1}
-achieved---{8331: 1}
-achieving---{8331: 1}
-across---{8331: 1}
-adapt---{8331: 1}
-adaptation---{8331: 1}
-aging---{8331: 1}
-aims---{8331: 1}
-all---{8331: 1}
-also---{8331: 1}
-among---{8331: 1}
-an---{8331: 2}
-analogy---{8331: 1}
-and---{8331: 16}
-andreas---{8329: 1, 8331: 1}
-applicability---{8331: 1}
-application---{8331: 1}
-applications---{8331: 1}
-approach---{8331: 2}
-are---{8331: 2}
-as---{8331: 10}
-at---{8329: 1, 8331: 2}
-authors---{8331: 1}
-autonomous---{8331: 1}
-baseline---{8331: 2}
-be---{8331: 3}
-because---{8331: 1}
-being---{8329: 1, 8331: 1}
-between---{8331: 1}
-braunschweigsafety---{8331: 1}
-by---{8329: 1, 8331: 4}
-california---{8331: 1}
-can---{8331: 3}
-case---{8331: 1}
-cases---{8331: 1}
-centralized---{8331: 2}
-click---{8329: 1}
-close---{8329: 1, 8331: 1}
-clusters---{8331: 1}
-collaboration---{8331: 1}
-combination---{8331: 1}
-combining---{8331: 1}
-comments---{8328: 1}
-complexity---{8331: 1}
-components---{8331: 2}
-componentspecific---{8331: 1}
-consequent---{8331: 1}
-continuously---{8331: 1}
-control---{8331: 4}
-controller---{8331: 1}
-controlling---{8331: 1}
-coordinating---{8331: 1}
-cope---{8331: 1}
-copyright---{8329: 1, 8331: 1}
-cost---{8331: 1}
-current---{8331: 1}
-dashboard---{8328: 1}
-demonstrate---{8331: 1}
-design---{8331: 3}
-desired---{8331: 1}
-determined---{8331: 1}
-different---{8331: 1}
-discuss---{8331: 1}
-done---{8329: 1, 8331: 2}
-draw---{8331: 1}
-driving---{8331: 1}
-dutt---{8331: 1}
-duttdistinguished---{8329: 1}
-dynamics---{8331: 1}
-effective---{8331: 1}
-efficiency---{8331: 1}
-embodied---{8331: 1}
-energy---{8331: 2}
-envisioning---{8331: 1}
-equipment---{8331: 1}
-ernst---{8331: 1}
-ernstprofessor---{8329: 1}
-even---{8331: 1}
-factories---{8331: 1}
-factory---{8329: 2, 8331: 6}
-fadi---{8329: 1, 8331: 1}
-financially---{8331: 1}
-following---{8331: 1}
-follows---{8331: 1}
-for---{8331: 2}
-formal---{8331: 2}
-functions---{8331: 2}
-future---{8331: 1}
-goal---{8331: 2}
-guarantee---{8331: 1}
-guarantees---{8331: 1}
-health---{8331: 1}
-heating---{8331: 1}
-here---{8329: 1}
-herkersdorf---{8331: 1}
-herkersdorffull---{8329: 1}
-hierarchical---{8331: 1}
-homeuci---{8329: 1, 8331: 1}
-how---{8331: 1}
-https---{8330: 2}
-hybrid---{8331: 1}
-illumination---{8331: 1}
-implies---{8331: 1}
-in---{8331: 9}
-inadequate---{8331: 1}
-includes---{8331: 1}
-information---{8329: 2, 8331: 4}
-infrastructure---{8331: 2}
-innovation---{8331: 2}
-instead---{8331: 2}
-international---{8331: 1}
-interrupting---{8331: 1}
-investigators---{8331: 3}
-involved---{8331: 1}
-ipf---{8329: 1, 8331: 8}
-irvinesoftware---{8331: 1}
-is---{8329: 1, 8331: 7}
-it---{8331: 1}
-key---{8331: 1}
-kurdahi---{8331: 1}
-kurdahiprofessor---{8329: 1}
-large---{8331: 1}
-layer---{8331: 2}
-learning---{8331: 2}
-levels---{8331: 1}
-logistics---{8331: 1}
-low---{8331: 1}
-machine---{8331: 1}
-maintaining---{8331: 1}
-manage---{8328: 1}
-manner---{8331: 1}
-manufacturing---{8331: 1}
-material---{8331: 1}
-means---{8331: 1}
-menu---{8329: 2, 8331: 2}
-metaphor---{8331: 1}
-methodological---{8331: 1}
-methods---{8331: 2}
-metrics---{8331: 1}
-microelectronic---{8331: 1}
-microelectronics---{8331: 1}
-microfluidics---{8331: 1}
-micromechanics---{8331: 1}
-model---{8331: 1}
-modularity---{8331: 1}
-monitoring---{8331: 1}
-monitors---{8331: 1}
-more---{8329: 1, 8331: 2}
-move---{8331: 1}
-mpsocs---{8331: 1}
-much---{8331: 3}
-multiple---{8331: 1}
-must---{8331: 2}
-münchenhardware---{8331: 1}
-necessary---{8331: 1}
-network---{8331: 1}
-new---{8331: 2}
-nick---{8329: 1, 8331: 1}
-nikil---{8329: 1, 8331: 1}
-not---{8331: 2}
-objective---{8331: 1}
-occurrences---{8331: 1}
-oceanwp---{8329: 1, 8331: 1}
-of---{8331: 13}
-offline---{8331: 1}
-operate---{8331: 1}
-operating---{8331: 1}
-operation---{8331: 2}
-operations---{8331: 3}
-orchestrates---{8331: 1}
-our---{8331: 2}
-overhead---{8331: 1}
-page---{8331: 1}
-paradigm---{8331: 2}
-parallel---{8331: 2}
-performance---{8331: 2}
-platform---{8331: 4}
-point---{8331: 1}
-pol---{8331: 1}
-possible---{8331: 1}
-principal---{8331: 3}
-processing---{8329: 2, 8331: 4}
-professor---{8329: 2}
-project---{8331: 3}
-projects---{8331: 1}
-provide---{8331: 1}
-providing---{8331: 1}
-reactive---{8331: 2}
-read---{8329: 1, 8331: 1}
-real---{8331: 1}
-reliability---{8331: 1}
-represents---{8331: 1}
-research---{8331: 2}
-rolf---{8329: 1, 8331: 1}
-runtime---{8331: 1}
-safety---{8331: 1}
-scalability---{8331: 1}
-scale---{8331: 2}
-security---{8331: 1}
-selforganizing---{8331: 1}
-senses---{8331: 1}
-shift---{8331: 1}
-should---{8331: 1}
-show---{8331: 1}
-similar---{8331: 1}
-similarities---{8331: 1}
-similarly---{8331: 1}
-single---{8331: 1}
-site---{8328: 1}
-siteteam---{8329: 1, 8331: 1}
-sitetub---{8329: 1, 8331: 1}
-sitetum---{8329: 1, 8331: 1}
-sporting---{8331: 1}
-static---{8331: 1}
-status---{8331: 1}
-storage---{8331: 1}
-such---{8331: 5}
-supplies---{8331: 1}
-supported---{8331: 1}
-system---{8331: 4}
-systems---{8331: 4}
-targeting---{8331: 1}
-team---{8329: 1}
-techniques---{8331: 1}
-technische---{8331: 2}
-temperature---{8331: 1}
-that---{8329: 1, 8331: 3}
-the---{8329: 1, 8331: 23}
-theme---{8329: 1, 8331: 1}
-this---{8331: 6}
-time---{8331: 2}
-to---{8329: 1, 8331: 7}
-towards---{8331: 1}
-transport---{8331: 1}
-tub---{8329: 1}
-tum---{8329: 1}
-uci---{8329: 2}
-unable---{8331: 1}
-uncorrelated---{8331: 1}
-universities---{8331: 1}
-university---{8331: 1}
-universität---{8331: 2}
-use---{8331: 2}
-using---{8331: 2}
-vehicles---{8331: 1}
-verification---{8331: 1}
-view---{8328: 1}
-waste---{8331: 1}
-water---{8331: 1}
-we---{8331: 1}
-which---{8331: 2}
-while---{8331: 1}
-why---{8331: 1}
-will---{8331: 1}
-with---{8331: 3}
-without---{8331: 1}
-wordpress---{8328: 2, 8330: 1}
-work---{8329: 1, 8331: 1}
-workload---{8331: 1}
-yes---{8328: 2}
+06---{283: 2}
+07---{283: 7}
+08---{283: 6}
+1---{283: 1}
+2006---{283: 1}
+2007---{283: 3}
+2008---{283: 3}
+257---{283: 1}
+273---{283: 1}
+285---{283: 1}
+300---{283: 1}
+4468---{283: 1}
+4763---{283: 1}
+5---{283: 1}
+a---{282: 1, 283: 4, 284: 1, 285: 7, 286: 4, 287: 1}
+abstract---{285: 2}
+achiev---{282: 1, 285: 1}
+across---{285: 1}
+adapt---{283: 2, 285: 3}
+also---{283: 1}
+an---{285: 1}
+analysi---{283: 1, 285: 3}
+analyz---{285: 1}
+and---{283: 7, 284: 1, 285: 5, 286: 1}
+applic---{283: 2, 285: 2}
+approach---{283: 2, 285: 2}
+apr---{283: 2}
+architectur---{283: 1}
+as---{283: 1, 285: 1}
+associ---{285: 1, 287: 1}
+at---{285: 2}
+autom---{283: 1}
+award---{283: 2}
+az---{283: 1}
+behavior---{283: 1, 285: 1}
+benefit---{285: 1}
+best---{283: 2}
+bibtex---{283: 5}
+ca---{283: 1}
+can---{285: 2}
+carolyn---{283: 1, 287: 1}
+case---{285: 1}
+cec---{282: 1}
+chancellor---{287: 1}
+check---{285: 1}
+citat---{283: 1}
+combin---{283: 1}
+composit---{285: 1}
+comput---{283: 1, 287: 1}
+confer---{283: 2}
+conjunct---{283: 1}
+consider---{285: 1}
+constraint---{283: 1}
+construct---{283: 1}
+coordin---{285: 1}
+core---{285: 1}
+cpsweek---{283: 1}
+cross---{283: 1}
+cyber---{283: 1}
+date---{283: 2}
+deepli---{283: 1}
+demonstr---{285: 1}
+design---{283: 1}
+determin---{285: 1}
+develop---{285: 1}
+devic---{285: 1}
+differ---{285: 1}
+distribut---{283: 3, 286: 1}
+dutt---{283: 6, 287: 1}
+dynam---{285: 4}
+each---{285: 2}
+embed---{282: 1, 283: 6, 284: 1, 285: 4, 286: 2, 287: 1}
+employ---{285: 1}
+enabl---{285: 2}
+energi---{283: 1}
+enew---{282: 1}
+esweek---{283: 1}
+europ---{283: 1}
+evolv---{285: 1}
+exampl---{285: 1}
+exchang---{285: 1}
+execut---{283: 1, 285: 2}
+feedback---{285: 2}
+final---{285: 1}
+fmood---{283: 2}
+for---{282: 1, 283: 7, 284: 1, 285: 6, 286: 3, 287: 1}
+forg---{286: 1}
+formal---{282: 1, 283: 6, 284: 1, 285: 5, 286: 1, 287: 1}
+format---{283: 3}
+forum---{283: 2}
+foundat---{284: 1}
+framework---{283: 1, 285: 1, 286: 1}
+from---{285: 2}
+further---{285: 1}
+germani---{283: 1}
+graduat---{287: 1}
+greatli---{285: 1}
+home---{282: 2, 283: 2, 284: 2, 285: 2, 286: 2, 287: 2}
+http---{282: 2}
+ic---{282: 1}
+idea---{283: 1, 285: 1}
+ieee---{283: 3}
+ifip---{283: 1}
+impact---{285: 1}
+in---{283: 6, 285: 2}
+instrument---{283: 1}
+integr---{285: 1}
+interact---{285: 1}
+intern---{283: 2, 287: 2}
+irvin---{287: 3}
+is---{285: 4}
+issu---{283: 1}
+it---{285: 2}
+iter---{285: 1}
+januari---{283: 1}
+jose---{283: 1}
+jun---{283: 1}
+kim---{283: 6, 287: 1}
+languag---{286: 1}
+last---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+layer---{283: 1, 285: 4}
+limit---{285: 1}
+link---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+lnc---{283: 2}
+loop---{285: 1}
+loui---{283: 1}
+manag---{285: 1, 287: 1}
+manner---{285: 1}
+mar---{283: 1}
+massagu---{283: 1}
+maud---{286: 1}
+mehrotra---{283: 1}
+method---{283: 2, 285: 1}
+methodolog---{282: 1, 283: 1, 284: 1, 285: 2, 286: 1, 287: 1}
+middlewar---{285: 1, 286: 1}
+minim---{283: 1}
+minyoung---{287: 1}
+mo---{283: 1}
+mobil---{282: 1, 283: 1, 284: 1, 285: 6, 286: 1, 287: 1}
+model---{283: 1, 285: 2}
+modifi---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+multimedia---{285: 1}
+multipl---{285: 1}
+munich---{283: 1}
+my---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+nalini---{287: 1}
+nation---{284: 1}
+news---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+nikil---{287: 1}
+noteworthi---{282: 1}
+novel---{285: 1}
+number---{283: 1}
+object---{285: 1}
+observ---{283: 1}
+of---{282: 1, 283: 5, 284: 1, 285: 14, 286: 2, 287: 1}
+on---{283: 5, 285: 1}
+one---{285: 1}
+onlin---{283: 2}
+open---{283: 1}
+oper---{285: 1}
+optim---{283: 1, 285: 3, 286: 1}
+our---{285: 1}
+over---{285: 1}
+overal---{283: 1}
+own---{285: 1}
+page---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+papho---{283: 1}
+paramet---{283: 1, 285: 4}
+part---{283: 2}
+particip---{285: 1}
+pdf---{283: 5}
+peopl---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+physic---{283: 1}
+pleas---{283: 1}
+polici---{283: 1, 285: 2}
+possibl---{285: 1}
+pp---{283: 2}
+predict---{285: 1}
+probabilist---{283: 1}
+professor---{287: 2}
+program---{287: 1}
+properti---{285: 2}
+propos---{285: 3}
+provis---{285: 1}
+public---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+publish---{283: 1}
+quantifi---{285: 1}
+quantit---{285: 1}
+reconfigur---{283: 1}
+refer---{283: 1}
+refin---{283: 1, 285: 2}
+reflect---{286: 1}
+ren---{283: 1}
+resourc---{285: 2}
+restrict---{285: 1}
+result---{285: 1}
+review---{283: 1}
+rta---{283: 2}
+rtss---{283: 2}
+runtim---{285: 1}
+s---{287: 1}
+salzburg---{283: 1}
+san---{283: 1}
+satwar---{286: 1}
+scienc---{284: 1}
+scientist---{287: 1}
+second---{283: 1}
+semant---{283: 2}
+sentient---{286: 1}
+session---{283: 1}
+sigb---{283: 2}
+softwar---{286: 1}
+space---{283: 1, 286: 1}
+special---{283: 1}
+specif---{285: 3}
+sponsor---{282: 1, 283: 1, 284: 1, 285: 1, 286: 1, 287: 1}
+sri---{287: 2}
+statist---{285: 2}
+stehr---{283: 4, 287: 1}
+student---{287: 1}
+studi---{285: 1}
+symposium---{283: 3}
+system---{282: 1, 283: 11, 284: 1, 285: 9, 286: 3, 287: 1}
+talcott---{283: 5, 287: 1}
+technolog---{283: 2}
+test---{283: 1}
+that---{285: 3}
+the---{283: 1, 285: 10}
+then---{285: 1}
+thesi---{285: 1}
+thi---{285: 2}
+through---{285: 1}
+time---{283: 1, 285: 1}
+to---{283: 2, 285: 3}
+tradeoff---{285: 1}
+tucson---{283: 1}
+tune---{282: 1, 283: 2, 284: 1, 285: 2, 286: 1, 287: 1}
+uc---{287: 3}
+under---{285: 1}
+usa---{283: 3}
+use---{285: 2}
+valid---{283: 1}
+varieti---{285: 1}
+variou---{285: 1}
+venkatasubramanian---{283: 6, 287: 1}
+verif---{283: 1, 285: 1}
+verifi---{283: 2}
+violat---{285: 1}
+volum---{283: 1}
+we---{285: 2}
+web---{283: 2}
+with---{283: 2, 285: 3}
+workshop---{283: 1}
+xtune---{282: 1, 283: 2, 284: 1, 285: 2, 286: 1, 287: 1}

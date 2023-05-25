@@ -17,15 +17,16 @@ import time
 word_freq = defaultdict(int)
 ID_dict = defaultdict(str)  # {doc_id: url}
 ID_count = 1
-TEST_SIZE = 999999
+TEST_SIZE = 99
 
-batch_size = 20000  # 20000
+batch_size = 200  # 20000
 file_index = 1
 
 file_list = []
 
 index_dict = InvertedIndex()
 
+ps = PorterStemmer()
 
 def createID(url):
     global ID_count
@@ -122,11 +123,12 @@ def tokenize(text, doc_ID):
     for token in tokens:
         word = token.lower()
         if word.isalnum():
-            word_freq[word] += 1
-            if doc_ID in index_dict.index[word]:
-                index_dict.index[word][doc_ID] += 1
+            word2 = ps.stem(word)
+            word_freq[word2] += 1
+            if doc_ID in index_dict.index[word2]:
+                index_dict.index[word2][doc_ID] += 1
             else:
-                index_dict.index[word][doc_ID] = 1
+                index_dict.index[word2][doc_ID] = 1
     return list(set(tokens))
 
 
