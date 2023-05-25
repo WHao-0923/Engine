@@ -1,0 +1,1382 @@
+0---{12760: 9, 12762: 6}
+1---{12762: 1}
+12---{12763: 1}
+18---{12758: 1, 12763: 1}
+19---{12759: 1}
+19th---{12763: 1}
+2---{12762: 1}
+20---{12757: 1}
+2013---{12763: 2}
+2014---{12763: 2}
+2015---{12763: 6}
+2016---{12755: 2, 12757: 1, 12759: 2, 12763: 7}
+2017---{12755: 1, 12758: 1, 12759: 2, 12763: 6}
+2018---{12755: 2, 12763: 5}
+2019---{12755: 1, 12761: 1, 12763: 2}
+22---{12761: 1}
+2541---{12759: 1}
+3---{12755: 1, 12759: 1, 12762: 1}
+39th---{12763: 1}
+3g---{12759: 5}
+4---{12759: 3, 12762: 1}
+5---{12762: 1}
+50---{12759: 1}
+53---{12763: 1}
+6---{12759: 1}
+7---{12763: 1}
+9th---{12763: 1}
+a---{12757: 12, 12759: 86, 12763: 5}
+ability---{12759: 3}
+able---{12759: 1}
+about---{12759: 2}
+above---{12759: 2}
+abstract---{12763: 1}
+abstraction---{12759: 1}
+abstractions---{12757: 1}
+academic---{12757: 1}
+accelerometer---{12759: 7}
+accepted---{12759: 1}
+access---{12757: 1, 12759: 5}
+accessible---{12759: 1}
+accommodating---{12759: 1}
+according---{12759: 1}
+account---{12759: 1}
+accuracy---{12759: 2}
+accurate---{12759: 1}
+acm---{12759: 1}
+acquired---{12759: 1}
+acquisition---{12759: 2}
+across---{12759: 1}
+act---{12757: 1, 12759: 1}
+actions---{12759: 1}
+activating---{12759: 1}
+activation---{12759: 1}
+active---{12759: 1}
+actively---{12759: 1}
+activities---{12757: 1, 12759: 3}
+activity---{12757: 1}
+actuate---{12757: 1}
+adaptation---{12759: 5}
+adaptations---{12759: 1}
+adaptive---{12759: 1, 12763: 3}
+adaptively---{12759: 1}
+add---{12759: 1}
+additional---{12759: 2}
+additionally---{12759: 1}
+address---{12759: 2}
+addresses---{12759: 1}
+addressing---{12759: 1}
+adjust---{12759: 1}
+adls---{12759: 1}
+adoption---{12759: 1}
+advantages---{12759: 1}
+afrin---{12763: 2}
+aim---{12759: 2}
+aims---{12757: 1, 12759: 1}
+air---{12757: 1, 12759: 5, 12763: 1}
+alert---{12757: 1, 12762: 5}
+alerting---{12755: 1, 12757: 2, 12758: 1, 12763: 2}
+alerts---{12757: 1, 12759: 3}
+alexander---{12761: 2}
+algorithm---{12759: 5}
+algorithms---{12759: 1}
+alhassoun---{12761: 1, 12763: 2}
+all---{12757: 1, 12759: 7}
+allocation---{12763: 1}
+allow---{12759: 1}
+almomen---{12761: 1, 12763: 2}
+already---{12759: 1}
+also---{12757: 1, 12759: 17}
+alternatives---{12759: 1}
+ambient---{12759: 2}
+america---{12758: 1}
+among---{12759: 2}
+an---{12757: 1, 12759: 23, 12763: 2}
+analysis---{12759: 4}
+analytic---{12759: 3}
+analytics---{12759: 8, 12763: 1}
+analyze---{12757: 1, 12759: 1}
+and---{12755: 1, 12757: 22, 12758: 1, 12759: 122, 12763: 31}
+andrew---{12761: 1}
+android---{12759: 1}
+anomalous---{12759: 2}
+another---{12759: 1}
+any---{12759: 2}
+apartments---{12759: 1}
+apis---{12759: 2}
+app---{12757: 1}
+application---{12759: 9}
+applications---{12757: 2, 12759: 6}
+approach---{12759: 5}
+approaches---{12759: 2}
+april---{12755: 1, 12757: 1, 12761: 1}
+aqbox---{12763: 1}
+architecture---{12759: 13, 12763: 1}
+archives---{12755: 2}
+arcy---{12763: 1}
+are---{12757: 2, 12759: 19}
+area---{12759: 2}
+areas---{12757: 1}
+arm---{12763: 1}
+around---{12757: 1, 12759: 1}
+as---{12757: 1, 12759: 23}
+ascertain---{12759: 1}
+asia---{12763: 1}
+aside---{12759: 1}
+assistance---{12759: 1}
+assorted---{12757: 1}
+assumptions---{12759: 1}
+at---{12757: 3, 12759: 8}
+audio---{12759: 1}
+augment---{12759: 2}
+augmented---{12763: 1}
+authorized---{12759: 1}
+automatically---{12757: 2, 12759: 1}
+availability---{12759: 3}
+available---{12759: 4}
+awareness---{12755: 1, 12757: 3, 12758: 1, 12759: 3, 12763: 2}
+b---{12759: 1}
+babu---{12763: 2}
+back---{12759: 1}
+backbone---{12759: 1}
+backend---{12759: 1}
+background---{12759: 1}
+backpack---{12759: 1}
+balance---{12759: 1}
+balanced---{12759: 1}
+baltimore---{12761: 1}
+band---{12759: 1}
+bandwidth---{12759: 1}
+bangladesh---{12757: 1, 12759: 1}
+base---{12759: 1}
+based---{12759: 9}
+bases---{12759: 1}
+basic---{12759: 2}
+battery---{12759: 2}
+be---{12757: 1, 12759: 19}
+because---{12759: 1}
+been---{12757: 1, 12759: 6}
+being---{12759: 4}
+believe---{12759: 2}
+belong---{12759: 1}
+below---{12759: 1}
+benefit---{12759: 1}
+benefits---{12757: 1}
+benson---{12761: 1, 12763: 8}
+better---{12759: 2}
+between---{12759: 4}
+bicycle---{12759: 1}
+binary---{12759: 1}
+bithika---{12761: 1}
+ble---{12759: 2}
+bluetooth---{12759: 6}
+board---{12759: 2}
+body---{12759: 1}
+both---{12759: 3}
+bouloukakis---{12763: 1}
+box---{12763: 1}
+boxes---{12759: 1}
+brainstorm---{12757: 1}
+break---{12759: 1}
+bring---{12757: 1}
+broad---{12757: 1}
+broader---{12759: 1}
+broker---{12759: 1}
+brought---{12759: 2}
+budget---{12759: 3}
+budgeted---{12759: 1}
+building---{12757: 1}
+built---{12759: 3}
+businesses---{12759: 1}
+but---{12759: 4}
+by---{12759: 26}
+cabling---{12759: 1}
+calibration---{12763: 1}
+california---{12757: 1, 12761: 1, 12763: 2}
+called---{12759: 1}
+calling---{12759: 1}
+camera---{12759: 1}
+cameras---{12759: 1}
+campus---{12759: 3, 12761: 1}
+can---{12757: 1, 12759: 18}
+capabilities---{12759: 1}
+capable---{12759: 1}
+capacity---{12759: 1}
+capital---{12759: 1}
+captiva---{12761: 1}
+capture---{12759: 2, 12763: 1}
+captured---{12759: 1}
+case---{12759: 2}
+caulfield---{12761: 1}
+caused---{12759: 1}
+cc---{12759: 1}
+cellular---{12759: 3}
+central---{12759: 1}
+chakravarthi---{12761: 1, 12763: 1}
+challenge---{12758: 1, 12759: 1}
+challenges---{12757: 1, 12759: 1}
+change---{12759: 1}
+changes---{12759: 1}
+changing---{12759: 1}
+characteristics---{12759: 1}
+characterizing---{12759: 1}
+charles---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+cheap---{12757: 1}
+chemical---{12759: 1}
+cheng---{12763: 1}
+child---{12759: 1}
+children---{12759: 1}
+chip---{12759: 1}
+choice---{12759: 2}
+chonnam---{12761: 1}
+choosing---{12759: 1}
+cities---{12759: 3}
+click---{12755: 1, 12759: 1}
+client---{12759: 6}
+close---{12762: 5}
+cloud---{12757: 1, 12758: 2, 12759: 17, 12763: 4}
+cloudcom---{12759: 1, 12763: 1}
+code---{12759: 1}
+cohn---{12763: 1}
+collaborate---{12757: 1}
+collaborative---{12759: 1}
+collected---{12759: 4}
+collecting---{12759: 1}
+collection---{12757: 1, 12759: 10, 12763: 2}
+collector---{12759: 1}
+collectors---{12763: 1}
+combined---{12759: 2}
+combines---{12759: 1}
+combining---{12759: 1}
+comes---{12759: 1}
+coming---{12759: 3}
+commodity---{12757: 1}
+common---{12757: 1, 12759: 1}
+commonly---{12759: 1}
+communicate---{12759: 1}
+communication---{12757: 1, 12759: 10}
+communications---{12759: 3, 12763: 7}
+communities---{12757: 1, 12763: 1}
+community---{12755: 2, 12757: 7, 12758: 1, 12759: 11, 12763: 6}
+compared---{12759: 2}
+competing---{12759: 1}
+complete---{12759: 2}
+completely---{12759: 1}
+complex---{12763: 1}
+components---{12759: 1}
+composition---{12759: 1}
+computer---{12763: 2}
+computing---{12759: 1, 12763: 10}
+concept---{12759: 2}
+condition---{12759: 2}
+conditions---{12759: 1}
+conduct---{12759: 3}
+conducted---{12759: 2}
+conference---{12759: 2, 12763: 13}
+conferences---{12763: 1}
+confirm---{12757: 2, 12759: 1}
+congested---{12759: 1}
+connect---{12757: 1}
+connected---{12757: 1, 12759: 2}
+connection---{12759: 1}
+connections---{12759: 4}
+connectivity---{12759: 3}
+connects---{12759: 1}
+consider---{12759: 1}
+considerations---{12759: 1}
+considered---{12759: 1}
+consists---{12759: 1}
+constant---{12759: 1}
+constrained---{12759: 3, 12763: 1}
+constraints---{12759: 2}
+constructing---{12759: 1}
+consumes---{12759: 1}
+consumption---{12759: 4}
+contact---{12757: 1}
+contacting---{12757: 1, 12759: 1}
+contacts---{12759: 1}
+container---{12759: 1}
+containers---{12759: 2}
+contaminant---{12759: 1}
+content---{12759: 2}
+context---{12759: 4}
+continuously---{12759: 1}
+control---{12759: 2}
+controller---{12759: 5}
+controllers---{12759: 1}
+conventional---{12759: 1}
+cooccurrence---{12759: 1}
+correlated---{12759: 1}
+corresponding---{12759: 2}
+cost---{12757: 2, 12759: 3}
+costly---{12759: 2}
+cots---{12763: 1}
+could---{12759: 2}
+county---{12757: 1, 12758: 1, 12759: 1, 12761: 1}
+course---{12759: 1}
+court---{12759: 1}
+coverage---{12759: 4}
+cps---{12755: 3, 12757: 1}
+criteria---{12759: 1}
+critical---{12759: 1}
+crowd---{12763: 1}
+crowdsensing---{12763: 1}
+csn---{12759: 2}
+current---{12759: 5}
+custom---{12759: 1}
+d---{12763: 1}
+daily---{12759: 2}
+damage---{12759: 1}
+damaged---{12759: 1}
+dan---{12761: 1}
+darcy---{12763: 1}
+dashboard---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12760: 2, 12761: 1, 12762: 2, 12763: 1}
+data---{12757: 2, 12759: 49, 12763: 7}
+dec---{12763: 2}
+december---{12758: 1, 12759: 1}
+decentralize---{12759: 1}
+decentralized---{12759: 1, 12763: 1}
+decides---{12759: 1}
+decisions---{12759: 1}
+deeper---{12759: 1}
+degree---{12759: 3, 12763: 1}
+delivery---{12759: 1, 12763: 1}
+demo---{12758: 2, 12759: 1}
+demonstrate---{12759: 1}
+density---{12759: 1}
+depend---{12759: 1}
+dependencies---{12759: 1}
+depends---{12759: 1}
+deploy---{12757: 2, 12759: 1}
+deployed---{12757: 2, 12759: 9}
+deploying---{12759: 2}
+deployment---{12759: 9}
+deployments---{12755: 1, 12757: 1, 12759: 7, 12763: 3}
+derived---{12759: 1}
+design---{12759: 5, 12763: 2}
+designed---{12759: 4}
+detailed---{12759: 1}
+details---{12757: 1}
+detect---{12757: 1, 12759: 1}
+detected---{12759: 3}
+detecting---{12759: 2}
+detection---{12759: 6}
+detects---{12759: 1}
+determine---{12759: 1}
+determined---{12759: 1}
+develop---{12759: 2}
+developed---{12759: 4}
+developing---{12759: 4}
+develops---{12759: 1}
+device---{12759: 4, 12760: 1}
+devices---{12757: 1, 12759: 12}
+dhaka---{12759: 3}
+dht11---{12759: 1}
+dictate---{12759: 1}
+different---{12759: 4, 12760: 1}
+dimensions---{12759: 1}
+direction---{12759: 1}
+disaster---{12759: 1, 12763: 2}
+disasters---{12759: 1}
+discovery---{12757: 1}
+disparate---{12757: 1}
+dispatchers---{12757: 1}
+disrupting---{12759: 1}
+disruptions---{12759: 1}
+disruptive---{12759: 1}
+disseminated---{12759: 1}
+disseminates---{12759: 1}
+dissemination---{12759: 1, 12763: 1}
+distance---{12759: 1}
+distributed---{12757: 1, 12759: 2, 12763: 1}
+distribution---{12759: 2}
+do---{12759: 3}
+docker---{12759: 3}
+does---{12759: 1}
+done---{12759: 1}
+dongle---{12759: 1}
+download---{12758: 1}
+drawbacks---{12759: 2}
+due---{12759: 5}
+during---{12759: 2, 12763: 1}
+dynamic---{12759: 4, 12763: 1}
+dynamically---{12759: 3}
+dynamicity---{12763: 1}
+each---{12759: 11}
+early---{12763: 1}
+earthquake---{12763: 1}
+earthquakes---{12759: 1}
+easy---{12759: 1}
+edge---{12759: 16, 12763: 1}
+edu---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+efficient---{12759: 1, 12763: 2}
+effort---{12757: 2, 12759: 1}
+efforts---{12757: 3, 12759: 1}
+eighth---{12763: 1}
+either---{12759: 1}
+elaborate---{12759: 1}
+embedded---{12759: 1}
+emergencies---{12759: 1}
+emergency---{12757: 5, 12759: 2, 12763: 2}
+empower---{12759: 1}
+enable---{12759: 4}
+enabled---{12757: 1, 12759: 1}
+enables---{12759: 1}
+enabling---{12755: 1, 12757: 1, 12759: 3}
+encoding---{12759: 1}
+energy---{12755: 1, 12759: 4}
+enhance---{12759: 1}
+enhanced---{12759: 1}
+enhancing---{12755: 1, 12759: 1, 12763: 1}
+ensure---{12759: 1}
+entails---{12757: 1}
+entries---{12759: 1}
+envelope---{12759: 1}
+environment---{12759: 3}
+environmental---{12757: 2}
+enviroscale---{12759: 5}
+envisioned---{12759: 1}
+equipped---{12759: 1}
+essential---{12759: 1}
+estimate---{12759: 1}
+ethernet---{12759: 1}
+evaluate---{12757: 1, 12759: 1}
+evaluation---{12759: 1}
+even---{12759: 3}
+event---{12757: 1, 12759: 6, 12760: 1}
+events---{12757: 3, 12759: 11, 12760: 1, 12763: 1}
+eventually---{12759: 1}
+everyone---{12757: 1}
+example---{12759: 2}
+examples---{12759: 1}
+exceed---{12759: 1}
+exchange---{12757: 1, 12759: 5, 12763: 2}
+execute---{12759: 1}
+exercise---{12759: 1}
+exist---{12759: 1}
+existing---{12759: 2}
+expand---{12757: 1, 12759: 1}
+expanded---{12759: 1}
+expensive---{12759: 2}
+experience---{12759: 1}
+experiences---{12759: 3}
+experiment---{12759: 3}
+experimental---{12759: 2}
+exploiting---{12759: 1}
+explore---{12759: 4}
+explored---{12759: 5}
+exploring---{12759: 2}
+explosive---{12757: 1}
+exposing---{12759: 1}
+extend---{12757: 2, 12759: 2}
+extended---{12759: 1}
+extending---{12759: 2}
+extensions---{12759: 1}
+extensive---{12759: 1}
+external---{12759: 1, 12761: 1}
+extract---{12759: 2}
+extraction---{12759: 3}
+extreme---{12759: 3, 12761: 1}
+face---{12759: 1}
+facilitate---{12759: 1}
+facilitated---{12759: 1}
+facilitates---{12759: 1}
+facility---{12757: 1, 12759: 3}
+factor---{12759: 1}
+factors---{12757: 1}
+fading---{12759: 1}
+failure---{12759: 2}
+failures---{12759: 3}
+fair---{12763: 1}
+fall---{12759: 5}
+falls---{12759: 1}
+fast---{12759: 1}
+feature---{12759: 1}
+features---{12759: 1}
+feet---{12759: 1}
+field---{12759: 1}
+files---{12755: 1, 12759: 1}
+fire---{12757: 1}
+firedex---{12763: 1}
+fires---{12759: 1}
+first---{12757: 1, 12759: 6, 12763: 1}
+flexible---{12759: 2}
+flood---{12760: 1, 12762: 2}
+florida---{12763: 1}
+flow---{12759: 4}
+focus---{12759: 2}
+focused---{12759: 2}
+focusing---{12757: 1}
+fog---{12763: 1}
+follows---{12759: 1}
+footprint---{12759: 1}
+for---{12755: 1, 12757: 5, 12758: 1, 12759: 39, 12763: 8}
+forcing---{12759: 1}
+formalized---{12759: 1}
+format---{12758: 1}
+forms---{12759: 1}
+found---{12759: 1}
+four---{12759: 1}
+fracchia---{12763: 1}
+free---{12759: 1}
+from---{12759: 25, 12763: 1}
+fsr---{12759: 1}
+further---{12759: 2}
+furthermore---{12759: 1}
+future---{12759: 2}
+gas---{12757: 1, 12760: 1, 12762: 2, 12763: 1}
+gateway---{12759: 1}
+gather---{12759: 1}
+gathered---{12759: 4}
+gathering---{12763: 1}
+generation---{12759: 1}
+geocron---{12755: 1, 12759: 4}
+geographically---{12759: 1}
+given---{12759: 2}
+gives---{12759: 1}
+global---{12759: 1, 12763: 2}
+globecom---{12763: 1}
+goal---{12759: 1}
+goals---{12757: 1}
+good---{12759: 1}
+government---{12757: 1, 12759: 1}
+gprs---{12759: 1}
+gps---{12759: 2}
+graduate---{12761: 9}
+grant---{12763: 1}
+green---{12763: 1}
+ground---{12759: 3}
+group---{12759: 1}
+guoxi---{12761: 1}
+gyroscope---{12759: 1}
+han---{12763: 2}
+hand---{12759: 2}
+handle---{12759: 2}
+handling---{12759: 1}
+happens---{12759: 1}
+hardware---{12759: 1}
+has---{12757: 1, 12759: 7}
+have---{12759: 14}
+healthcare---{12759: 1}
+heavily---{12759: 1}
+height---{12759: 1}
+help---{12759: 4}
+hence---{12759: 1}
+hera---{12763: 2}
+here---{12759: 2}
+heterogeneity---{12759: 1}
+heterogeneous---{12755: 1, 12757: 1, 12759: 1, 12763: 1}
+heuristics---{12759: 1}
+hierarchical---{12759: 1}
+high---{12759: 2, 12760: 1, 12761: 1}
+his---{12759: 1}
+hoffman---{12761: 1, 12763: 2}
+home---{12755: 1, 12757: 3, 12758: 1, 12759: 1, 12760: 1, 12761: 1, 12762: 1, 12763: 1}
+homes---{12759: 1}
+hong---{12763: 4}
+host---{12759: 1}
+housing---{12757: 1}
+how---{12759: 2}
+however---{12759: 2}
+hsu---{12759: 1, 12761: 1, 12763: 4}
+https---{12763: 1}
+hua---{12759: 1, 12761: 4}
+huang---{12761: 1}
+human---{12759: 3}
+humanitarian---{12763: 1}
+humidity---{12759: 1}
+hybrid---{12759: 1, 12763: 1}
+i---{12759: 1}
+icdcs---{12763: 1}
+ics---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+id---{12760: 1}
+idea---{12759: 2}
+ideally---{12759: 1}
+ideas---{12757: 1}
+identify---{12759: 1}
+identifying---{12757: 1}
+ieee---{12755: 2, 12759: 3, 12763: 12}
+if---{12759: 2, 12760: 1}
+igsc---{12763: 1}
+ii---{12759: 1}
+illustrate---{12759: 1}
+image---{12759: 2}
+images---{12759: 2}
+immediate---{12759: 1}
+impact---{12759: 1}
+impacted---{12759: 1}
+implementation---{12759: 2, 12763: 2}
+implemented---{12759: 6}
+importance---{12759: 2, 12760: 1}
+important---{12759: 2}
+improve---{12759: 5}
+improved---{12759: 4}
+improvement---{12759: 1}
+improving---{12759: 2, 12763: 1}
+in---{12755: 2, 12757: 10, 12758: 1, 12759: 92, 12763: 20}
+inaccuracies---{12759: 1}
+includes---{12759: 2}
+including---{12757: 1, 12759: 2}
+incoming---{12759: 1}
+incomplete---{12759: 1}
+incorporate---{12759: 1}
+incorporated---{12759: 1}
+incorporates---{12759: 2}
+incorporating---{12759: 1}
+incremental---{12757: 2}
+indicative---{12759: 1}
+individual---{12755: 1, 12757: 1, 12759: 1}
+industry---{12757: 1}
+inexpensive---{12759: 1}
+infeasible---{12759: 1}
+infocom---{12755: 1, 12763: 2}
+information---{12759: 12, 12763: 1}
+infrastructure---{12759: 6, 12763: 1}
+infrastructures---{12759: 3}
+initial---{12759: 7}
+initiate---{12757: 1}
+innovation---{12758: 1}
+input---{12759: 2}
+inside---{12759: 1}
+inspired---{12759: 1}
+installation---{12759: 1}
+installations---{12759: 1}
+instance---{12759: 2}
+instances---{12759: 1}
+instead---{12759: 3}
+integrate---{12759: 1}
+integrated---{12759: 2}
+integrates---{12759: 1}
+integrating---{12759: 1}
+integration---{12757: 1, 12759: 2}
+interest---{12759: 5}
+interesting---{12759: 1}
+interference---{12759: 1}
+intermediate---{12759: 2}
+intermittent---{12759: 2}
+international---{12759: 1, 12763: 10}
+internet---{12755: 1, 12757: 3, 12759: 4, 12763: 1}
+interoperability---{12759: 2}
+intervals---{12759: 3}
+intervention---{12759: 1}
+into---{12757: 1, 12759: 6}
+introducing---{12759: 1}
+intuition---{12759: 1}
+intuitive---{12759: 2}
+investigation---{12759: 1}
+invited---{12759: 1}
+involved---{12759: 1}
+involvement---{12757: 1}
+iot---{12755: 2, 12757: 6, 12759: 30, 12763: 2}
+iotdi---{12759: 1, 12763: 2}
+irvine---{12757: 2, 12761: 1, 12763: 2}
+is---{12757: 3, 12759: 39}
+issarny---{12763: 2}
+issues---{12759: 3}
+it---{12757: 3, 12759: 14}
+iterative---{12759: 1}
+its---{12759: 8}
+j---{12763: 1}
+jain---{12763: 2}
+jan---{12763: 1}
+journals---{12763: 1}
+json---{12759: 1}
+julien---{12761: 1}
+junctions---{12759: 1}
+just---{12759: 1}
+keeps---{12759: 1}
+kelly---{12761: 1}
+kept---{12759: 1}
+key---{12757: 1, 12759: 1}
+khargaria---{12761: 1}
+kim---{12761: 1, 12763: 2}
+knowledge---{12759: 1}
+kong---{12763: 1}
+korea---{12761: 1}
+kubernetes---{12759: 1}
+kyle---{12761: 1}
+kyungbaek---{12761: 1}
+lab---{12759: 4}
+labeling---{12759: 1}
+lack---{12759: 1}
+lance---{12761: 1}
+large---{12759: 4}
+las---{12763: 1}
+last---{12755: 1, 12757: 1, 12758: 1, 12759: 2, 12761: 1, 12763: 1}
+leaks---{12759: 1}
+learning---{12759: 1}
+learnt---{12759: 1}
+lee---{12761: 1}
+less---{12759: 1}
+level---{12759: 3, 12760: 1}
+leverages---{12757: 2}
+leveraging---{12757: 2, 12759: 2, 12763: 2}
+lew---{12761: 1}
+light---{12760: 1, 12762: 2}
+like---{12759: 1}
+limit---{12759: 1}
+limitations---{12759: 2}
+limited---{12759: 8}
+limiting---{12759: 2}
+link---{12759: 2}
+list---{12760: 2, 12762: 1}
+liu---{12763: 1}
+live---{12757: 1, 12760: 1}
+living---{12759: 2}
+llc---{12761: 1}
+local---{12759: 16}
+localized---{12759: 1}
+locating---{12759: 1}
+location---{12759: 1}
+long---{12759: 1}
+lookup---{12763: 1}
+loop---{12759: 1}
+low---{12757: 2, 12759: 2, 12760: 1}
+lowest---{12759: 1}
+luke---{12761: 1}
+made---{12759: 1}
+magazine---{12763: 1}
+main---{12755: 1}
+mainly---{12759: 1}
+maintains---{12759: 1}
+major---{12759: 1}
+makai---{12763: 1}
+make---{12759: 1}
+making---{12759: 1}
+managed---{12759: 1}
+management---{12759: 3, 12763: 1}
+manner---{12757: 1, 12759: 1}
+manoj---{12763: 2}
+many---{12759: 1}
+map---{12760: 1, 12762: 2}
+maryland---{12761: 1}
+masking---{12759: 1}
+massive---{12759: 1}
+maximize---{12759: 1}
+maximizing---{12759: 1}
+may---{12759: 3, 12763: 1}
+mccann---{12763: 1}
+md---{12757: 1, 12759: 1, 12761: 1}
+mdc---{12759: 2}
+means---{12759: 1}
+measure---{12759: 2}
+measured---{12759: 1}
+measurement---{12759: 1}
+measurements---{12759: 2}
+measures---{12759: 1}
+measuring---{12759: 1, 12763: 1}
+mechanisms---{12759: 1, 12763: 1}
+media---{12759: 10}
+medium---{12760: 1}
+meet---{12759: 3}
+meeting---{12755: 3}
+mehrotra---{12761: 1, 12763: 2}
+member---{12759: 3}
+mentioned---{12759: 1}
+merging---{12759: 1}
+mesh---{12759: 5}
+metered---{12759: 1}
+methods---{12759: 3}
+middleware---{12757: 1, 12759: 3, 12763: 6}
+minimal---{12757: 1}
+mobile---{12759: 10, 12763: 4}
+mobility---{12755: 1, 12759: 2, 12763: 1}
+mode---{12759: 1}
+model---{12759: 1}
+modifying---{12759: 1}
+modules---{12759: 1}
+monday---{12758: 1, 12761: 1}
+monitor---{12759: 1}
+monitoring---{12757: 1, 12759: 1}
+monitors---{12757: 1}
+monsoon---{12759: 1}
+montgomery---{12757: 1, 12758: 2, 12759: 1, 12761: 1}
+months---{12759: 1}
+more---{12759: 6}
+moscholios---{12763: 1}
+most---{12759: 4}
+motion---{12759: 1, 12760: 1, 12762: 2}
+motivation---{12759: 1}
+mp4---{12758: 1}
+multi---{12759: 1}
+multimedia---{12759: 2}
+multinetworks---{12763: 1}
+multiple---{12757: 2, 12759: 6}
+must---{12759: 2}
+nailah---{12761: 1}
+nalini---{12761: 1}
+name---{12759: 1}
+narrow---{12759: 1}
+national---{12759: 1, 12761: 5}
+nations---{12757: 1}
+nature---{12759: 2}
+navigation---{12760: 1, 12762: 1}
+near---{12759: 1}
+necessary---{12759: 1}
+need---{12759: 1}
+needs---{12759: 2}
+neighbors---{12759: 1}
+nelson---{12763: 1}
+network---{12755: 1, 12757: 2, 12758: 1, 12759: 30, 12763: 2}
+networking---{12757: 1, 12759: 8, 12763: 2}
+networks---{12759: 11, 12761: 1, 12763: 1}
+new---{12759: 3}
+news---{12759: 1}
+nexus---{12759: 2}
+nguyen---{12761: 1, 12763: 2}
+no---{12763: 1}
+node---{12759: 8}
+nodes---{12759: 9}
+noise---{12759: 1}
+nominated---{12759: 1}
+northbound---{12759: 1}
+not---{12759: 10}
+notification---{12759: 2}
+notion---{12759: 1}
+novel---{12757: 1}
+nsf---{12755: 3}
+nsyss---{12763: 1}
+nthu---{12759: 1}
+number---{12759: 1}
+oaa---{12759: 1}
+objective---{12759: 1}
+objectives---{12759: 1}
+observe---{12759: 1}
+observed---{12759: 1}
+observes---{12759: 1}
+observing---{12759: 1}
+obtained---{12759: 3}
+of---{12755: 2, 12757: 8, 12759: 105, 12760: 1, 12761: 2, 12763: 8}
+off---{12757: 1}
+officials---{12759: 1}
+often---{12759: 2}
+on---{12755: 2, 12757: 4, 12758: 1, 12759: 38, 12761: 1, 12763: 16}
+one---{12759: 4}
+ongoing---{12759: 2}
+only---{12759: 4}
+ontologies---{12759: 1}
+open---{12757: 1, 12763: 1}
+opendaylight---{12759: 1}
+openflow---{12759: 2}
+operate---{12759: 2}
+operator---{12759: 1}
+optimal---{12763: 1}
+optimization---{12759: 1}
+optimizing---{12755: 1}
+option---{12759: 1}
+options---{12759: 2}
+or---{12757: 1, 12759: 9}
+order---{12759: 1}
+organizations---{12757: 1}
+organize---{12759: 1}
+original---{12759: 1}
+orlando---{12763: 1}
+other---{12757: 1, 12759: 7}
+otherwise---{12759: 1}
+our---{12759: 16}
+out---{12760: 1, 12762: 1}
+outage---{12758: 2, 12759: 3}
+outdoor---{12759: 2}
+over---{12759: 3}
+overall---{12759: 1}
+overhead---{12759: 1}
+overheads---{12759: 1}
+overlay---{12759: 2, 12763: 1}
+overlays---{12763: 1}
+overview---{12757: 1}
+own---{12759: 2}
+pack---{12759: 1}
+packaging---{12759: 1}
+page---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+paper---{12759: 4}
+parent---{12759: 1}
+participate---{12759: 1}
+participatory---{12759: 1}
+particular---{12759: 3}
+particularly---{12759: 1}
+partners---{12759: 2}
+partnership---{12757: 1}
+parts---{12759: 1}
+path---{12763: 1}
+pattern---{12759: 1}
+patterns---{12759: 3}
+pdf---{12755: 1}
+people---{12755: 1, 12757: 1, 12758: 1, 12759: 2, 12761: 3, 12763: 1}
+percom---{12763: 1}
+performance---{12759: 3}
+performs---{12759: 1}
+period---{12759: 1}
+periodic---{12759: 1}
+periodically---{12759: 1}
+perpetual---{12755: 1, 12759: 1, 12763: 1}
+person---{12759: 1}
+personal---{12757: 1, 12759: 3}
+pervasive---{12757: 1, 12759: 1, 12763: 2}
+pham---{12761: 1}
+phase---{12757: 1, 12759: 3}
+phases---{12759: 1}
+philosophy---{12759: 1}
+phone---{12757: 2, 12759: 1}
+photos---{12759: 1}
+phrase---{12759: 1}
+phrases---{12759: 5}
+phu---{12761: 1}
+pi---{12755: 3, 12761: 1}
+pipe---{12759: 1}
+plan---{12759: 6}
+planned---{12759: 1}
+planning---{12759: 3, 12763: 2}
+plans---{12759: 1}
+platform---{12757: 2, 12759: 11, 12763: 1}
+platforms---{12755: 1, 12757: 2, 12759: 2}
+plethora---{12759: 1}
+points---{12759: 1}
+population---{12759: 1}
+possible---{12757: 1, 12759: 1}
+postdoctoral---{12761: 1}
+posted---{12759: 1}
+poster---{12755: 1, 12763: 1}
+posters---{12755: 4, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+power---{12759: 9}
+pp---{12763: 7}
+practicality---{12759: 1}
+prakash---{12761: 1}
+precludes---{12759: 1}
+predominantly---{12759: 1}
+preliminary---{12759: 2}
+preloaded---{12759: 1}
+presentation---{12759: 1, 12763: 1}
+pressure---{12759: 2}
+previews---{12755: 1, 12759: 1}
+previously---{12759: 1}
+prioritized---{12763: 1}
+problem---{12759: 5}
+problems---{12759: 1}
+procedure---{12759: 1}
+proceedings---{12763: 2}
+process---{12759: 1}
+processed---{12759: 1}
+professor---{12761: 4}
+profile---{12759: 1}
+profiles---{12759: 1}
+program---{12759: 2}
+progress---{12759: 1}
+project---{12758: 1}
+promise---{12759: 1}
+promises---{12759: 1}
+promising---{12759: 1}
+proof---{12759: 1}
+proper---{12759: 1}
+propose---{12759: 3}
+proposed---{12759: 6}
+proposing---{12759: 1}
+protocol---{12759: 2}
+protocols---{12759: 4}
+prototype---{12757: 1, 12759: 6}
+prototyped---{12759: 1}
+proves---{12759: 1}
+provide---{12759: 1}
+provided---{12759: 2}
+provides---{12759: 1}
+providing---{12759: 1}
+provisioning---{12759: 1}
+public---{12757: 1, 12759: 2}
+publication---{12759: 3}
+publications---{12755: 1, 12757: 1, 12758: 1, 12759: 2, 12761: 1, 12763: 3}
+qin---{12763: 2}
+qiuxi---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 2, 12763: 1}
+qiuxiz---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+quality---{12757: 1, 12759: 5, 12763: 1}
+queries---{12759: 1}
+query---{12759: 3}
+question---{12759: 1}
+quickly---{12759: 1}
+rahimi---{12763: 1}
+rahman---{12763: 2}
+raj---{12763: 3}
+range---{12757: 1, 12759: 6}
+rare---{12759: 3}
+rate---{12759: 2}
+rates---{12759: 1}
+raw---{12759: 2}
+reach---{12759: 1}
+readings---{12759: 2}
+real---{12757: 1, 12759: 4}
+realistic---{12759: 2}
+recall---{12759: 1}
+receive---{12759: 1}
+receiver---{12759: 1}
+recognized---{12758: 1}
+reconstructing---{12759: 1}
+redirected---{12759: 1}
+reduce---{12759: 1}
+reduces---{12759: 2}
+refer---{12759: 1}
+reflective---{12763: 1}
+regan---{12763: 1}
+regions---{12759: 3}
+reinforcement---{12759: 1}
+reject---{12759: 1}
+related---{12759: 3}
+relative---{12759: 1}
+relatively---{12759: 1}
+release---{12759: 1}
+relevance---{12759: 4}
+relevant---{12759: 3}
+reliability---{12755: 1, 12759: 5, 12763: 1}
+reliable---{12759: 2}
+reliably---{12759: 3}
+relies---{12759: 1}
+remains---{12759: 1}
+remote---{12759: 4}
+repetitive---{12759: 1}
+replace---{12759: 1}
+replaced---{12759: 1}
+replaces---{12759: 1}
+reported---{12759: 2}
+reports---{12759: 2}
+representation---{12759: 2}
+representations---{12759: 1}
+representing---{12759: 1}
+represents---{12759: 1}
+require---{12759: 2}
+required---{12759: 2}
+requirements---{12759: 3}
+requires---{12759: 1}
+rescheduling---{12763: 1}
+research---{12755: 2, 12757: 1, 12758: 1, 12759: 7, 12761: 1, 12763: 1}
+researcher---{12761: 1}
+researching---{12757: 1}
+residents---{12757: 3, 12759: 1}
+resilience---{12755: 1, 12759: 2}
+resilient---{12757: 1, 12759: 3, 12763: 4}
+resources---{12763: 1}
+responders---{12757: 1}
+response---{12759: 1, 12763: 2}
+resulted---{12759: 3}
+results---{12759: 2}
+retrieval---{12759: 1}
+retrieve---{12759: 2}
+retrieves---{12759: 1}
+retrieving---{12759: 1}
+revealed---{12759: 1}
+reza---{12763: 1}
+rich---{12759: 2}
+ride---{12758: 2, 12763: 1}
+robust---{12759: 1}
+role---{12759: 1}
+room---{12759: 1}
+root---{12759: 1}
+rssi---{12759: 1}
+run---{12759: 1}
+running---{12759: 5}
+runs---{12759: 3}
+s---{12759: 1}
+safe---{12755: 1, 12757: 3, 12758: 1, 12763: 2}
+safer---{12755: 1, 12757: 1, 12763: 1}
+safety---{12757: 3, 12759: 1}
+sailhan---{12763: 1}
+same---{12759: 2}
+sampling---{12759: 1}
+sarwar---{12761: 1}
+satellite---{12763: 1}
+scale---{12755: 2, 12756: 1, 12757: 8, 12758: 4, 12759: 13, 12760: 3, 12761: 1, 12762: 3, 12763: 2}
+scale2---{12757: 6, 12759: 15, 12763: 1}
+scalecycle---{12755: 1, 12759: 4}
+scaling---{12759: 1}
+scan---{12759: 1}
+scenario---{12759: 1}
+scenarios---{12759: 1, 12763: 1}
+scheduling---{12763: 1}
+scheme---{12759: 1, 12763: 1}
+school---{12761: 1}
+science---{12763: 1}
+sdn---{12759: 11, 12763: 1}
+seat---{12759: 1}
+second---{12757: 1, 12759: 4}
+seconds---{12759: 1}
+security---{12763: 1}
+see---{12759: 1}
+seems---{12759: 1}
+seismic---{12757: 1, 12759: 4, 12760: 1, 12762: 2}
+select---{12759: 1}
+selection---{12759: 1}
+send---{12759: 3}
+sending---{12759: 3}
+senior---{12757: 1, 12759: 2}
+sense---{12757: 1, 12759: 1}
+sensed---{12757: 1, 12759: 3}
+senseware---{12761: 2}
+sensing---{12757: 1, 12759: 14, 12763: 2}
+sensor---{12757: 1, 12759: 20, 12763: 1}
+sensors---{12757: 1, 12759: 19, 12763: 1}
+serene---{12761: 1}
+server---{12759: 15}
+servers---{12759: 1}
+service---{12759: 18, 12763: 1}
+services---{12757: 1, 12759: 2}
+set---{12759: 6}
+setting---{12759: 2}
+settings---{12759: 1}
+several---{12759: 3}
+shanty---{12763: 2}
+sharad---{12761: 1}
+share---{12757: 1}
+should---{12759: 1}
+show---{12759: 1}
+showed---{12759: 1}
+shown---{12759: 1}
+shows---{12759: 1}
+side---{12759: 1}
+sigfox---{12761: 1}
+sign---{12760: 1, 12762: 1}
+significant---{12757: 1}
+significantly---{12759: 1}
+simple---{12759: 1}
+simplicity---{12759: 1}
+simulations---{12759: 1}
+simultaneously---{12759: 2}
+since---{12759: 2}
+situations---{12759: 3}
+size---{12759: 1}
+slides---{12763: 1}
+small---{12759: 4}
+smaller---{12759: 1}
+smart---{12758: 1, 12759: 1, 12763: 5}
+smartamerica---{12758: 1}
+smartcomp---{12755: 1, 12759: 1, 12763: 2}
+smarter---{12757: 1}
+smoke---{12757: 1, 12759: 1}
+so---{12759: 2}
+social---{12759: 5}
+software---{12759: 1}
+solution---{12759: 4}
+solutions---{12759: 1}
+solve---{12759: 2}
+some---{12759: 2}
+source---{12759: 1, 12760: 1}
+sources---{12759: 2}
+south---{12761: 1}
+southbound---{12759: 1}
+spaces---{12763: 1}
+spare---{12759: 1}
+spatiotemporal---{12763: 1}
+specific---{12759: 8}
+specification---{12759: 2}
+specifics---{12759: 1}
+specified---{12759: 1}
+stamatakis---{12761: 1, 12763: 2}
+started---{12759: 1}
+state---{12763: 1}
+static---{12759: 1}
+statistics---{12759: 5}
+status---{12759: 1}
+stay---{12759: 1}
+still---{12759: 1}
+stories---{12759: 1}
+stream---{12760: 1}
+streams---{12759: 1}
+strike---{12759: 1}
+structure---{12759: 2}
+student---{12761: 13}
+studied---{12759: 2}
+studies---{12759: 1}
+submit---{12760: 1}
+submits---{12759: 1}
+suboptimal---{12759: 1}
+subscribed---{12759: 1}
+successfully---{12757: 1}
+such---{12757: 1, 12759: 16}
+suffer---{12759: 3}
+suffered---{12759: 1}
+suggested---{12759: 1}
+suited---{12759: 1}
+sum---{12759: 1}
+summit---{12759: 1}
+supply---{12759: 1}
+support---{12757: 1, 12759: 2}
+supported---{12759: 1}
+supporting---{12759: 1, 12763: 1}
+supports---{12759: 1}
+surrounding---{12757: 1}
+sustainable---{12763: 1}
+switch---{12759: 5}
+switches---{12759: 4}
+system---{12757: 1, 12759: 16}
+systems---{12757: 2, 12759: 5, 12763: 3}
+tag---{12759: 4}
+taiwan---{12757: 1, 12761: 4}
+taking---{12759: 1}
+tas---{12759: 7}
+taylor---{12761: 1}
+team---{12759: 1}
+techniques---{12757: 1, 12759: 4}
+technologies---{12757: 4, 12759: 11}
+technology---{12759: 3, 12763: 2}
+telecom---{12759: 1}
+temperature---{12759: 1, 12760: 1, 12762: 2}
+terms---{12759: 1}
+terrain---{12763: 1}
+terrains---{12759: 1}
+test---{12759: 2}
+testbed---{12757: 2, 12759: 1}
+testbeds---{12759: 1}
+tested---{12759: 1}
+testing---{12759: 2}
+tests---{12759: 1}
+that---{12757: 1, 12759: 33}
+the---{12755: 2, 12757: 11, 12758: 1, 12759: 232, 12763: 2}
+their---{12757: 1, 12759: 3}
+them---{12757: 1, 12759: 1}
+themselves---{12759: 1}
+then---{12759: 4}
+there---{12759: 1}
+therefore---{12759: 2}
+these---{12759: 4}
+theses---{12763: 1}
+thesis---{12763: 2}
+they---{12759: 5}
+things---{12755: 1, 12757: 3, 12759: 1, 12763: 1}
+thingstitute---{12759: 1}
+third---{12763: 1}
+this---{12755: 1, 12757: 1, 12758: 1, 12759: 19, 12761: 1, 12763: 1}
+those---{12759: 2}
+though---{12759: 2}
+through---{12757: 1, 12759: 5}
+ti---{12759: 1}
+tier---{12759: 1}
+time---{12759: 2, 12760: 1}
+timely---{12759: 2}
+timing---{12759: 1}
+to---{12757: 9, 12759: 108}
+together---{12757: 1, 12759: 2}
+toggle---{12760: 1, 12762: 1}
+tool---{12759: 1}
+topic---{12759: 5}
+topics---{12759: 1}
+topologies---{12759: 1}
+tower---{12759: 1}
+town---{12763: 2}
+tradeoffs---{12759: 1}
+transactions---{12763: 2}
+transferred---{12759: 1}
+transmission---{12759: 1}
+tree---{12759: 4}
+trees---{12759: 2}
+trending---{12759: 1}
+trigger---{12759: 1}
+triggering---{12759: 2}
+triggers---{12759: 1}
+tsai---{12763: 2}
+tsing---{12759: 1, 12761: 4}
+tuesday---{12759: 1, 12763: 1}
+tweet---{12759: 2}
+tweeter---{12759: 1}
+tweets---{12759: 7}
+twitter---{12759: 2}
+two---{12759: 6}
+typically---{12759: 1}
+uc---{12757: 1}
+uci---{12755: 1, 12757: 1, 12758: 1, 12759: 4, 12761: 1, 12763: 1}
+uddin---{12763: 10}
+ultra---{12759: 1}
+unb---{12759: 1}
+under---{12759: 1, 12763: 1}
+undergraduate---{12761: 3}
+understand---{12759: 2}
+underway---{12757: 1}
+uniformly---{12759: 1}
+university---{12759: 1, 12761: 7, 12763: 2}
+unlike---{12759: 1}
+updated---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+updates---{12759: 1}
+updating---{12759: 1}
+upload---{12759: 6, 12763: 2}
+uploading---{12759: 2}
+upon---{12757: 1, 12759: 1}
+urban---{12763: 1}
+usa---{12763: 1}
+usability---{12759: 1}
+usage---{12759: 2}
+usb---{12759: 1}
+use---{12759: 9}
+used---{12759: 3}
+useful---{12759: 3}
+user---{12759: 1}
+users---{12759: 1}
+uses---{12757: 1, 12759: 4}
+using---{12759: 10, 12763: 2}
+utility---{12759: 1}
+utilize---{12757: 1, 12759: 1}
+utilizes---{12759: 2}
+utilizing---{12759: 3}
+validate---{12759: 1}
+validated---{12759: 2}
+value---{12760: 1}
+variabilities---{12759: 1}
+variation---{12759: 1}
+variety---{12757: 1}
+various---{12759: 5}
+varying---{12759: 1}
+vasilakos---{12763: 1}
+vectors---{12759: 1}
+vegas---{12763: 1}
+venkatasubramanian---{12761: 1, 12763: 19}
+verbose---{12759: 1}
+verify---{12759: 1}
+version---{12755: 5}
+very---{12759: 2}
+via---{12757: 3, 12759: 3}
+viability---{12759: 1}
+viable---{12759: 1}
+victory---{12757: 1, 12759: 1}
+video---{12758: 1, 12759: 1}
+videos---{12755: 1, 12757: 1, 12758: 3, 12759: 1, 12761: 1, 12763: 1}
+view---{12757: 1, 12760: 3, 12762: 3}
+virtual---{12759: 1}
+vol---{12763: 1}
+volume---{12759: 1}
+wang---{12761: 2, 12763: 3}
+want---{12759: 1}
+warning---{12763: 1}
+was---{12755: 1, 12757: 1, 12758: 1, 12759: 4, 12761: 1, 12763: 1}
+water---{12759: 2}
+we---{12759: 49}
+wearable---{12759: 3}
+web---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+webmaster---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 1, 12763: 1}
+wednesday---{12755: 1, 12757: 1}
+weekly---{12759: 1}
+well---{12759: 3}
+were---{12759: 2}
+what---{12759: 1}
+when---{12759: 10}
+whenever---{12759: 1}
+where---{12757: 1, 12759: 7}
+which---{12759: 9}
+while---{12759: 4}
+who---{12759: 1}
+wide---{12757: 1}
+widespread---{12759: 2}
+wifi---{12759: 3, 12763: 1}
+will---{12759: 4}
+wired---{12759: 1}
+wireless---{12759: 11}
+with---{12755: 1, 12757: 2, 12759: 26, 12763: 4}
+within---{12759: 2}
+without---{12759: 3}
+wkshps---{12763: 1}
+work---{12759: 4}
+workloads---{12759: 1}
+workshop---{12759: 1, 12763: 1}
+workshops---{12763: 3}
+world---{12757: 2, 12759: 1}
+would---{12759: 1}
+wu---{12763: 1}
+x440p---{12759: 1}
+yang---{12761: 1}
+year---{12759: 5}
+yet---{12759: 1}
+yusuf---{12761: 1}
+zhu---{12755: 1, 12757: 1, 12758: 1, 12759: 1, 12761: 2, 12763: 8}
+zigbee---{12759: 3}

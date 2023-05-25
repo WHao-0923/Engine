@@ -1,0 +1,263 @@
+0---{8328: 1}
+a---{8331: 11}
+abstraction---{8331: 1}
+accordingly---{8331: 1}
+achieved---{8331: 1}
+achieving---{8331: 1}
+across---{8331: 1}
+adapt---{8331: 1}
+adaptation---{8331: 1}
+aging---{8331: 1}
+aims---{8331: 1}
+all---{8331: 1}
+also---{8331: 1}
+among---{8331: 1}
+an---{8331: 2}
+analogy---{8331: 1}
+and---{8331: 16}
+andreas---{8329: 1, 8331: 1}
+applicability---{8331: 1}
+application---{8331: 1}
+applications---{8331: 1}
+approach---{8331: 2}
+are---{8331: 2}
+as---{8331: 10}
+at---{8329: 1, 8331: 2}
+authors---{8331: 1}
+autonomous---{8331: 1}
+baseline---{8331: 2}
+be---{8331: 3}
+because---{8331: 1}
+being---{8329: 1, 8331: 1}
+between---{8331: 1}
+braunschweigsafety---{8331: 1}
+by---{8329: 1, 8331: 4}
+california---{8331: 1}
+can---{8331: 3}
+case---{8331: 1}
+cases---{8331: 1}
+centralized---{8331: 2}
+click---{8329: 1}
+close---{8329: 1, 8331: 1}
+clusters---{8331: 1}
+collaboration---{8331: 1}
+combination---{8331: 1}
+combining---{8331: 1}
+comments---{8328: 1}
+complexity---{8331: 1}
+components---{8331: 2}
+componentspecific---{8331: 1}
+consequent---{8331: 1}
+continuously---{8331: 1}
+control---{8331: 4}
+controller---{8331: 1}
+controlling---{8331: 1}
+coordinating---{8331: 1}
+cope---{8331: 1}
+copyright---{8329: 1, 8331: 1}
+cost---{8331: 1}
+current---{8331: 1}
+dashboard---{8328: 1}
+demonstrate---{8331: 1}
+design---{8331: 3}
+desired---{8331: 1}
+determined---{8331: 1}
+different---{8331: 1}
+discuss---{8331: 1}
+done---{8329: 1, 8331: 2}
+draw---{8331: 1}
+driving---{8331: 1}
+dutt---{8331: 1}
+duttdistinguished---{8329: 1}
+dynamics---{8331: 1}
+effective---{8331: 1}
+efficiency---{8331: 1}
+embodied---{8331: 1}
+energy---{8331: 2}
+envisioning---{8331: 1}
+equipment---{8331: 1}
+ernst---{8331: 1}
+ernstprofessor---{8329: 1}
+even---{8331: 1}
+factories---{8331: 1}
+factory---{8329: 2, 8331: 6}
+fadi---{8329: 1, 8331: 1}
+financially---{8331: 1}
+following---{8331: 1}
+follows---{8331: 1}
+for---{8331: 2}
+formal---{8331: 2}
+functions---{8331: 2}
+future---{8331: 1}
+goal---{8331: 2}
+guarantee---{8331: 1}
+guarantees---{8331: 1}
+health---{8331: 1}
+heating---{8331: 1}
+here---{8329: 1}
+herkersdorf---{8331: 1}
+herkersdorffull---{8329: 1}
+hierarchical---{8331: 1}
+homeuci---{8329: 1, 8331: 1}
+how---{8331: 1}
+https---{8330: 2}
+hybrid---{8331: 1}
+illumination---{8331: 1}
+implies---{8331: 1}
+in---{8331: 9}
+inadequate---{8331: 1}
+includes---{8331: 1}
+information---{8329: 2, 8331: 4}
+infrastructure---{8331: 2}
+innovation---{8331: 2}
+instead---{8331: 2}
+international---{8331: 1}
+interrupting---{8331: 1}
+investigators---{8331: 3}
+involved---{8331: 1}
+ipf---{8329: 1, 8331: 8}
+irvinesoftware---{8331: 1}
+is---{8329: 1, 8331: 7}
+it---{8331: 1}
+key---{8331: 1}
+kurdahi---{8331: 1}
+kurdahiprofessor---{8329: 1}
+large---{8331: 1}
+layer---{8331: 2}
+learning---{8331: 2}
+levels---{8331: 1}
+logistics---{8331: 1}
+low---{8331: 1}
+machine---{8331: 1}
+maintaining---{8331: 1}
+manage---{8328: 1}
+manner---{8331: 1}
+manufacturing---{8331: 1}
+material---{8331: 1}
+means---{8331: 1}
+menu---{8329: 2, 8331: 2}
+metaphor---{8331: 1}
+methodological---{8331: 1}
+methods---{8331: 2}
+metrics---{8331: 1}
+microelectronic---{8331: 1}
+microelectronics---{8331: 1}
+microfluidics---{8331: 1}
+micromechanics---{8331: 1}
+model---{8331: 1}
+modularity---{8331: 1}
+monitoring---{8331: 1}
+monitors---{8331: 1}
+more---{8329: 1, 8331: 2}
+move---{8331: 1}
+mpsocs---{8331: 1}
+much---{8331: 3}
+multiple---{8331: 1}
+must---{8331: 2}
+münchenhardware---{8331: 1}
+necessary---{8331: 1}
+network---{8331: 1}
+new---{8331: 2}
+nick---{8329: 1, 8331: 1}
+nikil---{8329: 1, 8331: 1}
+not---{8331: 2}
+objective---{8331: 1}
+occurrences---{8331: 1}
+oceanwp---{8329: 1, 8331: 1}
+of---{8331: 13}
+offline---{8331: 1}
+operate---{8331: 1}
+operating---{8331: 1}
+operation---{8331: 2}
+operations---{8331: 3}
+orchestrates---{8331: 1}
+our---{8331: 2}
+overhead---{8331: 1}
+page---{8331: 1}
+paradigm---{8331: 2}
+parallel---{8331: 2}
+performance---{8331: 2}
+platform---{8331: 4}
+point---{8331: 1}
+pol---{8331: 1}
+possible---{8331: 1}
+principal---{8331: 3}
+processing---{8329: 2, 8331: 4}
+professor---{8329: 2}
+project---{8331: 3}
+projects---{8331: 1}
+provide---{8331: 1}
+providing---{8331: 1}
+reactive---{8331: 2}
+read---{8329: 1, 8331: 1}
+real---{8331: 1}
+reliability---{8331: 1}
+represents---{8331: 1}
+research---{8331: 2}
+rolf---{8329: 1, 8331: 1}
+runtime---{8331: 1}
+safety---{8331: 1}
+scalability---{8331: 1}
+scale---{8331: 2}
+security---{8331: 1}
+selforganizing---{8331: 1}
+senses---{8331: 1}
+shift---{8331: 1}
+should---{8331: 1}
+show---{8331: 1}
+similar---{8331: 1}
+similarities---{8331: 1}
+similarly---{8331: 1}
+single---{8331: 1}
+site---{8328: 1}
+siteteam---{8329: 1, 8331: 1}
+sitetub---{8329: 1, 8331: 1}
+sitetum---{8329: 1, 8331: 1}
+sporting---{8331: 1}
+static---{8331: 1}
+status---{8331: 1}
+storage---{8331: 1}
+such---{8331: 5}
+supplies---{8331: 1}
+supported---{8331: 1}
+system---{8331: 4}
+systems---{8331: 4}
+targeting---{8331: 1}
+team---{8329: 1}
+techniques---{8331: 1}
+technische---{8331: 2}
+temperature---{8331: 1}
+that---{8329: 1, 8331: 3}
+the---{8329: 1, 8331: 23}
+theme---{8329: 1, 8331: 1}
+this---{8331: 6}
+time---{8331: 2}
+to---{8329: 1, 8331: 7}
+towards---{8331: 1}
+transport---{8331: 1}
+tub---{8329: 1}
+tum---{8329: 1}
+uci---{8329: 2}
+unable---{8331: 1}
+uncorrelated---{8331: 1}
+universities---{8331: 1}
+university---{8331: 1}
+universität---{8331: 2}
+use---{8331: 2}
+using---{8331: 2}
+vehicles---{8331: 1}
+verification---{8331: 1}
+view---{8328: 1}
+waste---{8331: 1}
+water---{8331: 1}
+we---{8331: 1}
+which---{8331: 2}
+while---{8331: 1}
+why---{8331: 1}
+will---{8331: 1}
+with---{8331: 3}
+without---{8331: 1}
+wordpress---{8328: 2, 8330: 1}
+work---{8329: 1, 8331: 1}
+workload---{8331: 1}
+yes---{8328: 2}

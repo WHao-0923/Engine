@@ -1,0 +1,1981 @@
+1---{59: 21}
+10---{59: 6}
+108---{59: 1}
+11---{59: 1}
+116---{59: 1}
+11th---{59: 2}
+134---{59: 1}
+14---{59: 2}
+17---{59: 2}
+18---{59: 7}
+18th---{59: 1}
+19---{59: 7}
+1st---{59: 1}
+2---{59: 13}
+20---{59: 5}
+2003---{58: 1}
+2007---{58: 1}
+2008---{58: 2}
+2009---{58: 1}
+2010---{58: 1}
+2012---{59: 19}
+2013---{59: 26}
+2014---{59: 31}
+2015---{58: 1, 59: 25}
+2016---{58: 5, 59: 30, 60: 1, 61: 1, 62: 1, 63: 1, 64: 1}
+2017---{58: 1, 59: 29}
+2018---{59: 20}
+2019---{59: 18}
+21---{59: 4}
+214---{59: 1}
+22---{59: 2}
+22217802download---{59: 1}
+22813762---{59: 1}
+22962194download---{59: 1}
+23---{59: 2}
+23304302---{59: 1}
+23364851download---{59: 1}
+23538724---{59: 1}
+23643147download---{59: 1}
+23821898---{59: 1}
+23920636download---{59: 1}
+23920639download---{59: 1}
+23942926download---{59: 1}
+24---{59: 1}
+24170637---{59: 1}
+24243832download---{59: 1}
+24246272download---{59: 1}
+2454955524863430download---{59: 1}
+24551358---{59: 1}
+24863430download---{59: 1}
+24882086---{59: 1}
+2492817724863430download---{59: 1}
+25---{59: 8}
+25026076---{59: 1}
+25123321download---{59: 1}
+25246629download---{59: 1}
+25688811download---{59: 1}
+25954426---{59: 1}
+25979153---{59: 1}
+26---{59: 3}
+26210361download---{59: 1}
+26269536---{59: 1}
+26568605---{59: 1}
+27---{59: 1}
+27119322---{59: 1}
+27318066---{59: 1}
+27318067---{59: 1}
+27375291---{59: 1}
+27539198---{59: 1}
+27680300---{59: 1}
+27730248---{59: 1}
+27830227---{59: 1}
+29---{59: 1}
+29584896---{59: 1}
+29th---{59: 2}
+2nd---{59: 1}
+3---{58: 1, 59: 6}
+30036853---{59: 1}
+30196720---{59: 1}
+311---{59: 1}
+31206159---{59: 1}
+33---{59: 1}
+34---{59: 2}
+37---{59: 1}
+3rd---{59: 2}
+4---{59: 5}
+40---{59: 1}
+5---{58: 1, 59: 8}
+5000---{63: 1}
+50th---{59: 3}
+55---{59: 1}
+56---{59: 1}
+58---{59: 2}
+5th---{59: 1}
+6---{59: 8}
+61---{59: 1}
+64---{59: 1}
+66---{59: 1}
+6th---{59: 1, 63: 1}
+7---{59: 5}
+70---{59: 1}
+79---{59: 1}
+8---{59: 6}
+81---{59: 1}
+82---{59: 1}
+83---{59: 2}
+8th---{59: 4}
+9---{59: 3}
+92697---{63: 1}
+96---{59: 2}
+a---{58: 36, 59: 80, 60: 16, 61: 16, 62: 3, 64: 16}
+aa---{59: 1}
+aaai---{59: 1}
+aalto---{58: 1}
+aarts---{59: 1}
+abel---{59: 4}
+aberdeen---{59: 2}
+able---{60: 1, 61: 1, 64: 1}
+about---{58: 1, 59: 1}
+abraham---{59: 1}
+ac---{59: 1}
+acad---{59: 3}
+acceptance---{59: 13}
+accepted---{59: 9}
+access---{59: 1}
+accessible---{59: 1}
+accountability---{59: 1}
+achieve---{59: 1}
+ackerman---{59: 1}
+acm---{59: 31}
+action---{59: 1}
+actionable---{59: 1}
+active---{59: 2}
+activities---{59: 1}
+adaptation---{58: 1, 59: 4}
+addition---{58: 2}
+administration---{59: 1}
+admission---{59: 1}
+admissions---{59: 1}
+adopt---{59: 4}
+adoption---{59: 1}
+adults---{58: 2, 59: 1}
+advanced---{59: 1}
+advancement---{59: 1}
+advice---{59: 2}
+advise---{60: 1, 61: 1, 64: 1}
+advised---{58: 2, 60: 3, 61: 3, 64: 3}
+advisement---{58: 2}
+advisor---{58: 2}
+advisors---{60: 1, 61: 1, 64: 1}
+ae---{59: 1}
+affect---{58: 1, 59: 1}
+affects---{59: 1}
+africa---{58: 1}
+after---{59: 5}
+ag---{59: 1}
+agha---{59: 3}
+aging---{59: 1}
+aim---{58: 2}
+aims---{58: 1}
+akkina---{59: 2}
+al---{59: 2}
+alan---{59: 1}
+alarm---{59: 2}
+alcohol---{59: 1}
+alert---{59: 1, 62: 1}
+alerting---{62: 1}
+alerts---{62: 1}
+alfred---{59: 1}
+ali---{59: 2}
+all---{58: 1}
+also---{58: 1, 60: 1, 61: 1, 64: 1}
+although---{60: 1, 61: 1, 64: 1}
+alumni---{58: 1}
+always---{60: 1, 61: 1, 64: 1}
+am---{58: 20, 59: 14}
+ambulatory---{59: 1}
+amcis---{59: 1}
+amendment---{59: 1}
+american---{59: 4}
+americas---{59: 1}
+amia---{59: 14}
+amid---{58: 1}
+among---{59: 4}
+an---{58: 6, 59: 30, 60: 2, 61: 2, 64: 2}
+analysis---{59: 7, 62: 1}
+analyst---{58: 2}
+analyze---{59: 1}
+analyzers---{59: 1}
+analyzing---{59: 1, 62: 1}
+and---{58: 90, 59: 74, 60: 16, 61: 16, 62: 13, 63: 1, 64: 16}
+angeles---{59: 1}
+animal---{59: 1}
+ann---{59: 1}
+annu---{59: 4}
+annual---{59: 14}
+answer---{58: 1}
+antonio---{59: 3}
+anyone---{58: 1}
+api---{58: 1}
+app---{58: 1, 59: 1}
+appl---{59: 1}
+application---{62: 1}
+applications---{58: 2, 59: 2}
+applied---{59: 1}
+apply---{58: 1}
+applying---{59: 3}
+appreciate---{58: 1}
+approach---{58: 1, 59: 2}
+apps---{59: 12, 62: 1}
+apr---{59: 3}
+ar---{59: 1}
+arbor---{59: 1}
+architects---{59: 2}
+architectural---{58: 1}
+are---{58: 1, 59: 2, 60: 10, 61: 10, 64: 10}
+aronson---{59: 1}
+art---{58: 1}
+article---{59: 4}
+artificial---{58: 1, 59: 1}
+as---{58: 22, 59: 4, 60: 7, 61: 7, 62: 1, 64: 7}
+ashfaq---{59: 4}
+ask---{59: 2, 60: 1, 61: 1, 64: 1}
+assess---{59: 1}
+assessing---{59: 1}
+assessment---{59: 3}
+assignments---{60: 1, 61: 1, 64: 1}
+assist---{58: 2}
+assistance---{59: 1}
+assistant---{58: 1}
+assoc---{59: 11}
+associate---{58: 1}
+associated---{59: 1}
+association---{59: 5}
+associations---{59: 1}
+at---{58: 29, 59: 5, 60: 4, 61: 4, 62: 1, 63: 1, 64: 4}
+athey---{59: 1}
+audit---{59: 1}
+audy---{59: 2}
+aug---{59: 4}
+austin---{59: 2}
+authentication---{59: 1}
+author---{59: 2}
+automation---{58: 2}
+avi---{59: 1}
+award---{59: 2}
+aware---{59: 1}
+awareness---{59: 5}
+away---{60: 1, 61: 1, 64: 1}
+ay---{59: 1}
+ayobi---{58: 1, 59: 1}
+b---{59: 12}
+bachelor---{58: 6}
+background---{58: 1, 60: 1, 61: 1, 64: 1}
+balancing---{59: 1}
+baldrige---{59: 1}
+balins---{59: 1}
+barbara---{59: 1}
+barcelona---{59: 1}
+barriers---{59: 1}
+base---{59: 1}
+based---{59: 1}
+bayer---{59: 2}
+bc---{59: 4}
+bd---{59: 1}
+bdtran---{58: 1}
+be---{58: 2, 59: 2, 60: 7, 61: 7, 64: 7}
+because---{59: 1, 60: 2, 61: 2, 64: 2}
+before---{58: 3, 60: 1, 61: 1, 64: 1}
+begin---{58: 1}
+begins---{59: 1}
+behav---{59: 3}
+behavior---{58: 1}
+behavioral---{59: 1}
+behaviors---{58: 1, 59: 2}
+behaviour---{59: 1}
+beijing---{58: 1}
+being---{59: 1}
+bell---{59: 4}
+best---{58: 2, 59: 1}
+better---{58: 4, 59: 1}
+between---{58: 1, 59: 4}
+beyond---{59: 1}
+bhavnani---{59: 1}
+bias---{59: 1}
+bietz---{59: 2}
+big---{59: 1}
+biology---{58: 1}
+biomed---{59: 2}
+biomedical---{59: 5}
+biopsy---{59: 1}
+biosurveillance---{59: 4}
+bk---{59: 1}
+blachley---{59: 1}
+black---{59: 1}
+blair---{59: 1}
+blandford---{59: 1}
+blayney---{59: 1}
+body---{59: 1}
+bonnie---{59: 1}
+booth---{59: 3}
+bootstrapping---{59: 1}
+bossen---{59: 1}
+boston---{58: 1}
+both---{58: 2}
+bother---{59: 1}
+boundary---{59: 1}
+box---{59: 1}
+bradley---{59: 2}
+branford---{59: 2}
+brannon---{59: 1}
+brasilia---{58: 1}
+brazil---{58: 2}
+bren---{58: 1, 63: 2}
+brennan---{59: 1}
+brian---{58: 1}
+bridge---{58: 1}
+brief---{59: 1, 60: 1, 61: 1, 64: 1}
+bs---{58: 1}
+buehler---{59: 1}
+build---{58: 1, 59: 1}
+building---{58: 1}
+burke---{59: 1}
+burkom---{59: 3}
+but---{58: 1}
+by---{58: 7, 59: 1, 60: 6, 61: 6, 64: 6}
+c---{59: 17}
+ca---{59: 4, 63: 1}
+caldeira---{58: 1, 59: 7, 62: 2}
+california---{58: 8, 59: 1, 60: 1, 61: 1, 64: 1}
+callaghan---{59: 1}
+calvitti---{59: 4}
+cameron---{59: 2}
+campus---{63: 1}
+can---{58: 7, 59: 1, 60: 1, 61: 1, 64: 1}
+canada---{59: 3}
+cancun---{59: 3}
+candidate---{58: 1}
+canvasser---{59: 1}
+cao---{59: 1}
+capacity---{59: 1}
+capture---{59: 1}
+card---{59: 3}
+cardiol---{59: 1}
+cardiovascular---{59: 1}
+care---{58: 2, 59: 13}
+career---{60: 1, 61: 1, 64: 1}
+caregivers---{58: 2, 59: 2, 62: 1}
+caring---{58: 1, 59: 2}
+carnegie---{58: 1}
+case---{59: 6}
+cd---{59: 1}
+ceedings---{59: 1}
+censorship---{59: 1}
+center---{58: 1, 59: 1}
+cerezo---{59: 1}
+ch---{59: 1}
+chair---{58: 1}
+challenge---{58: 1}
+challenges---{59: 2}
+champaign---{58: 1}
+chan---{59: 1}
+change---{58: 1}
+characteristics---{59: 1}
+characterizing---{59: 1}
+charlotte---{59: 3}
+chart---{59: 1}
+chatting---{59: 1}
+chci---{59: 1}
+chen---{58: 7, 59: 82, 60: 1, 61: 1, 62: 1, 64: 1}
+cheng---{59: 1}
+chenmaking---{59: 1}
+chermack---{59: 1}
+chi---{59: 15}
+chicago---{59: 4}
+children---{59: 1}
+china---{58: 2, 59: 5}
+chinese---{58: 1, 59: 3}
+choi---{59: 3}
+chronic---{58: 4, 59: 1, 62: 1}
+chronically---{59: 1}
+chu---{59: 1}
+ciemins---{59: 1}
+citizen---{62: 1}
+citizens---{58: 1}
+city---{59: 2}
+civic---{59: 1}
+clara---{58: 1, 59: 1, 62: 2}
+claram---{58: 1}
+clark---{59: 3}
+classification---{59: 1}
+claus---{59: 1}
+clicks---{59: 1}
+clin---{59: 2}
+clinic---{59: 2}
+clinical---{58: 5, 59: 14, 62: 1}
+clinics---{59: 1}
+closer---{59: 1}
+cloud---{58: 1}
+cluster---{59: 1}
+cm---{59: 2}
+co---{59: 4}
+coauthorship---{60: 2, 61: 2, 64: 2}
+code---{58: 1, 59: 1}
+coding---{60: 1, 61: 1, 64: 1}
+cognition---{58: 1, 59: 1}
+cognitive---{59: 1}
+coletta---{59: 1}
+collaborating---{60: 1, 61: 1, 64: 1}
+collaboration---{59: 3}
+collaborative---{58: 1, 59: 2}
+collecting---{62: 1}
+college---{58: 1, 59: 5}
+come---{59: 2, 60: 1, 61: 1, 64: 1}
+comm---{59: 1}
+commercial---{59: 1}
+commiskey---{59: 1}
+communicate---{59: 1}
+communication---{58: 1, 59: 7}
+communications---{59: 4}
+communities---{58: 2}
+community---{58: 1, 59: 4}
+como---{59: 1}
+companies---{60: 1, 61: 1, 64: 1}
+comparing---{59: 1}
+comparison---{59: 1}
+competence---{59: 1}
+competency---{58: 1}
+competition---{59: 2}
+completed---{58: 1}
+completing---{60: 1, 61: 1, 64: 1}
+complex---{58: 2, 59: 1, 62: 1}
+complicated---{58: 1}
+composition---{59: 1}
+comprehensive---{59: 1}
+comput---{59: 1}
+computational---{62: 1}
+computer---{58: 14, 59: 15}
+computerized---{58: 1, 59: 2}
+computers---{58: 1}
+computing---{58: 6, 59: 22}
+conceptual---{58: 1}
+condition---{59: 1}
+conditions---{58: 2, 59: 3}
+conduct---{60: 1, 61: 1, 64: 1}
+conducting---{58: 1, 60: 1, 61: 1, 64: 1}
+conference---{59: 52}
+conferences---{59: 8, 60: 1, 61: 1, 64: 1}
+congress---{59: 6}
+consequences---{58: 1, 59: 1}
+consider---{60: 2, 61: 2, 64: 2}
+considerations---{59: 1}
+consult---{59: 1}
+consumer---{59: 5, 62: 1}
+consumers---{58: 1}
+contact---{58: 1, 59: 1, 60: 1, 61: 1, 62: 1, 63: 3, 64: 1}
+content---{58: 1, 59: 2, 60: 1, 61: 1, 62: 2, 63: 1, 64: 1}
+context---{58: 1}
+contexts---{58: 1}
+contextual---{58: 1, 59: 2}
+contributes---{58: 1}
+control---{59: 1}
+controlled---{59: 2}
+conway---{59: 2}
+coop---{59: 1}
+cooperative---{58: 4, 59: 15}
+coordination---{59: 1}
+cope---{58: 1}
+copenhagen---{59: 4}
+copyright---{58: 1, 59: 1, 60: 1, 61: 1, 62: 1, 63: 1, 64: 1}
+corley---{59: 2}
+cornell---{58: 1}
+corps---{58: 1}
+corpus---{59: 1}
+costa---{58: 1, 59: 1, 62: 3}
+couns---{59: 1}
+counter---{59: 1}
+country---{59: 1}
+counts---{59: 1}
+couper---{59: 2}
+courses---{60: 1, 61: 1, 64: 1}
+cox---{59: 1}
+cp---{59: 1}
+cr---{59: 1}
+cramer---{59: 4}
+create---{58: 1}
+creating---{58: 1}
+crises---{62: 2}
+crisis---{59: 1}
+critical---{58: 1}
+cs---{59: 1}
+cscw---{58: 3, 59: 18}
+css---{58: 1}
+cues---{59: 1}
+cultural---{58: 1}
+current---{58: 2}
+currently---{58: 6}
+czyz---{59: 1}
+d---{59: 6}
+da---{59: 22}
+daily---{58: 1}
+dashboard---{59: 1}
+data---{58: 3, 59: 9, 62: 2}
+dataset---{59: 1}
+davis---{59: 2}
+dc---{59: 4}
+de---{58: 1, 59: 3}
+death---{58: 1}
+decis---{59: 1}
+decision---{59: 4, 62: 1}
+degree---{58: 9}
+degrees---{58: 1}
+delucia---{59: 2}
+demand---{59: 1}
+denmark---{59: 4}
+denny---{59: 1}
+denver---{59: 4}
+department---{58: 7, 59: 5}
+depend---{59: 1}
+deployment---{59: 3}
+depression---{58: 1}
+design---{58: 10, 59: 11, 62: 2}
+designer---{58: 2}
+designers---{58: 1}
+designing---{58: 2, 59: 5}
+desirable---{60: 1, 61: 1, 64: 1}
+develop---{60: 1, 61: 1, 64: 1}
+developer---{58: 1}
+developing---{59: 2, 62: 2}
+development---{58: 3}
+deviance---{59: 1}
+device---{59: 2}
+devices---{62: 1}
+devops---{58: 1}
+dewey---{59: 2}
+df---{59: 1}
+diabetes---{59: 3}
+diabetic---{59: 1}
+diane---{58: 1}
+diary---{59: 2}
+dicot---{59: 1}
+diego---{59: 1}
+difference---{58: 1}
+differences---{59: 1}
+different---{58: 2}
+dimensions---{58: 1}
+ding---{59: 1}
+directions---{58: 1}
+director---{58: 2}
+disambiguation---{59: 3}
+discharge---{59: 1}
+disciplines---{58: 1}
+discourse---{59: 1}
+discovering---{59: 1}
+discovery---{59: 1}
+disease---{58: 1, 59: 2, 62: 1}
+disordered---{59: 3}
+disorders---{58: 1, 59: 2}
+dissemination---{59: 1}
+dissertation---{58: 1}
+distinction---{59: 1}
+distributed---{58: 1, 59: 1}
+dizziness---{59: 1}
+dj---{59: 2}
+dk---{59: 1}
+dn---{59: 1}
+do---{58: 1, 59: 6, 60: 2, 61: 2, 64: 2}
+doctor---{59: 2}
+doctoral---{58: 1}
+doctors---{59: 1}
+documentation---{58: 2, 59: 3}
+documents---{59: 3, 62: 1}
+does---{58: 1, 59: 2}
+doi---{59: 24}
+donald---{58: 1, 63: 2}
+done---{58: 1}
+donohue---{59: 1}
+dorea---{59: 1}
+dot---{58: 1}
+download---{59: 71}
+drexel---{58: 1}
+drifters---{59: 1}
+drs---{60: 1, 61: 1, 64: 1}
+drug---{59: 2}
+dt---{59: 7}
+duck---{59: 1}
+duong---{59: 1}
+dupuy---{59: 1}
+during---{58: 1, 59: 6, 60: 2, 61: 2, 64: 2}
+dw---{59: 1}
+dynamic---{59: 2}
+e---{59: 3}
+e0139701---{59: 1}
+e1---{59: 1}
+e150---{59: 1}
+e4---{59: 2}
+e75---{59: 1}
+each---{60: 1, 61: 1, 64: 1}
+eai---{59: 5}
+early---{60: 1, 61: 1, 64: 1}
+earned---{58: 1}
+ease---{59: 1}
+eating---{58: 1, 59: 5}
+ecol---{59: 1}
+ecole---{58: 1}
+econ---{59: 1}
+edu---{58: 1}
+educ---{59: 2}
+education---{58: 1}
+effective---{58: 1}
+effects---{59: 3}
+eh---{59: 2}
+ehars---{59: 1}
+ehr---{58: 1, 59: 5}
+ehrlich---{59: 1}
+eikey---{58: 1, 59: 7, 62: 1}
+eikeye---{58: 1}
+eisenberg---{59: 1}
+ej---{59: 1}
+ek---{59: 1}
+el---{59: 1}
+elderly---{59: 1}
+eldin---{59: 1}
+electronic---{58: 1, 59: 11}
+eletriby---{59: 2, 62: 2}
+eli---{59: 1}
+elisa---{59: 1}
+elizabeth---{58: 1, 59: 3, 62: 1}
+else---{58: 1}
+emergence---{59: 1}
+emergency---{59: 9}
+emerging---{59: 2}
+emerse---{59: 1}
+emotion---{59: 2}
+emotions---{59: 1}
+empatheticons---{59: 1}
+empirical---{58: 1, 59: 2}
+emr---{59: 4}
+enable---{58: 1}
+enabled---{59: 1}
+encounters---{59: 1}
+encourage---{58: 1}
+endorsed---{59: 1}
+endourol---{59: 1}
+endourology---{59: 2}
+engagement---{59: 1}
+engaging---{59: 1}
+engine---{59: 2}
+engineer---{58: 1}
+engineering---{58: 1}
+english---{59: 1}
+enhance---{58: 2}
+enjoyable---{58: 1}
+entering---{58: 1}
+enterprise---{59: 1}
+entity---{59: 1}
+entry---{59: 1}
+enviroinfo---{59: 2}
+environment---{59: 1}
+environmental---{59: 2}
+environments---{58: 1}
+eo---{59: 1}
+epfl---{58: 1}
+epidemic---{59: 1}
+epidemiol---{59: 1}
+er---{59: 1}
+ergonomics---{58: 1, 59: 1}
+es---{59: 1}
+especially---{58: 1, 60: 2, 61: 2, 64: 2}
+esquibel---{59: 2}
+ethnographic---{59: 1}
+eur---{59: 1}
+ev---{59: 3}
+evaluate---{58: 1}
+evaluating---{58: 2, 59: 1}
+evaluation---{59: 2}
+everyday---{59: 1}
+everything---{58: 1}
+evidence---{59: 2}
+evidenced---{60: 1, 61: 1, 64: 1}
+evolution---{59: 1}
+ewha---{58: 1}
+exam---{59: 3}
+examination---{58: 1}
+examine---{59: 1}
+examining---{58: 1, 59: 1}
+exist---{59: 1}
+expect---{60: 1, 61: 1, 64: 1}
+expectations---{58: 1}
+experience---{58: 1, 59: 1, 60: 1, 61: 1, 64: 1}
+experiences---{58: 1, 59: 1}
+experimental---{59: 1}
+expert---{58: 1}
+expertise---{59: 2}
+exploration---{59: 1}
+exploratory---{59: 2}
+explore---{58: 1}
+exploring---{58: 1, 59: 5, 62: 1}
+expressive---{58: 1}
+extensive---{58: 1}
+f---{59: 3}
+face---{58: 1, 59: 2}
+facebook---{59: 1}
+facilitating---{59: 2}
+factors---{59: 14}
+faculty---{58: 1}
+fahmy---{59: 1}
+fall---{58: 2}
+false---{62: 1}
+fam---{59: 1}
+family---{59: 1}
+fan---{58: 1, 59: 2}
+fang---{59: 1}
+farber---{59: 4}
+farm---{59: 1}
+fascinated---{58: 1}
+fashionable---{59: 1}
+fatemeh---{58: 1}
+fatigue---{59: 3, 62: 1}
+fc---{59: 1}
+fd---{59: 1}
+fe---{59: 1}
+fear---{59: 1}
+feasibility---{59: 1}
+features---{59: 1}
+feb---{59: 10}
+federal---{58: 1}
+feel---{60: 2, 61: 2, 64: 2}
+feeling---{59: 1}
+fellow---{58: 2}
+fertility---{58: 1, 59: 2}
+few---{60: 1, 61: 1, 64: 1}
+field---{58: 2, 59: 3}
+figueiredo---{58: 1, 59: 5, 62: 3}
+finalist---{59: 1}
+finalists---{59: 1}
+find---{58: 1, 59: 1, 60: 2, 61: 2, 64: 2}
+fine---{59: 1}
+fingertips---{59: 2}
+finland---{58: 1}
+first---{58: 1, 59: 2, 60: 1, 61: 1, 64: 1}
+fit---{58: 1}
+fitness---{58: 1, 59: 6}
+five---{59: 2}
+fj---{59: 1}
+floor---{63: 1}
+flow---{59: 1}
+flyers---{59: 1}
+focus---{58: 2}
+focused---{59: 1}
+focuses---{58: 3, 60: 1, 61: 1, 64: 1}
+fontaine---{59: 1}
+food---{59: 2}
+for---{58: 14, 59: 50, 60: 8, 61: 8, 62: 2, 64: 8}
+forbat---{59: 1}
+formed---{59: 1}
+forums---{59: 1}
+foster---{59: 1}
+fourth---{60: 1, 61: 1, 64: 1}
+fragmented---{59: 1, 62: 1}
+france---{59: 2}
+free---{60: 2, 61: 2, 64: 2}
+frequent---{59: 1}
+friedman---{59: 1}
+from---{58: 20, 59: 8, 60: 1, 61: 1, 64: 1}
+front---{59: 1}
+fu---{59: 1}
+functions---{58: 1}
+future---{59: 1}
+fédérale---{58: 1}
+g---{59: 3}
+gabuzda---{59: 4}
+gage---{59: 2}
+gaithersburg---{59: 1}
+game---{59: 2}
+games---{59: 2}
+gans---{59: 1}
+gao---{59: 1}
+gap---{59: 1}
+gather---{58: 1}
+gazing---{59: 1}
+gebremariam---{59: 2}
+geissbuhler---{59: 2}
+gemini---{59: 1}
+gendler---{59: 1}
+general---{59: 3}
+generate---{58: 1}
+get---{60: 3, 61: 3, 64: 3}
+getting---{60: 1, 61: 1, 64: 1}
+gettinger---{59: 1}
+ghani---{59: 2}
+git---{58: 1}
+giuse---{59: 1}
+gl---{59: 2}
+gm---{59: 1}
+going---{60: 1, 61: 1, 64: 1}
+golang---{58: 1}
+goldberg---{59: 1}
+good---{60: 1, 61: 1, 64: 1}
+gordon---{59: 1}
+governs---{59: 1}
+grad---{58: 1}
+graduate---{60: 6, 61: 6, 64: 6}
+granular---{59: 1}
+gray---{59: 4}
+greece---{59: 1}
+greenberg---{59: 2}
+griffith---{59: 1}
+grounded---{58: 1}
+group---{58: 2, 59: 2}
+groups---{59: 2}
+gs---{59: 1}
+guan---{59: 1}
+guangdong---{58: 1}
+guarantee---{60: 2, 61: 2, 64: 2}
+gui---{58: 1, 59: 19, 62: 2}
+guix---{58: 1}
+gururaj---{59: 1}
+h---{59: 10}
+hai---{58: 5, 59: 3, 60: 4, 61: 4, 62: 3, 63: 4, 64: 4}
+hailabuci---{60: 2, 61: 2, 64: 2}
+halasz---{59: 1}
+hall---{63: 2}
+hamilton---{59: 1}
+hanauer---{59: 21}
+handbag---{59: 1}
+handheld---{59: 1}
+handoffs---{59: 2}
+hao---{59: 1}
+haque---{59: 1}
+hard---{60: 1, 61: 1, 64: 1}
+harden---{59: 1}
+harnessing---{58: 1, 59: 1}
+harold---{59: 1}
+have---{58: 11, 60: 3, 61: 3, 64: 3}
+hawaii---{59: 5}
+hci---{58: 4, 59: 1}
+he---{58: 3, 59: 2, 62: 1}
+headquarter---{58: 1}
+health---{58: 27, 59: 53, 60: 2, 61: 2, 62: 9, 63: 1, 64: 2}
+healthc---{59: 1}
+healthcare---{58: 10, 59: 10, 62: 1}
+healthy---{59: 1}
+healthytogether---{59: 1}
+heart---{58: 1}
+hedging---{59: 1}
+help---{58: 3}
+helping---{58: 1}
+helsinki---{58: 1}
+hematology---{59: 1}
+heng---{59: 1}
+heraklion---{59: 1}
+heroin---{59: 1}
+heuristics---{59: 1}
+hfes---{59: 1}
+hi---{59: 4}
+hicss---{59: 5}
+high---{59: 2}
+highly---{59: 1}
+hill---{59: 1}
+hilligoss---{59: 1}
+hiner---{59: 1}
+hirschman---{59: 1}
+historical---{59: 1}
+hiv---{59: 1}
+hj---{59: 1}
+hm---{59: 1}
+hollenbeck---{59: 1}
+home---{58: 1, 59: 2, 60: 1, 61: 1, 62: 1, 63: 1, 64: 1}
+homegrown---{59: 1}
+homepage---{58: 11}
+honors---{60: 1, 61: 1, 64: 1}
+hopkins---{59: 1}
+horwitz---{59: 1}
+hospital---{59: 2}
+hospitalized---{58: 1}
+hospitals---{60: 1, 61: 1, 64: 1}
+how---{58: 11, 59: 4, 60: 1, 61: 1, 62: 2, 64: 1}
+hripcsak---{59: 1}
+html---{58: 1}
+hu---{58: 1, 59: 1}
+huang---{59: 2}
+huazhong---{58: 1}
+human---{58: 4, 59: 15}
+humphreys---{59: 1}
+hussain---{58: 1, 59: 6, 62: 1}
+huzhx---{58: 1}
+i---{58: 54, 59: 6}
+i3---{58: 1}
+ichi---{59: 1}
+icicis---{59: 1}
+iconference---{59: 2}
+ict---{59: 2}
+ict4s---{59: 2}
+icts---{58: 1}
+icwsm---{59: 1}
+identifiers---{59: 1}
+identifying---{59: 1}
+ieee---{59: 4}
+if---{59: 1, 60: 5, 61: 5, 64: 5}
+il---{59: 4}
+ill---{59: 1}
+illinois---{58: 1}
+illnesses---{62: 1}
+impact---{58: 1, 59: 5, 60: 2, 61: 2, 64: 2}
+impacts---{58: 1, 59: 1}
+implement---{58: 1}
+implementation---{59: 3}
+implementing---{59: 1}
+implications---{59: 1}
+important---{58: 1}
+improve---{58: 4, 59: 2, 62: 1}
+improved---{59: 1}
+improvements---{58: 1}
+improving---{59: 2, 62: 1}
+in---{58: 72, 59: 84, 60: 10, 61: 10, 62: 4, 63: 1, 64: 10}
+incentives---{59: 1}
+incident---{59: 1}
+include---{58: 1}
+inclusion---{58: 1}
+increase---{59: 1}
+independence---{59: 1}
+individual---{59: 2, 60: 1, 61: 1, 64: 1}
+individuals---{59: 1}
+industry---{60: 2, 61: 2, 64: 2}
+inf---{59: 1}
+infect---{59: 1}
+infection---{59: 1}
+influence---{59: 1}
+inform---{59: 30}
+informal---{59: 2}
+informatics---{58: 22, 59: 14, 62: 1}
+information---{58: 15, 59: 17, 60: 2, 61: 2, 62: 2, 63: 1, 64: 2}
+informational---{58: 1}
+informed---{59: 1}
+infrastructure---{59: 3}
+inpatient---{59: 1}
+institute---{58: 2}
+institutions---{60: 1, 61: 1, 64: 1}
+instructions---{60: 1, 61: 1, 64: 1}
+int---{59: 6}
+integrality---{59: 1}
+integrating---{59: 3}
+integration---{59: 2}
+integrity---{59: 1}
+intelligence---{58: 2, 59: 1}
+intelligent---{59: 1}
+intensive---{59: 2}
+interact---{58: 3, 59: 4}
+interaction---{58: 14, 59: 7, 60: 1, 61: 1, 64: 1}
+interactions---{62: 1}
+interactive---{58: 3, 59: 2}
+interest---{58: 1}
+interested---{58: 7, 60: 2, 61: 2, 64: 2}
+interesting---{59: 1}
+interests---{58: 7, 60: 1, 61: 1, 64: 1}
+interface---{59: 1}
+interfaces---{58: 1, 59: 1}
+intergenerational---{59: 2}
+intern---{58: 1}
+internal---{59: 1}
+international---{59: 31}
+interned---{58: 1}
+internet---{59: 4}
+interpersonal---{59: 1}
+interplay---{59: 1}
+intersection---{58: 4}
+intervention---{59: 1}
+interventions---{58: 1}
+interviews---{62: 1}
+into---{59: 1, 60: 1, 61: 1, 64: 1}
+investigating---{58: 3, 59: 3, 62: 1}
+investigation---{59: 1}
+involved---{60: 1, 61: 1, 64: 1}
+irvine---{58: 10, 59: 1, 60: 2, 61: 2, 62: 1, 63: 3, 64: 2}
+is---{58: 6, 60: 8, 61: 8, 63: 2, 64: 8}
+ischool---{58: 2}
+ising---{59: 1}
+issues---{58: 1}
+it---{58: 2, 59: 2, 60: 2, 61: 2, 64: 2}
+italy---{59: 2}
+its---{58: 1, 59: 2, 60: 1, 61: 1, 64: 1}
+j---{59: 74}
+ja---{59: 4}
+jain---{59: 1}
+jama---{59: 1}
+jamia---{59: 3}
+jan---{59: 4}
+janecek---{59: 2}
+java---{58: 1, 59: 2}
+javascript---{58: 1}
+jc---{59: 3}
+je---{59: 3}
+jen---{59: 1}
+jf---{59: 1}
+jg---{59: 2}
+jiang---{59: 1}
+jiayue---{59: 1}
+jl---{59: 1}
+jm---{59: 4}
+jmir---{59: 1}
+jo---{59: 1}
+john---{59: 2}
+johnson---{59: 2}
+jose---{59: 1}
+journal---{59: 3}
+journals---{58: 1, 59: 8, 60: 1, 61: 1, 64: 1}
+jr---{59: 4}
+js---{59: 1}
+jt---{59: 3}
+july---{58: 1, 59: 1}
+jun---{59: 4}
+junior---{58: 2}
+justin---{58: 1}
+k---{59: 50}
+ka---{59: 3}
+kai---{58: 6, 59: 5, 60: 1, 61: 1, 64: 1}
+kaleba---{59: 1}
+kane---{59: 1}
+karahalios---{58: 1}
+karen---{59: 1}
+karrie---{58: 1}
+kathleen---{59: 1}
+katie---{59: 2}
+kayla---{59: 1}
+ke---{59: 1}
+kerber---{59: 1}
+keystrokes---{59: 1}
+khanna---{59: 1}
+kileny---{59: 2}
+kim---{59: 1}
+king---{59: 1}
+kingsley---{59: 2}
+kj---{59: 2}
+km---{59: 2}
+know---{60: 1, 61: 1, 64: 1}
+knowledge---{59: 2}
+kobsa---{59: 2}
+kolars---{59: 1}
+koloa---{59: 1}
+korea---{58: 1}
+kou---{59: 8}
+kow---{59: 3}
+kr---{59: 2}
+kramer---{59: 1}
+kristin---{59: 1}
+kt---{59: 2}
+kvasny---{59: 1}
+l---{59: 8}
+lab---{58: 6, 59: 4, 60: 5, 61: 5, 62: 4, 63: 6, 64: 5}
+laboratory---{58: 1}
+ladaw---{59: 1}
+lammers---{59: 1}
+lang---{59: 1}
+language---{58: 1, 59: 1, 62: 1}
+languages---{59: 1}
+lanham---{59: 1}
+large---{59: 2}
+lau---{59: 2}
+launching---{59: 1}
+lauren---{58: 1}
+lausanne---{58: 1}
+law---{59: 1}
+lawrence---{58: 1}
+lc---{59: 4}
+le---{59: 2}
+leading---{58: 1, 60: 1, 61: 1, 64: 1}
+league---{59: 2}
+learn---{58: 1}
+learned---{59: 2}
+learning---{58: 2, 59: 4}
+leave---{60: 1, 61: 1, 64: 1}
+leaves---{60: 1, 61: 1, 64: 1}
+lee---{59: 5}
+left---{60: 1, 61: 1, 64: 1}
+legends---{59: 2}
+lei---{59: 4}
+lemak---{59: 1}
+lending---{59: 2}
+lenert---{59: 1}
+lens---{58: 1, 59: 2}
+leo---{59: 1}
+leopold---{59: 1}
+lessons---{59: 1}
+level---{60: 1, 61: 1, 64: 1}
+lf---{59: 1}
+lhe11---{58: 1}
+li---{59: 4}
+liang---{59: 1}
+lie---{58: 5}
+life---{58: 2}
+like---{60: 1, 61: 1, 64: 1}
+limits---{59: 1}
+lin---{58: 1, 59: 2}
+lindberg---{59: 1}
+linkedin---{58: 1}
+linux---{58: 1}
+list---{59: 1}
+literacy---{59: 1}
+literature---{58: 1, 59: 4}
+liu---{58: 1, 59: 11}
+liverpool---{59: 1}
+lives---{58: 1}
+ll---{59: 1}
+loan---{59: 1}
+localized---{59: 1}
+located---{63: 1}
+location---{59: 1}
+logs---{59: 1}
+london---{58: 1}
+longhurst---{59: 1}
+longitudinal---{58: 1, 59: 2}
+longitudinality---{59: 1}
+look---{60: 1, 61: 1, 64: 1}
+looking---{59: 1, 60: 2, 61: 2, 64: 2}
+loosely---{59: 1}
+los---{59: 1}
+loss---{59: 1, 62: 1}
+lot---{60: 1, 61: 1, 64: 1}
+lowery---{59: 1}
+lu---{58: 1, 59: 1, 62: 1}
+m---{58: 3, 59: 26}
+ma---{58: 1, 59: 4}
+machine---{58: 1}
+magueramane---{59: 1}
+mail---{63: 1}
+mainly---{58: 1}
+maintain---{58: 1}
+make---{58: 3, 62: 2}
+makes---{59: 1}
+making---{59: 1}
+malin---{59: 1}
+mamykina---{59: 1}
+manag---{59: 1}
+manage---{58: 2}
+management---{58: 3, 59: 8, 62: 1}
+manager---{58: 2, 63: 1}
+managing---{59: 1}
+manion---{59: 1}
+many---{59: 1, 62: 1}
+mar---{59: 2}
+mark---{59: 2}
+markle---{59: 1}
+marshall---{59: 1}
+master---{58: 3}
+matter---{58: 2, 60: 2, 61: 2, 64: 2}
+mattison---{59: 2}
+maximize---{58: 1, 62: 1}
+may---{59: 14, 60: 4, 61: 4, 64: 4}
+mayara---{58: 1, 59: 1, 62: 3}
+mazmanian---{59: 1}
+mc---{59: 2}
+mcgregor---{59: 1}
+mcostafi---{58: 1}
+md---{59: 1}
+me---{58: 1}
+med---{59: 22}
+media---{58: 2, 59: 9, 62: 2}
+mediated---{59: 1}
+medical---{58: 1, 59: 22}
+medication---{59: 3}
+medicine---{58: 2, 59: 1}
+medinfo---{59: 5}
+medline---{59: 2}
+meet---{58: 1}
+meeting---{59: 2}
+meets---{59: 2}
+mei---{59: 18}
+melissa---{59: 1}
+mellon---{58: 1}
+members---{58: 1}
+meng---{59: 2}
+mental---{58: 1, 62: 1}
+mentis---{59: 1}
+messaging---{59: 1}
+metamap---{59: 1}
+methods---{58: 4, 59: 2, 62: 1}
+mets---{59: 1}
+mexico---{59: 3}
+mg---{59: 1}
+mhealth---{59: 1}
+mi---{59: 4}
+michelotti---{59: 1}
+michigan---{58: 3, 59: 3}
+microfinance---{59: 1}
+migraine---{59: 1}
+mihussai---{58: 1}
+miller---{59: 1}
+mind---{59: 1}
+mingqian---{59: 1}
+mining---{59: 2}
+minnesota---{58: 1}
+minor---{58: 2}
+mirza---{59: 1}
+mitchell---{59: 1}
+mitigating---{59: 1}
+mix---{58: 1}
+mixed---{59: 1}
+mm---{59: 2}
+mobile---{58: 4, 59: 4, 62: 1}
+model---{59: 1}
+modeling---{59: 2}
+models---{58: 1}
+modern---{58: 1}
+mohamed---{59: 1}
+mohammad---{62: 2}
+monchusap---{58: 1}
+monday---{59: 2}
+monitoring---{59: 1}
+months---{60: 1, 61: 1, 64: 1}
+mood---{59: 1}
+more---{58: 3}
+mores---{59: 1}
+morgan---{59: 1}
+most---{58: 2, 60: 1, 61: 1, 64: 1}
+motivations---{59: 1}
+mousavi---{58: 1, 59: 1}
+mouse---{59: 1}
+mp---{59: 3}
+mph---{58: 1}
+mr---{59: 4}
+ms---{58: 4, 59: 1}
+mt---{59: 2}
+multidimensional---{59: 1}
+multiple---{59: 2}
+must---{60: 1, 61: 1, 64: 1}
+mustafa---{58: 1, 62: 1}
+my---{58: 28, 59: 3}
+mz---{59: 1}
+n---{59: 4}
+nadir---{59: 1}
+name---{58: 1}
+named---{59: 1}
+nardi---{59: 5}
+narrative---{59: 1}
+narratives---{59: 1}
+nath---{59: 1}
+nationwide---{59: 1}
+natural---{58: 1, 59: 1, 62: 1}
+navigate---{58: 1}
+navigating---{59: 1}
+navigational---{62: 1}
+ne---{59: 1}
+needs---{58: 5, 59: 2, 62: 2}
+negotiating---{59: 1}
+neil---{59: 1}
+nelson---{59: 1}
+network---{59: 2}
+networking---{59: 2}
+networks---{59: 1}
+neurol---{59: 1}
+never---{58: 1}
+new---{58: 2, 59: 2}
+news---{60: 1, 61: 1, 64: 1}
+nexus---{59: 1}
+ngo---{59: 2}
+nice---{59: 1}
+nick---{58: 1}
+nicolas---{59: 1}
+nj---{59: 5}
+no---{60: 2, 61: 2, 64: 2}
+nokia---{58: 1}
+normal---{58: 1}
+norway---{58: 1}
+norwegian---{58: 1}
+not---{60: 1, 61: 1, 64: 1}
+notes---{58: 1}
+nov---{59: 5}
+novak---{59: 1}
+novel---{59: 1}
+november---{59: 4}
+ntnu---{58: 1}
+numerous---{58: 1}
+nurse---{59: 2}
+nurses---{58: 1}
+nutrition---{58: 1}
+o---{59: 1}
+obesity---{59: 1}
+observations---{59: 1}
+obtained---{58: 1}
+oct---{59: 5}
+ocw077---{59: 1}
+ocw121---{59: 1}
+of---{58: 57, 59: 153, 60: 7, 61: 7, 62: 6, 63: 1, 64: 7}
+often---{58: 1, 60: 1, 61: 1, 64: 1}
+okullo---{59: 1}
+older---{58: 2}
+olsen---{59: 2}
+on---{58: 6, 59: 82, 60: 7, 61: 7, 63: 1, 64: 7}
+oncol---{59: 1}
+oncology---{59: 1}
+one---{59: 3}
+online---{58: 3, 59: 18}
+open---{59: 2}
+operating---{59: 2}
+ophthalmologists---{59: 1}
+opioids---{59: 1}
+opportunities---{59: 3}
+opportunity---{59: 1}
+or---{58: 1, 59: 4, 60: 4, 61: 4, 64: 4}
+order---{58: 1, 59: 2}
+ordinary---{58: 1}
+organizational---{58: 1, 59: 1}
+other---{58: 1, 62: 1}
+others---{59: 1}
+our---{60: 2, 61: 2, 64: 2}
+out---{58: 1, 59: 1, 60: 3, 61: 3, 64: 3}
+outage---{59: 2}
+outbreak---{59: 2}
+outcomes---{58: 1}
+outflow---{59: 1}
+outlining---{58: 1}
+outstanding---{59: 2}
+overview---{60: 1, 61: 1, 64: 1}
+own---{58: 1, 60: 2, 61: 2, 64: 2}
+ozkaynak---{59: 1}
+ozonoff---{59: 1}
+p---{59: 5}
+padman---{59: 1}
+page---{59: 1, 60: 2, 61: 2, 64: 2}
+pages---{59: 4}
+painter---{59: 1}
+pakhomov---{59: 1}
+paper---{59: 5}
+papers---{60: 1, 61: 1, 64: 1}
+parental---{59: 1}
+paris---{59: 1}
+park---{58: 2, 59: 11}
+part---{58: 1}
+participate---{60: 1, 61: 1, 64: 1}
+participation---{59: 2}
+particular---{58: 2}
+particularly---{58: 2}
+pará---{58: 1}
+pasquali---{59: 1}
+past---{58: 1}
+patel---{59: 2}
+patience---{60: 1, 61: 1, 64: 1}
+patient---{58: 3, 59: 14, 60: 1, 61: 1, 62: 1, 64: 1}
+patients---{58: 6, 59: 2, 62: 2}
+patterns---{59: 1}
+pavlin---{59: 2}
+pd---{59: 1}
+pdmp---{59: 1}
+peace---{58: 1}
+pearl---{58: 1}
+pediatric---{59: 2}
+pediatrics---{59: 1}
+peer---{59: 1, 60: 1, 61: 1, 64: 1}
+peers---{59: 1}
+peking---{59: 1}
+penn---{58: 1}
+people---{58: 9, 59: 1, 60: 4, 61: 4, 62: 2, 63: 1, 64: 4}
+perception---{59: 1}
+perceptions---{59: 3}
+percontrep---{59: 1}
+pereira---{59: 2}
+perform---{59: 1}
+performance---{59: 2}
+personal---{58: 2, 59: 1, 60: 1, 61: 1, 64: 1}
+personalize---{59: 1}
+personalized---{59: 1}
+perspective---{59: 1}
+pervasive---{59: 13}
+pervasivehealth---{59: 5}
+pf---{59: 1}
+pham---{59: 1}
+pharmacists---{58: 1}
+phd---{58: 8}
+phenomenon---{62: 1}
+phone---{59: 1}
+photography---{59: 1}
+physician---{59: 5}
+physicians---{58: 3, 59: 1}
+pilot---{59: 3}
+pine---{59: 6}
+pioneering---{58: 1}
+place---{59: 1}
+platform---{59: 3}
+platforms---{59: 1}
+play---{59: 5}
+playing---{59: 1}
+plos---{59: 1}
+pm---{59: 2}
+pmc5961796---{59: 1}
+pmcid---{59: 1}
+pmid---{59: 40}
+pohl---{59: 2}
+polston---{59: 1}
+polytechnic---{58: 1}
+polytechnique---{58: 1}
+poole---{59: 1}
+populations---{58: 2}
+portal---{59: 1}
+portals---{58: 1}
+portland---{59: 3}
+position---{58: 1}
+positive---{59: 2}
+positively---{58: 1}
+possible---{60: 1, 61: 1, 64: 1}
+postdocs---{58: 1}
+postdoctoral---{58: 2}
+posts---{58: 2}
+potential---{59: 2, 60: 1, 61: 1, 64: 1}
+pr---{59: 2}
+pract---{59: 4}
+practical---{59: 2}
+practice---{59: 3}
+practices---{58: 3, 59: 10}
+predict---{59: 1}
+preib---{59: 1}
+prescriber---{59: 1}
+prescription---{59: 1}
+present---{58: 2}
+previous---{58: 1}
+previously---{58: 1}
+prikladnicki---{59: 2}
+primary---{59: 2}
+prior---{58: 6}
+prioritization---{59: 1}
+privacy---{59: 5}
+probably---{60: 1, 61: 1, 64: 1}
+problem---{59: 2}
+problems---{58: 3}
+proc---{59: 7}
+proceedings---{59: 64}
+processing---{59: 1, 62: 1}
+productivity---{58: 1}
+professional---{59: 1}
+professionals---{59: 1}
+professor---{58: 4}
+program---{58: 3, 59: 1}
+programming---{58: 1, 60: 1, 61: 1, 64: 1}
+project---{58: 3, 60: 5, 61: 5, 64: 5}
+projects---{58: 2, 59: 1, 60: 2, 61: 2, 62: 2, 63: 1, 64: 2}
+promote---{62: 1}
+promoting---{59: 1}
+prospective---{60: 2, 61: 2, 64: 2}
+proulx---{59: 1}
+proulxe---{59: 1}
+provide---{58: 1}
+provider---{59: 1}
+providers---{58: 2, 59: 1}
+proximity---{59: 1}
+psychol---{59: 2}
+psychology---{58: 2}
+pu---{58: 1, 59: 6}
+public---{58: 1, 59: 13, 62: 2}
+publication---{60: 2, 61: 2, 64: 2}
+publications---{58: 1, 59: 3, 60: 1, 61: 1, 62: 1, 63: 1, 64: 1}
+published---{60: 1, 61: 1, 64: 1}
+put---{60: 1, 61: 1, 64: 1}
+python---{58: 1}
+q---{59: 20}
+qin---{59: 1}
+qq---{59: 1}
+qt---{59: 1}
+qualitative---{58: 4, 59: 3, 60: 1, 61: 1, 64: 1}
+quality---{58: 1, 59: 1}
+quantifying---{59: 1}
+quantitative---{58: 2}
+quarter---{60: 1, 61: 1, 64: 1}
+questions---{59: 1}
+r---{59: 8}
+ra---{59: 1}
+rachman---{59: 2}
+ramakrishnan---{59: 1}
+ramani---{59: 1}
+ramo---{59: 1}
+randell---{59: 3}
+randomized---{59: 2}
+randriambelonoro---{59: 2}
+ranking---{59: 1}
+rare---{60: 1, 61: 1, 64: 1}
+rate---{59: 12}
+rating---{59: 2}
+rationale---{59: 1}
+re---{59: 1}
+reach---{60: 2, 61: 2, 64: 2}
+read---{60: 1, 61: 1, 64: 1}
+readability---{59: 2}
+readiness---{59: 1}
+reading---{59: 3}
+ready---{59: 1}
+really---{58: 1, 59: 1, 60: 1, 61: 1, 64: 1}
+reasons---{59: 1}
+received---{58: 7}
+recently---{58: 1}
+recipients---{59: 1}
+recognition---{59: 3}
+recommender---{59: 1}
+recommenders---{59: 1}
+record---{59: 6}
+records---{58: 1, 59: 9}
+recovery---{59: 4}
+reddy---{59: 1}
+reduce---{62: 1}
+reduced---{59: 1}
+reducing---{59: 1}
+redwood---{59: 1}
+reeder---{59: 1}
+reflection---{59: 1}
+rehabilitation---{59: 2}
+rejected---{60: 1, 61: 1, 64: 1}
+relationship---{59: 1}
+relationships---{59: 2}
+relatively---{60: 1, 61: 1, 64: 1}
+relevant---{58: 1}
+reliability---{59: 1}
+reneccal---{59: 1}
+replacement---{59: 1}
+report---{59: 1}
+reports---{59: 1}
+representative---{60: 1, 61: 1, 64: 1}
+representatives---{60: 1, 61: 1, 64: 1}
+reputation---{59: 2}
+requests---{59: 1}
+require---{60: 1, 61: 1, 64: 1}
+requirements---{58: 1}
+requires---{59: 1, 60: 1, 61: 1, 64: 1}
+res---{59: 3}
+research---{58: 15, 59: 3, 60: 7, 61: 7, 64: 7}
+researcher---{58: 2}
+researchers---{59: 1}
+resisting---{59: 1}
+resource---{59: 1}
+responses---{62: 1}
+restful---{58: 1}
+restructuring---{59: 1}
+resubmit---{60: 1, 61: 1, 64: 1}
+result---{62: 1}
+results---{58: 1, 59: 2}
+retrieval---{59: 2, 62: 1}
+retrieving---{58: 2}
+retrospective---{59: 1}
+review---{59: 7, 60: 1, 61: 1, 64: 1}
+reviews---{59: 1}
+revise---{60: 1, 61: 1, 64: 1}
+reynolds---{58: 1, 59: 18, 62: 2, 63: 2}
+richard---{59: 1}
+rick---{59: 3}
+right---{60: 1, 61: 1, 64: 1}
+risk---{59: 4}
+risks---{59: 2}
+rl---{59: 3}
+roberson---{59: 1}
+role---{58: 1, 59: 1}
+rome---{59: 1}
+room---{59: 2}
+rooms---{59: 1}
+rosenberg---{59: 2}
+rosenbloom---{59: 1}
+routine---{59: 1, 60: 1, 61: 1, 64: 1}
+rudkin---{59: 2}
+rules---{59: 1}
+rumshisky---{59: 1}
+s---{58: 5, 59: 17}
+s189---{59: 1}
+saeed---{59: 1}
+safety---{59: 3, 60: 1, 61: 1, 64: 1}
+salib---{59: 1}
+same---{58: 2}
+samoff---{59: 1}
+san---{59: 5}
+satisfaction---{59: 2}
+says---{58: 2}
+sc---{59: 2}
+schedule---{60: 2, 61: 2, 64: 2}
+scheduled---{60: 1, 61: 1, 64: 1}
+school---{58: 4, 59: 1, 60: 2, 61: 2, 64: 2}
+schools---{60: 1, 61: 1, 64: 1}
+sci---{59: 2}
+science---{58: 7, 59: 1}
+sciences---{58: 3, 59: 5}
+scientists---{59: 1}
+sclerosis---{59: 1}
+screening---{59: 1}
+scribes---{59: 1}
+sd---{59: 1}
+se---{59: 1}
+search---{59: 4}
+searches---{59: 1}
+seattle---{59: 5}
+sector---{58: 1}
+secure---{59: 2}
+security---{58: 2, 59: 2}
+see---{60: 1, 61: 1, 64: 1}
+self---{59: 3}
+semaan---{59: 1}
+senior---{59: 1}
+sense---{59: 4, 62: 2}
+sentiment---{59: 1}
+seoul---{58: 1}
+sep---{59: 2}
+september---{58: 1}
+sere---{59: 1}
+served---{58: 1}
+service---{59: 2}
+services---{58: 1, 59: 3}
+serving---{58: 1}
+serwer---{59: 1}
+setting---{58: 1}
+settings---{59: 4}
+shape---{58: 1}
+sharing---{59: 1}
+shazia---{59: 1}
+shedden---{59: 1}
+shehada---{59: 1}
+shelf---{60: 1, 61: 1, 64: 1}
+shen---{59: 2}
+shi---{59: 1}
+shigematsu---{59: 1}
+should---{60: 4, 61: 4, 64: 4}
+sigchi---{59: 1}
+significant---{60: 2, 61: 2, 64: 2}
+similar---{60: 1, 61: 1, 64: 1}
+since---{58: 1}
+singer---{59: 2}
+siniscalchi---{59: 1}
+sional---{59: 1}
+sites---{59: 4}
+sittig---{59: 1}
+situ---{58: 1}
+situations---{58: 1}
+sk---{59: 2}
+skills---{58: 1}
+skip---{58: 1, 59: 1, 60: 1, 61: 1, 62: 1, 63: 1, 64: 1}
+skolarus---{59: 1}
+smart---{59: 1}
+smartphone---{59: 1}
+smith---{59: 1}
+sn---{59: 1}
+so---{60: 1, 61: 1, 64: 1}
+sobh---{59: 1}
+social---{58: 8, 59: 21, 62: 2}
+society---{59: 1}
+sociotechnical---{58: 1, 59: 1}
+software---{58: 2, 59: 4}
+some---{60: 2, 61: 2, 64: 2}
+something---{60: 2, 61: 2, 64: 2}
+sometimes---{60: 2, 61: 2, 64: 2}
+soper---{59: 1}
+sort---{60: 1, 61: 1, 64: 1}
+south---{58: 1}
+souza---{59: 2}
+soyiri---{59: 1}
+space---{58: 2, 60: 1, 61: 1, 64: 1}
+spain---{59: 1}
+special---{58: 1, 59: 1}
+specific---{59: 2}
+spend---{58: 1, 60: 1, 61: 1, 64: 1}
+spent---{60: 1, 61: 1, 64: 1}
+spring---{58: 2}
+sql---{58: 1}
+st---{59: 1}
+staff---{58: 1}
+stakeholders---{59: 1}
+stamps---{58: 1}
+standard---{58: 1}
+start---{60: 1, 61: 1, 64: 1}
+state---{58: 1, 59: 1}
+states---{59: 1}
+status---{58: 1}
+staying---{58: 1}
+steps---{59: 1}
+stetson---{59: 1}
+steve---{59: 1}
+steven---{59: 2}
+stevenson---{59: 2}
+still---{60: 1, 61: 1, 64: 1}
+stokols---{59: 1}
+storm---{59: 3}
+story---{59: 1}
+stout---{59: 1}
+strangers---{59: 1}
+strategies---{59: 3}
+strategizing---{59: 1}
+street---{59: 6}
+streichert---{59: 4}
+strengths---{58: 1}
+stroke---{59: 4}
+structures---{59: 1}
+struggles---{59: 1}
+stubbs---{59: 1}
+student---{58: 6, 59: 4, 60: 1, 61: 1, 64: 1}
+students---{58: 1, 59: 2, 60: 1, 61: 1, 64: 1}
+studies---{58: 2}
+study---{59: 15, 60: 3, 61: 3, 64: 3}
+studying---{58: 2}
+su---{58: 1}
+such---{58: 4, 62: 1}
+suda---{59: 5}
+suggested---{59: 1}
+suicide---{59: 1}
+sukumar---{58: 1}
+summaries---{59: 2}
+summer---{58: 4}
+summits---{59: 1}
+sun---{58: 1, 59: 2}
+sunypark---{58: 1}
+supercomput---{59: 1}
+supervised---{59: 1, 60: 1, 61: 1, 64: 1}
+supervisor---{58: 1}
+suppl---{59: 1}
+supplement---{58: 1}
+support---{58: 3, 59: 6, 62: 2}
+supported---{58: 3, 59: 13}
+supporting---{59: 3}
+surveillance---{59: 5}
+survey---{59: 3}
+sustainability---{59: 4}
+sustainable---{59: 1}
+sw---{59: 2}
+switching---{59: 1}
+switzerland---{58: 1}
+sy---{59: 12}
+symp---{59: 4}
+symposium---{59: 14}
+syndromic---{59: 1}
+synthesis---{59: 1}
+syst---{59: 2}
+system---{58: 2, 59: 17, 62: 2}
+systematic---{59: 6}
+systems---{58: 7, 59: 20}
+t---{59: 12}
+tackling---{58: 1}
+take---{60: 2, 61: 2, 64: 2}
+takes---{60: 2, 61: 2, 64: 2}
+tang---{59: 9}
+tanner---{59: 2}
+task---{59: 1}
+teaching---{59: 1}
+team---{59: 1}
+teams---{59: 2}
+teamwork---{58: 1}
+tech---{60: 1, 61: 1, 64: 1}
+technical---{58: 1, 59: 1}
+technol---{59: 1}
+technological---{59: 1}
+technologies---{58: 6, 59: 9, 62: 1}
+technology---{58: 10, 59: 10, 60: 1, 61: 1, 62: 1, 64: 1}
+telecommunications---{58: 1}
+temporary---{59: 1}
+tera---{58: 1, 62: 2, 63: 2}
+terareynolds---{58: 1}
+terms---{59: 1}
+text---{59: 4, 62: 1}
+texts---{60: 1, 61: 1, 64: 1}
+that---{58: 11, 60: 7, 61: 7, 64: 7}
+the---{58: 69, 59: 136, 60: 11, 61: 11, 62: 4, 63: 5, 64: 11}
+their---{58: 3, 59: 3, 60: 2, 61: 2, 64: 2}
+them---{58: 1, 59: 1, 60: 1, 61: 1, 64: 1}
+then---{58: 1, 60: 1, 61: 1, 64: 1}
+theoretical---{58: 1}
+theories---{58: 1}
+therapeutic---{59: 1}
+there---{60: 1, 61: 1, 64: 1}
+these---{58: 1}
+they---{58: 3, 59: 1, 60: 1, 61: 1, 64: 1}
+thinking---{58: 1, 59: 1}
+third---{60: 1, 61: 1, 64: 1}
+this---{60: 4, 61: 4, 64: 4}
+through---{58: 4, 59: 5}
+tiancheng---{58: 1}
+time---{58: 1, 60: 5, 61: 5, 64: 5}
+timeline---{59: 1}
+tions---{59: 1}
+titled---{58: 1}
+tl---{59: 10}
+tlreynol---{58: 1, 63: 1}
+tm---{59: 1}
+to---{58: 33, 59: 18, 60: 17, 61: 17, 62: 8, 63: 2, 64: 17}
+tochi---{59: 1}
+today---{58: 1}
+together---{59: 1}
+too---{58: 1, 62: 1}
+tool---{58: 1, 59: 1}
+tools---{58: 3, 59: 2, 62: 1}
+toronto---{59: 3}
+totnes---{59: 1}
+touch---{60: 1, 61: 1, 64: 1}
+toward---{59: 1}
+town---{59: 1}
+track---{59: 1}
+tracker---{59: 1}
+tracking---{59: 1}
+tradeoffs---{59: 1}
+trail---{59: 1}
+training---{60: 2, 61: 2, 64: 2}
+tran---{58: 1}
+transactions---{59: 1}
+transfer---{59: 1}
+transformation---{59: 1}
+transition---{59: 1}
+transl---{59: 1}
+translation---{59: 1}
+translational---{58: 1, 59: 2}
+travis---{59: 1}
+trec---{59: 2}
+trial---{59: 2}
+tructuring---{59: 1}
+trust---{59: 1, 62: 1}
+trustcom---{59: 1}
+ts---{59: 1}
+turn---{59: 1}
+turning---{59: 1}
+tweets---{59: 1, 60: 1, 61: 1, 64: 1}
+twitter---{59: 1}
+two---{58: 1, 59: 1, 60: 1, 61: 1, 64: 1}
+tx---{59: 5}
+typescript---{58: 1}
+ubicomm---{59: 1}
+ubiquitous---{58: 1, 59: 1}
+uc---{58: 2, 59: 1, 60: 1, 61: 1, 62: 1, 63: 2, 64: 1}
+uci---{58: 2}
+uhealth---{59: 1}
+uj---{59: 1}
+uk---{59: 1}
+umich---{58: 1}
+uncertainties---{58: 1}
+uncertainty---{59: 2}
+unclear---{60: 1, 61: 1, 64: 1}
+unconstrained---{60: 1, 61: 1, 64: 1}
+under---{58: 2}
+undergraduate---{58: 6, 60: 5, 61: 5, 64: 5}
+undergraduates---{60: 1, 61: 1, 64: 1}
+underserved---{58: 2}
+understand---{58: 1, 60: 1, 61: 1, 62: 3, 64: 1}
+understanding---{58: 5, 59: 9}
+understandings---{58: 1}
+underweight---{59: 1}
+unintended---{58: 1, 59: 1}
+united---{59: 1}
+university---{58: 30, 59: 4, 60: 1, 61: 1, 64: 1}
+unpacking---{59: 1}
+unstructured---{58: 1, 62: 1}
+unusual---{59: 1}
+urbana---{58: 1}
+urol---{59: 1}
+urologists---{59: 1}
+us---{60: 1, 61: 1, 64: 1}
+usability---{58: 1}
+usage---{59: 1}
+use---{58: 5, 59: 12, 60: 1, 61: 1, 62: 1, 64: 1}
+used---{58: 2}
+useful---{58: 1}
+user---{58: 2, 59: 4}
+users---{58: 4, 59: 4, 62: 2}
+uses---{58: 1}
+using---{58: 6, 59: 10, 62: 1}
+usually---{60: 1, 61: 1, 64: 1}
+utah---{58: 1}
+utilize---{59: 1}
+utilizes---{58: 1}
+utilizing---{58: 1}
+uzuner---{59: 1}
+v---{59: 4}
+value---{60: 1, 61: 1, 62: 1, 64: 1}
+van---{59: 1}
+vancouver---{59: 2}
+variety---{58: 1}
+vawdrey---{59: 1}
+vd---{59: 1}
+ven---{59: 1}
+vgv---{59: 2}
+via---{59: 1}
+vial---{59: 1}
+vice---{58: 1}
+vichich---{59: 1}
+victor---{59: 2}
+victoria---{59: 1}
+victory---{59: 1}
+vidauri---{59: 1}
+vilas---{59: 1}
+vim---{58: 1}
+visit---{59: 3, 60: 1, 61: 1, 64: 1}
+visited---{58: 2}
+visual---{59: 1}
+vlogs---{59: 2}
+vocabulary---{59: 1}
+volunteer---{58: 2}
+volunteers---{60: 1, 61: 1, 64: 1}
+vv---{59: 2}
+vydiswaran---{59: 5}
+w---{59: 3}
+wa---{59: 5}
+waikoloa---{59: 3}
+wang---{59: 6}
+want---{58: 1, 60: 2, 61: 2, 64: 2}
+warden---{59: 1}
+was---{58: 4}
+washington---{59: 2}
+way---{58: 1, 60: 1, 61: 1, 64: 1}
+ways---{58: 3, 60: 1, 61: 1, 64: 1}
+we---{58: 7, 59: 1, 60: 6, 61: 6, 64: 6}
+web---{58: 1, 59: 1}
+weblogs---{59: 1}
+website---{58: 1, 59: 1, 60: 1, 61: 1, 62: 1, 63: 1, 64: 1}
+weekly---{60: 1, 61: 1, 64: 1}
+wei---{59: 2}
+weibel---{59: 4}
+weight---{59: 1}
+weizer---{59: 1}
+welcome---{60: 1, 61: 1, 64: 1}
+welfare---{58: 1}
+well---{58: 3, 59: 1, 60: 2, 61: 2, 64: 2}
+wellbeing---{60: 1, 61: 1, 64: 1}
+wellner---{59: 1}
+wellness---{58: 2}
+wen---{59: 2}
+wenqiang---{59: 1}
+werun---{59: 1}
+what---{59: 2, 60: 1, 61: 1, 64: 1}
+wheeler---{59: 2}
+when---{58: 2, 59: 6, 60: 2, 61: 2, 64: 2}
+where---{59: 1}
+which---{62: 1}
+white---{59: 1}
+who---{60: 1, 61: 1, 64: 1}
+why---{58: 1, 59: 2}
+wide---{58: 1}
+will---{58: 1, 60: 2, 61: 2, 64: 2}
+wimob---{59: 1}
+wireless---{59: 1}
+wisniewski---{59: 1}
+with---{58: 13, 59: 18, 60: 4, 61: 4, 62: 1, 64: 4}
+within---{60: 1, 61: 1, 64: 1}
+women---{58: 2, 59: 4}
+wong---{59: 1}
+woolliscroft---{59: 1}
+word---{59: 3}
+work---{58: 8, 59: 19, 60: 3, 61: 3, 64: 3}
+worked---{58: 3}
+workflow---{59: 4}
+working---{58: 3, 59: 1, 60: 2, 61: 2, 64: 2}
+world---{58: 1, 59: 6}
+worthwhile---{60: 1, 61: 1, 64: 1}
+wq---{59: 1}
+writing---{58: 1}
+wsdm---{59: 1}
+wu---{59: 8}
+x---{59: 15}
+xianghua---{59: 1}
+xiankang---{59: 1}
+xiao---{59: 1}
+xiaojuan---{59: 1}
+xiaoyong---{58: 1}
+xie---{59: 1}
+xinning---{58: 1, 59: 7, 62: 2}
+xu---{59: 8}
+xv---{59: 1}
+y---{59: 82}
+yan---{59: 4}
+yanqi---{59: 1}
+yao---{59: 1}
+ychen25---{58: 1}
+year---{60: 3, 61: 3, 64: 3}
+yearb---{59: 1}
+years---{58: 3, 60: 1, 61: 1, 64: 1}
+ym---{59: 3}
+you---{59: 2, 60: 18, 61: 18, 64: 18}
+young---{58: 1, 59: 3}
+your---{59: 2, 60: 5, 61: 5, 64: 5}
+yourself---{60: 1, 61: 1, 64: 1}
+yu---{58: 1, 59: 2, 62: 1}
+yubo---{59: 2}
+yue---{59: 1}
+yunan---{58: 6, 59: 17, 60: 1, 61: 1, 64: 1}
+yunanc---{58: 1}
+z---{59: 3}
+zeng---{59: 1}
+zhang---{59: 6}
+zhao---{59: 2}
+zhaoxian---{58: 1}
+zhaoyuan---{58: 1}
+zheng---{58: 6, 59: 71, 60: 1, 61: 1, 64: 1}
+zhou---{59: 1}
+zia---{59: 1}
+zika---{59: 1}
+zuest---{59: 3}
+ö---{59: 1}

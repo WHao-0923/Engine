@@ -9,13 +9,20 @@ from nltk.tokenize import word_tokenize
 import os, json, pickle
 from collections import defaultdict
 from invert_index import InvertedIndex
+from nltk.stem import PorterStemmer
+
 # import requests
 import time
 
 word_freq = defaultdict(int)
 ID_dict = defaultdict(str)  # {doc_id: url}
 ID_count = 1
-TEST_SIZE = 99999
+TEST_SIZE = 999999
+
+batch_size = 20000  # 20000
+file_index = 1
+
+file_list = []
 
 index_dict = InvertedIndex()
 
@@ -48,16 +55,34 @@ def read_files():
 
 def process_files(json_path, files):
     counter = 1
+
     print(f"STARTING: {json_path}, TEST SIZE: {str(TEST_SIZE)}")
+    counter = 1
     for file_name in files:
         # # politeness 0.3s:
         # time.sleep(0.3)
         if counter > TEST_SIZE:
             break
+
         # Keep track of progress
         if counter % 50 == 0:
             print("INDEXING...: " + str(counter))
         counter += 1
+
+        global file_index
+        if ID_count % batch_size == 0:
+            print(f'####################\n{ID_count}\n######################')
+            memory_file = "memory_file_" + str(file_index) + ".txt"
+            file_list.append(memory_file)
+            f = open(memory_file, "w")
+            small_sorted_dict = sorted(index_dict.index.items())
+            for i in small_sorted_dict:
+                f.write(f'{i[0]}---{i[1]}\n')
+            file_index += 1
+            print(file_index)
+            index_dict.index = defaultdict(dict)
+            f.close()
+
         with open(os.path.join(json_path, file_name), 'r') as f:
             # loads the dictionary inside each json file
             data = json.load(f)
@@ -67,34 +92,6 @@ def process_files(json_path, files):
             encode = data['encoding']
 
             # no need to check validility of url
-
-            # # Defragment the url
-            # if "#" in url:
-            #     url = url.split('#')[0]
-            # Use request to check url's status code
-
-            # try:
-            #     response = requests.head(url, allow_redirects=False, timeout=5)
-            #     if response.status_code != 200 :
-            #         # check if redirects
-            #         if response.status_code in (301, 302, 303, 307, 308):
-            #             redirect_response = requests.head(response.url, allow_redirects=False,timeout=5)
-            #             # check the status code for redirected url
-            #             if redirect_response.status_code != 200:
-            #                 continue
-            #             else:
-            #                 url = redirect_response.url
-            #         else:
-            #             continue
-            # except requests.exceptions.Timeout:
-            #     # Request timeout
-            #     print("The request timed out")
-            #     continue
-            # except requests.exceptions.RequestException:
-            #     # error in sending the request
-            #     print("Request ERROR")
-            #     continue
-
             # check if url is duplicated
             doc_ID = createID(url)
             # print(f'doc_ID: {doc_ID}')
@@ -104,6 +101,18 @@ def process_files(json_path, files):
 
             tokens = tokenize(text, doc_ID)
 
+    # for last time append
+    print(f'####################\n{ID_count}\n######################')
+    memory_file = "memory_file_" + str(file_index) + ".txt"
+    file_list.append(memory_file)
+    f = open(memory_file, "w")
+    small_sorted_dict = sorted(index_dict.index.items())
+    for i in small_sorted_dict:
+        f.write(f'{i[0]}---{i[1]}\n')
+    file_index += 1
+    print(file_index)
+    index_dict.index = defaultdict(dict)
+    f.close()
 
 def tokenize(text, doc_ID):
     # nltk to tokenize the text provided
@@ -121,6 +130,81 @@ def tokenize(text, doc_ID):
     return list(set(tokens))
 
 
+def merge_file():
+    file1 = open(file_list[0], "r+")
+    file2 = open(file_list[1], "r+")
+    file3 = open(file_list[2], "r+")
+    t1 = file1.readline()
+    t2 = file2.readline()
+    t3 = file3.readline()
+
+    counter = 0
+    while t1 != '' or t2 != '' or t3 != '':
+        if counter % 100 == 0:
+            #print(t1,t2,t3)
+            pass
+        counter += 1
+        token_list = [None, None, None] #['token', {}]
+        if t1 != '':
+            token1 = t1.split("---")
+            token_list[0] = token1
+        if t2 != '':
+            #print("2: ",t2)
+            token2 = t2.split("---")
+            token_list[1] = token2
+        if t3 != '':
+            token3 = t3.split("---")
+            token_list[2] = token3
+
+        # Find the smallest token from lists and the index
+        filtered_list = [word for word in token_list if word is not None]
+        min_list = min(filtered_list,key=lambda x:x[0]) #['token', {}]
+        min_token = min_list[0] #return token
+        min_file = token_list.index(min_list) #return file number
+
+        next_list = [min_file] #files that need to move to next line
+        merge_list = []
+        min_dict = eval(token_list[min_file][1])
+        merge_list.append(min_dict)
+
+        #merged_file = open('index.txt', 'a')
+        with open('index.txt', 'a') as merged_file:
+
+            for i in range(len(token_list)):
+                if i != min_file:
+                    if token_list[i] != None and min_token == token_list[i][0]:
+                        merge_list.append(eval(token_list[i][1]))
+                        next_list.append(i)
+
+            if len(merge_list) > 1:
+                merge_dict = {k: sum(d[k] for d in merge_list if k in d) for k in set(k for d in merge_list for k in d)}
+                #print(min_token + '---' + str(merge_dict))
+                merged_file.write(min_token + '---' + str(merge_dict) + '\n')
+                merged_file.flush()
+            else:
+                #print(min_token + '---' + str(merge_dict))
+                merged_file.write(min_token + '---' + str(min_dict) + '\n')
+                merged_file.flush()
+
+            if len(next_list) == 0:
+                return
+
+            for i in next_list: # [0,1]
+                #print(f"printing next list: {i}")
+                if i == 0 and t1 != '':
+                    t1 = file1.readline()
+                   #print(f"1!!!{t1}")
+                elif i == 1 and t2 != '':
+                    t2 = file2.readline()
+                    #print(f"2!!!{t2}")
+                elif i == 2 and t3 != '':
+                    t3 = file3.readline()
+                #print(f"3!!!{t3}")
+        #merged_file.close()
+
+
+
+
 # start the program
 if __name__ == '__main__':
     read_files()
@@ -129,17 +213,28 @@ if __name__ == '__main__':
 
     count = 0
 
-    f2 = open('main_index.txt', "w")
+    merge_file()
 
-    with open('index.txt', 'w') as f:
-        # f2.write(str(len(sorted_index)//100) + '\n')
-        for i in sorted_index:
-            if count % 1000 == 0:
-                f2.write(f"{i[0]} {os.stat('index.txt').st_size}\n")
-            f.write(f'{i[0]}---{i[1]}\n')
-            f.flush()
-            count += 1
+    f2 = open('main_index.txt', "w+")
+
+    # with open('ori_index.txt', 'w') as f:
+    #     # f2.write(str(len(sorted_index)//100) + '\n')
+    #     for i in sorted_index:
+    #         if count % 1000 == 0:
+    f = open('index.txt', "r")
+    byte = 0
+    text = f.readlines()
+    for i in text:
+        #f2.write(f"{i[0]} {os.stat('ori_index.txt').st_size}\n")
+        f2.write(f"{i.split('---')[0]} {byte}\n")
+        byte += len(i.encode())
+            #f.write(f'{i[0]}---{i[1]}\n')
+            #f.flush()
+            #count += 1
     f2.close()
+    f.seek(7801)
+    print(f.readline())
+    f.close()
 
     with open('urls.json', 'w') as f3:
         json.dump(ID_dict, f3)

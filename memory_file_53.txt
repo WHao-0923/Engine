@@ -1,0 +1,419 @@
+1---{47641: 1, 47642: 1}
+13---{47642: 1}
+2016---{47641: 1, 47642: 1}
+2017---{47642: 1}
+33---{47642: 1}
+371rbp---{47642: 1}
+4---{47641: 1}
+a---{47641: 32, 47642: 5}
+able---{47641: 1}
+absent---{47641: 1}
+across---{47641: 2}
+actual---{47641: 1}
+additional---{47641: 3}
+additionally---{47641: 1}
+advantage---{47641: 1}
+again---{47641: 1}
+aggregate---{47641: 2}
+alignments---{47642: 1}
+all---{47641: 5}
+along---{47641: 1}
+also---{47641: 2}
+always---{47641: 4}
+an---{47641: 3}
+and---{47641: 23, 47642: 5}
+annotation---{47641: 1}
+annotations---{47641: 5}
+any---{47641: 2}
+are---{47641: 9}
+as---{47641: 7}
+assigned---{47641: 1}
+at---{47641: 1}
+available---{47641: 1}
+back---{47641: 1}
+baldi---{47642: 1}
+based---{47641: 10}
+basic---{47641: 1}
+bayesian---{47641: 1, 47642: 1}
+bbls---{47641: 3}
+be---{47641: 9}
+been---{47642: 1}
+below---{47641: 2}
+best---{47641: 1}
+between---{47641: 1}
+binding---{47641: 6, 47642: 6}
+bioinformatics---{47642: 1}
+both---{47641: 1, 47642: 1}
+bp---{47641: 1}
+branch---{47641: 1, 47642: 1}
+bredy---{47642: 1}
+but---{47641: 2}
+button---{47641: 1}
+buttons---{47641: 1}
+by---{47641: 10, 47642: 1}
+called---{47641: 1}
+can---{47641: 12}
+candidate---{47642: 1}
+case---{47641: 4}
+cases---{47641: 5}
+cds---{47641: 1}
+check---{47641: 1}
+chipseq---{47641: 1}
+chr---{47641: 1}
+cisbp---{47641: 4}
+cite---{47642: 1}
+click---{47641: 2}
+clicking---{47641: 1}
+closest---{47641: 3}
+closestgene---{47641: 1}
+closestgenestrand---{47641: 1}
+clustering---{47641: 2}
+columns---{47641: 1}
+combined---{47642: 1}
+come---{47641: 1}
+comparative---{47642: 1}
+compensates---{47641: 1}
+comprehensive---{47642: 1}
+conduct---{47641: 1}
+connotations---{47641: 1}
+conservativity---{47641: 2}
+conserved---{47641: 2}
+considered---{47641: 1}
+considering---{47641: 1}
+contain---{47641: 1}
+containing---{47641: 1}
+contains---{47641: 1}
+coordinate---{47641: 1}
+coordinates---{47641: 1}
+copyright---{47641: 1, 47642: 1}
+corresponding---{47641: 4}
+counting---{47641: 1}
+criteria---{47642: 1}
+currently---{47641: 1}
+data---{47641: 6}
+database---{47641: 1, 47642: 2}
+databases---{47642: 1}
+datasets---{47642: 4}
+decaying---{47641: 1}
+degenerate---{47641: 1}
+derived---{47641: 2}
+details---{47641: 1}
+determine---{47641: 1}
+determines---{47641: 1}
+differ---{47641: 1}
+discoverd---{47642: 1}
+discovering---{47641: 1}
+distance---{47641: 2}
+distances---{47641: 3}
+documentation---{47641: 2}
+does---{47641: 1}
+doi---{47642: 1}
+doing---{47641: 1}
+down---{47641: 2}
+download---{47641: 1, 47642: 3}
+downloaded---{47642: 1}
+downstream---{47641: 1, 47642: 1}
+easily---{47641: 1}
+edges---{47641: 1}
+effective---{47641: 3}
+either---{47641: 1}
+elements---{47642: 1}
+encode---{47641: 1, 47642: 1}
+encoded---{47642: 1}
+entry---{47641: 1}
+especially---{47641: 1}
+etc---{47641: 1}
+exact---{47641: 1}
+exist---{47641: 2}
+exists---{47641: 3}
+experimental---{47642: 2}
+explained---{47641: 1}
+exponentially---{47641: 2}
+extra---{47641: 1}
+factor---{47641: 1, 47642: 2}
+factors---{47641: 1}
+filter---{47641: 1}
+filtering---{47641: 9}
+filters---{47641: 1}
+find---{47641: 2}
+following---{47641: 1, 47642: 1}
+for---{47641: 10, 47642: 4}
+form---{47641: 3}
+format---{47641: 1}
+from---{47641: 11, 47642: 1}
+full---{47642: 3}
+fully---{47641: 1}
+functions---{47641: 1}
+further---{47642: 1}
+gene---{47641: 8, 47642: 1}
+generated---{47641: 1}
+genes---{47642: 1}
+genome---{47641: 4, 47642: 1}
+genomes---{47642: 1}
+genomic---{47641: 3, 47642: 1}
+geo---{47641: 1}
+given---{47642: 1}
+guide---{47641: 1}
+has---{47641: 1}
+have---{47641: 2, 47642: 1}
+having---{47641: 1}
+help---{47641: 1, 47642: 1}
+hg19---{47642: 1}
+hg38---{47642: 5}
+high---{47641: 1}
+higher---{47641: 1}
+highly---{47641: 1}
+hit---{47641: 12}
+hits---{47641: 15}
+house---{47641: 1}
+how---{47641: 2}
+however---{47641: 3}
+human---{47642: 7}
+id---{47641: 7}
+identify---{47641: 1}
+if---{47641: 7, 47642: 1}
+in---{47641: 25, 47642: 2}
+include---{47641: 1}
+increase---{47641: 1}
+independent---{47642: 1}
+indicate---{47641: 2}
+indicates---{47641: 5}
+indicating---{47641: 1}
+indicator---{47641: 2}
+information---{47641: 3}
+intepretation---{47641: 1}
+interactive---{47641: 2}
+into---{47641: 1}
+intron---{47641: 1, 47642: 2}
+intronic---{47641: 1}
+is---{47641: 31}
+it---{47641: 12}
+its---{47641: 2}
+jul---{47642: 1}
+keep---{47641: 1}
+keyword---{47641: 1}
+kind---{47641: 1}
+known---{47642: 2}
+length---{47641: 1, 47642: 1}
+likely---{47641: 1}
+linearly---{47641: 1}
+link---{47641: 1, 47642: 1}
+links---{47641: 1}
+liu---{47642: 1}
+lnc---{47641: 1, 47642: 2}
+local---{47641: 3}
+localize---{47641: 1}
+location---{47641: 1}
+locations---{47642: 1}
+logo---{47641: 1}
+longer---{47641: 1}
+low---{47641: 1}
+main---{47641: 6}
+many---{47641: 4}
+map---{47642: 1}
+maps---{47642: 1}
+matches---{47641: 2}
+max---{47641: 2}
+may---{47641: 4}
+meaningless---{47641: 1}
+measure---{47641: 1}
+meta---{47641: 1}
+method---{47641: 1}
+methods---{47641: 1}
+mirna---{47641: 1, 47642: 2}
+mm10---{47642: 5}
+mm9---{47642: 1}
+mode---{47641: 3}
+model---{47642: 1}
+modes---{47641: 1}
+more---{47641: 5}
+most---{47641: 1}
+motif---{47641: 20}
+motifmap---{47641: 3, 47642: 16}
+motifs---{47641: 4, 47642: 2}
+mouse---{47642: 7}
+multiple---{47642: 1}
+name---{47641: 1}
+narrow---{47641: 2}
+near---{47641: 1}
+negative---{47641: 1}
+neightbor---{47641: 1}
+never---{47641: 1}
+new---{47641: 1}
+noncode---{47641: 1}
+not---{47641: 3}
+note---{47641: 3}
+of---{47641: 46, 47642: 7}
+on---{47641: 10}
+once---{47641: 1}
+one---{47641: 3}
+open---{47641: 1}
+or---{47641: 12}
+origin---{47641: 1}
+original---{47641: 1}
+other---{47641: 1}
+others---{47641: 1}
+output---{47641: 1}
+parameter---{47641: 3}
+parameters---{47641: 6}
+pending---{47641: 1}
+phylogenetic---{47641: 1}
+phylogentic---{47641: 1}
+placental---{47642: 1}
+please---{47641: 1, 47642: 3}
+point---{47641: 1}
+positions---{47641: 1}
+positive---{47641: 2}
+potential---{47641: 4}
+powerful---{47641: 1}
+predicted---{47641: 1}
+presented---{47641: 2}
+presenting---{47641: 1}
+press---{47641: 1}
+primary---{47641: 1}
+proof---{47642: 1}
+proteins---{47642: 2}
+proven---{47641: 1}
+provide---{47641: 1, 47642: 2}
+provided---{47641: 1}
+provides---{47641: 1, 47642: 1}
+public---{47641: 1}
+publication---{47641: 1}
+pwm---{47641: 1}
+quality---{47641: 1}
+queries---{47641: 1}
+query---{47641: 7}
+querying---{47641: 2}
+questions---{47641: 1}
+rank---{47641: 1}
+ranking---{47641: 1}
+ranks---{47641: 1}
+rbp---{47641: 1, 47642: 9}
+rbpdb---{47641: 4}
+reference---{47641: 1}
+refined---{47642: 1}
+regardless---{47641: 2}
+region---{47641: 3}
+regions---{47641: 2}
+regulating---{47641: 1}
+regulation---{47642: 1}
+regulatory---{47642: 1}
+relationships---{47641: 1}
+relative---{47641: 1, 47642: 1}
+relatively---{47641: 1}
+relevant---{47641: 1}
+reliable---{47641: 2}
+replaced---{47641: 1}
+result---{47641: 2}
+results---{47641: 8}
+rna---{47642: 2}
+row---{47641: 6}
+same---{47641: 4}
+scalable---{47641: 1}
+score---{47641: 3, 47642: 1}
+scores---{47641: 1}
+search---{47641: 8, 47642: 3}
+searchable---{47642: 2}
+section---{47641: 1}
+sections---{47641: 1}
+see---{47641: 3}
+select---{47641: 8, 47642: 2}
+selected---{47641: 1}
+selecting---{47641: 1}
+selection---{47641: 1}
+seqid---{47641: 1}
+sequence---{47641: 2}
+set---{47642: 1}
+short---{47641: 2}
+show---{47641: 2}
+significant---{47641: 1}
+similar---{47641: 2}
+since---{47641: 1}
+site---{47641: 5}
+sites---{47641: 1, 47642: 4}
+so---{47641: 1}
+some---{47641: 3}
+sometimes---{47641: 2}
+sort---{47641: 3}
+source---{47641: 6}
+sources---{47641: 1, 47642: 1}
+species---{47641: 3, 47642: 1}
+specific---{47641: 2, 47642: 1}
+specified---{47641: 1}
+spitale---{47642: 1}
+start---{47641: 4}
+statistical---{47642: 1}
+stop---{47641: 1}
+stoufferz---{47641: 1}
+strand---{47641: 9}
+strandity---{47641: 2}
+strategy---{47641: 1}
+strength---{47641: 2}
+strong---{47641: 3}
+strongly---{47641: 1}
+such---{47641: 2}
+sun---{47642: 1}
+system---{47642: 2}
+table---{47641: 6}
+tables---{47641: 1}
+take---{47641: 1}
+target---{47641: 10}
+targets---{47641: 1}
+targetted---{47641: 1}
+tf---{47641: 1}
+than---{47641: 2}
+that---{47641: 8}
+the---{47641: 96, 47642: 4}
+their---{47641: 2, 47642: 1}
+then---{47641: 2}
+there---{47641: 3}
+these---{47641: 4}
+they---{47641: 1}
+this---{47641: 12}
+those---{47641: 3}
+thresholds---{47641: 1}
+to---{47641: 18, 47642: 2}
+together---{47641: 1}
+toolset---{47641: 1}
+transcription---{47641: 1, 47642: 2}
+tree---{47641: 1}
+tss---{47641: 2}
+two---{47641: 5}
+type---{47641: 1}
+typically---{47641: 1}
+upstream---{47641: 1, 47642: 1}
+usage---{47641: 1}
+use---{47641: 2, 47642: 1}
+used---{47641: 1}
+using---{47641: 1, 47642: 1}
+usually---{47641: 1}
+utilize---{47641: 1}
+utr---{47641: 1}
+utrs---{47642: 2}
+variety---{47641: 2}
+very---{47641: 3}
+vicinity---{47641: 1}
+view---{47641: 3}
+want---{47641: 1}
+way---{47641: 2}
+we---{47641: 4}
+website---{47641: 1}
+weight---{47641: 1}
+weighted---{47641: 4}
+weightedz---{47641: 1}
+well---{47641: 1}
+what---{47641: 1}
+when---{47641: 3}
+which---{47641: 4}
+whichever---{47641: 1}
+while---{47641: 2}
+will---{47641: 7}
+window---{47641: 1}
+with---{47641: 4}
+within---{47641: 1}
+wood---{47642: 1}
+xls---{47641: 1}
+you---{47641: 24, 47642: 1}
+your---{47641: 3}
+zscore---{47641: 2}
+zscores---{47641: 3}

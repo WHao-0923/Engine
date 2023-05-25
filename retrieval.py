@@ -1,17 +1,24 @@
 import json
 import time
+from nltk.stem import PorterStemmer
 
 query = ''
 print("   ########## ##########")
 print("WELCOME TO OUR SEARCH ENGINE")
 while True:
     query = input("> ").lower()
+
+    ps = PorterStemmer()
+
     start_time = time.time()
     if query == '!quit':
         break
     # sort words for query
     words = sorted(query.split())
+    # [people,running]
+    # [people,run] [people,running]
 
+    words = [ps.stem(w) for w in words]
     byte_pos = dict()
     with open('main_index.txt', 'r+') as f:
         text = f.readline()
