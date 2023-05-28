@@ -1,7 +1,9 @@
 import generate_index
 import math
 
+
 index_dict_1 = {"hello" : {12: [3, 0], 11: [4, 0], 1: [4, 0]}, "world" : {12: [3, 1], 11: [3, 0]}} #index_dict
+index_dict_2 = {"hello" : {12: 3, 11: 4, 1: 4}, "world" : {12: 3, 11: 3}}
 total_count_1 = 50000 #number of document
 
 # computer tf-idf for a index_dict
@@ -10,8 +12,8 @@ def compute_tfidf(index_dict, total_count):
     for token, doc_freq in index_dict.items():
         for doc_id, freq in doc_freq.items():
             df = len(doc_freq)
-            tf = freq[0] #freq for normal dict
-            weight = freq[1]
+            tf = freq #freq for normal dict, change to freq[0] for later implementation
+            weight = 0 #freq[1]
             if weight == 1:
                 tf_idf = (1 + math.log(tf, 2) * 2) * math.log(total_count/df, 2)
             else:
@@ -21,7 +23,6 @@ def compute_tfidf(index_dict, total_count):
             else:
                 tfidf_dict[doc_id] = tf_idf
     tfidf_dict = dict(sorted(tfidf_dict.items(), key=lambda item: item[1], reverse=True))
-    print(tfidf_dict)
-    return tfidf_dict
+    return tfidf_dict #{11: 35.180410274716046, 9: 13.609640474436812, 38: 13.609640474436812, 42: 13.609640474436812}
 
-compute_tfidf(index_dict_1, total_count_1)
+compute_tfidf(index_dict_2, total_count_1)

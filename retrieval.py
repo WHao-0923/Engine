@@ -1,6 +1,8 @@
 import json
 import time
+import ast
 from nltk.stem import PorterStemmer
+import ranking
 
 query = ''
 print("   ########## ##########")
@@ -46,6 +48,7 @@ while True:
     ID_sets = set()
     # print(byte_pos)
     f2 = open('index.txt')
+    final_docID_list = []
     for k, v in byte_pos.items():
         # print(f"inside {k},{v}")
         f2.seek(int(v))
@@ -56,28 +59,26 @@ while True:
             # print("1")
             token_tuple = tuple(f2.readline().rstrip('\n').split('---'))
         if token_tuple[0] == k:
-            corr_dict = eval(token_tuple[1]).keys()
-            # Intersecting while adding to the set
-            # print(corr_dict)
-            if len(ID_sets) == 0:
-                ID_sets = set(corr_dict)
-            else:
-                ID_sets = ID_sets.intersection(set(corr_dict))
-        else:
-            ID_sets = set()
-            break
-        # print(token_dt)
+            print(token_tuple)
+            final_docID_list.append(token_tuple)
+    # Initialize an empty dictionary
+    result = {}
+    # Loop over the data
+    for key, value in final_docID_list:
+        # Use ast.literal_eval to safely convert the string to a dictionary and assign it to the key in the result
+        result[key] = ast.literal_eval(value)
+    final = ranking.compute_tfidf(result, 50000)
+    print(final)
     f2.close()
-    # print(ID_sets)
 
-    if len(ID_sets) != 0:
-        print(f"{len(ID_sets)} Results in ", end="")
+    if len(final) != 0:
+        print(f"{len(final)} Results in ", end="")
         print("%s ms:" % round((time.time() - start_time) * 1000, 2))
         # generate URLs
         f = open('urls.json')
         ID_dict = json.load(f)
         rank = 1
-        for i in ID_sets:
+        for i in final:
             print(f'{rank}: {ID_dict[str(i)]}')
             rank += 1
             if rank > 10:
