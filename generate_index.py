@@ -14,12 +14,12 @@ from nltk.stem import PorterStemmer
 # import requests
 import time
 
-word_freq = defaultdict(int)
+#word_freq = defaultdict(int)
 ID_dict = defaultdict(str)  # {doc_id: url}
 ID_count = 1
-TEST_SIZE = 99
+TEST_SIZE = 99999
 
-batch_size = 200  # 20000
+batch_size = 20000  # 20000
 file_index = 1
 
 file_list = []
@@ -100,7 +100,9 @@ def process_files(json_path, files):
             soup = BeautifulSoup(content, "html.parser")
             text = soup.get_text()
 
-            tokens = tokenize(text, doc_ID)
+            tokens = tokenize(text, doc_ID, soup)
+
+    #print(word_freq)
 
     # for last time append
     print(f'####################\n{ID_count}\n######################')
@@ -115,7 +117,22 @@ def process_files(json_path, files):
     index_dict.index = defaultdict(dict)
     f.close()
 
-def tokenize(text, doc_ID):
+def score_token(token, soup):
+    
+    # Define a dictionary to hold the scores
+    tag_scores = {'h1': 20, 'h2': 19, 'h3': 18, 'h4': 17, 'h5': 16, 'h6': 15, 'b': 10}
+
+    # Find the first tag of this type
+    tag = soup.find(lambda t: t.name in tag_scores and token in t.get_text())
+    
+    # If the tag was found
+    if tag:
+        return [token, tag_scores[tag.name]]
+
+    # If the token was not found in any of the tags, return a score of 0
+    return [token, 0]
+
+def tokenize(text, doc_ID, soup):
     # nltk to tokenize the text provided
     tokens = word_tokenize(text)
 
@@ -123,12 +140,17 @@ def tokenize(text, doc_ID):
     for token in tokens:
         word = token.lower()
         if word.isalnum():
+            #find the score of this token for the first time it appears in the context['This', 19]
+            token_value = score_token(word, soup)[1]
             word2 = ps.stem(word)
-            word_freq[word2] += 1
+            
+            #word_freq[word2] += 1
             if doc_ID in index_dict.index[word2]:
-                index_dict.index[word2][doc_ID] += 1
+                #just increment the frequency within a doc
+                index_dict.index[word2][doc_ID][0] += 1
             else:
-                index_dict.index[word2][doc_ID] = 1
+                #update the token_value according to the first appearance
+                index_dict.index[word2][doc_ID] = [1, token_value]
     return list(set(tokens))
 
 
@@ -179,7 +201,11 @@ def merge_file():
                         next_list.append(i)
 
             if len(merge_list) > 1:
-                merge_dict = {k: sum(d[k] for d in merge_list if k in d) for k in set(k for d in merge_list for k in d)}
+                merge_dict = merge_list[0]
+                for i in merge_list[1:]:
+                    for k, v in i.items():
+                        merge_dict[k] = v
+                print(merge_dict)
                 #print(min_token + '---' + str(merge_dict))
                 merged_file.write(min_token + '---' + str(merge_dict) + '\n')
                 merged_file.flush()
