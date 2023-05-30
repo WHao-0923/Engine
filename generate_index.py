@@ -5,16 +5,20 @@
 # Ruiyang Wang, 52294785
 
 from bs4 import BeautifulSoup, SoupStrainer
+import nltk
 from nltk.tokenize import word_tokenize
 import os, json, pickle
 from collections import defaultdict
 from invert_index import InvertedIndex
 from nltk.stem import PorterStemmer
+from nltk.corpus import words
 from lxml import etree
 
 # import requests
 import time
 
+#nltk.download('words')
+english_words = words.words()
 perform_index = {}
 
 #word_freq = defaultdict(int)
@@ -289,6 +293,8 @@ if __name__ == '__main__':
 
     # merge_file()
 
+    perform_index = {}
+
     f2 = open('main_index.txt', "w+")
 
     # with open('ori_index.txt', 'w') as f:
@@ -298,13 +304,25 @@ if __name__ == '__main__':
     f = open('index.txt', "r")
     byte = 0
     text = f.readlines()
+
+    common_words = ('computer','science','machine','learning','engineering',"algorithm",\
+                "data", "program", "code", "variable", "function", "class", "object", "interface", \
+                "method", "loop", "conditional", "array", "list", "string", "integer", "boolean",\
+                 "file", "database", "network", "server", "client", "protocol", "encryption",\
+                  "decryption", "compiler", "interpreter", "operating system", "memory", "cpu", \
+                  "gpu", "cache", "thread", "process", "concurrency", "parallelism", "big data", \
+                  "artificial intelligence", "machine learning", "deep learning", "neural network",\
+                   "cloud computing", "virtualization", "web development", "api", "framework", "security", "vulnerability", "debugging", "testing", "software", "hardware", "database", "management", "data", "structure", "algorithmic", "complexity", "recursion", "sorting", "searching", "graph", "tree", "linked", "list", "queue", "stack", "hashing", "operating", "system", "file", "networking", "client", "server", "internet", "cybersecurity", "cryptography", "authentication", "authorization", "privacy", "integrity", "cloud", "storage", "distributed", "computing", "virtual", "machine", "web", "application", "mobile", "app", "responsive", "design", "user", "interface", "experience", "agile", "development", "version", "control")
+
     for i in text:
         #f2.write(f"{i[0]} {os.stat('ori_index.txt').st_size}\n")
-        if count % 100 == 0:
+        # save the most common token in cache
+        if i.split('---')[0] in common_words:
+            perform_index[i.split('---')[0]] = byte
+
+        if count % 800 == 0: # this creates 800 main index, and each with 800 interval
             f2.write(f"{i.split('---')[0]} {byte}\n")
-            # save the fastest index in cache
-            if count % 1000 == 0:
-                perform_index[i.split('---')[0]] = os.stat('main_index.txt').st_size
+    
         byte += len(i.encode())
             #f.write(f'{i[0]}---{i[1]}\n')
             #f.flush()
@@ -313,7 +331,8 @@ if __name__ == '__main__':
     f.seek(7801)
     #print(f.readline())
     f.close()
-    print(perform_index)
+    with open("perform_index.json",'w') as file:
+        json.dump(perform_index,file)
     # with open('urls.json', 'w') as f3:
     #     json.dump(ID_dict, f3)
 

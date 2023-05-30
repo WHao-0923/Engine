@@ -23,7 +23,7 @@ def compute_tfidf(index_dict, total_count):
     #print(tfidf_dict)
 
     # use heap directly
-    return dict(heapq.nlargest(1000,tfidf_dict.items(),key=lambda item: item[1])) #{11: 35.180410274716046, 9: 13.609640474436812, 38: 13.609640474436812, 42: 13.609640474436812}
+    return heapq.nlargest(1000,tfidf_dict.items(),key=lambda item: item[1]) #{11: 35.180410274716046, 9: 13.609640474436812, 38: 13.609640474436812, 42: 13.609640474436812}
 
 if __name__ == '__main__':
     compute_tfidf(index_dict_1, total_count_1)
