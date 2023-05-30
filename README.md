@@ -1,7 +1,7 @@
 # Engine
 pip install nltk
 
-GUIDANCE:\n
+GUIDANCE:
 
 
 To generate index:
