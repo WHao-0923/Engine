@@ -1,8 +1,8 @@
 # Engine
 pip install nltk
 
-GUIDANCE:
-create a file called "index.txt"
+GUIDANCE:\n
+
 
 To generate index:
     python generate_index.py
