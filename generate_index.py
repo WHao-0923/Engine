@@ -4,20 +4,23 @@
 # Weiyu Hao, 59955246
 # Ruiyang Wang, 52294785
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, SoupStrainer
 from nltk.tokenize import word_tokenize
 import os, json, pickle
 from collections import defaultdict
 from invert_index import InvertedIndex
 from nltk.stem import PorterStemmer
+from lxml import etree
 
 # import requests
 import time
 
+perform_index = {}
+
 #word_freq = defaultdict(int)
 ID_dict = defaultdict(str)  # {doc_id: url}
 ID_count = 1
-TEST_SIZE = 99999
+TEST_SIZE = 999999
 
 batch_size = 20000  # 20000
 file_index = 1
@@ -49,9 +52,27 @@ def read_files():
             continue
         path = path_to_json + d + '/'
         print(path)
+
+        # testing only
+        #if path == 'DEV/cbcl_ics_uci_edu/':
+
         # Process files from each directory
         dir_files = [pos_json for pos_json in os.listdir(path) if pos_json.endswith('.json')]
+    
         process_files(path, dir_files)
+    # for last time append
+    global file_index
+    print(f'####################\n{ID_count}\n######################')
+    memory_file = "memory_file_" + str(file_index) + ".txt"
+    file_list.append(memory_file)
+    f = open(memory_file, "w")
+    small_sorted_dict = sorted(index_dict.index.items())
+    for i in small_sorted_dict:
+        f.write(f'{i[0]}---{i[1]}\n')
+    file_index += 1
+    print(file_index)
+    index_dict.index = defaultdict(dict)
+    f.close()
 
 
 def process_files(json_path, files):
@@ -98,50 +119,66 @@ def process_files(json_path, files):
             # print(f'doc_ID: {doc_ID}')
 
             soup = BeautifulSoup(content, "html.parser")
+            h1 = soup.find('h1')
+            h2 = soup.find('h2')
+            h3 = soup.find('h3')
+            b = soup.find('b')
             text = soup.get_text()
 
-            tokens = tokenize(text, doc_ID, soup)
+            tokens = tokenize(text, doc_ID, h1,h2,h3,b)
 
     #print(word_freq)
 
-    # for last time append
-    print(f'####################\n{ID_count}\n######################')
-    memory_file = "memory_file_" + str(file_index) + ".txt"
-    file_list.append(memory_file)
-    f = open(memory_file, "w")
-    small_sorted_dict = sorted(index_dict.index.items())
-    for i in small_sorted_dict:
-        f.write(f'{i[0]}---{i[1]}\n')
-    file_index += 1
-    print(file_index)
-    index_dict.index = defaultdict(dict)
-    f.close()
-
-def score_token(token, soup):
     
+def score_token(text, token,h1,h2,h3,b):
     # Define a dictionary to hold the scores
-    tag_scores = {'h1': 20, 'h2': 19, 'h3': 18, 'h4': 17, 'h5': 16, 'h6': 15, 'b': 10}
+    tag_scores = {'h1': 20, 'h2': 19, 'h3': 18, 'b': 10}
 
-    # Find the first tag of this type
-    tag = soup.find(lambda t: t.name in tag_scores and token in t.get_text())
+    # # Define a CSS selector to find multiple tags
+    # selector = 'h1, h2'
+
+    # # Find all occurrences of the specified tags using the CSS selector
+    # tags = soup.select(selector)
+
+    #soup = BeautifulSoup(text, 'html.parser')
+
+    if h1:
+        if token in h1.get_text():
+            #print('h1')
+            return [token, 20]
+    if h2:
+        if token in h2.get_text():
+            #print('h2')
+            return [token, 19]
+    if h3:
+        if token in h3.get_text():
+            #print('h3')
+            return [token, 18]
+    if b:
+        if token in b.get_text():
+            #print('b')
+            return [token, 10]
+
+    # # Find the first tag of this type
+    # for tag in tags:
+    #     #print(tag)
+    #     if token in tag.get_text():
+    # #return [token, 0]
+    #         return [token, tag_scores.get(tag.name, 0)]
     
-    # If the tag was found
-    if tag:
-        return [token, tag_scores[tag.name]]
-
     # If the token was not found in any of the tags, return a score of 0
     return [token, 0]
 
-def tokenize(text, doc_ID, soup):
+def tokenize(text, doc_ID, h1,h2,h3,b):
     # nltk to tokenize the text provided
     tokens = word_tokenize(text)
 
     # update the word_frequency dictionary and give the word count of this page
+    token_count = 0
     for token in tokens:
         word = token.lower()
         if word.isalnum():
             #find the score of this token for the first time it appears in the context['This', 19]
-            token_value = score_token(word, soup)[1]
             word2 = ps.stem(word)
             
             #word_freq[word2] += 1
@@ -150,14 +187,23 @@ def tokenize(text, doc_ID, soup):
                 index_dict.index[word2][doc_ID][0] += 1
             else:
                 #update the token_value according to the first appearance
-                index_dict.index[word2][doc_ID] = [1, token_value]
+                token_value = score_token(text, word,h1,h2,h3,b)[1]
+                token_count += 1
+                index_dict.index[word2][doc_ID] = [1, token_value] # [1, token_value]
+    #print(index_dict.index)
     return list(set(tokens))
 
 
 def merge_file():
-    file1 = open(file_list[0], "r+")
-    file2 = open(file_list[1], "r+")
-    file3 = open(file_list[2], "r+")
+    
+    # file1 = open(file_list[0], "r+")
+    # file2 = open(file_list[1], "r+")
+    # file3 = open(file_list[2], "r+")
+
+    file1 = open('memory_file_1.txt', "r+")
+    file2 = open('memory_file_2.txt', "r+")
+    file3 = open('memory_file_3.txt', "r+")
+
     t1 = file1.readline()
     t2 = file2.readline()
     t3 = file3.readline()
@@ -205,7 +251,7 @@ def merge_file():
                 for i in merge_list[1:]:
                     for k, v in i.items():
                         merge_dict[k] = v
-                print(merge_dict)
+                #print(merge_dict)
                 #print(min_token + '---' + str(merge_dict))
                 merged_file.write(min_token + '---' + str(merge_dict) + '\n')
                 merged_file.flush()
@@ -235,13 +281,13 @@ def merge_file():
 
 # start the program
 if __name__ == '__main__':
-    read_files()
+    # read_files()
 
-    sorted_index = sorted(index_dict.index.items())
+    # sorted_index = sorted(index_dict.index.items())
 
     count = 0
 
-    merge_file()
+    # merge_file()
 
     f2 = open('main_index.txt', "w+")
 
@@ -254,39 +300,43 @@ if __name__ == '__main__':
     text = f.readlines()
     for i in text:
         #f2.write(f"{i[0]} {os.stat('ori_index.txt').st_size}\n")
-        f2.write(f"{i.split('---')[0]} {byte}\n")
+        if count % 100 == 0:
+            f2.write(f"{i.split('---')[0]} {byte}\n")
+            # save the fastest index in cache
+            if count % 1000 == 0:
+                perform_index[i.split('---')[0]] = os.stat('main_index.txt').st_size
         byte += len(i.encode())
             #f.write(f'{i[0]}---{i[1]}\n')
             #f.flush()
-            #count += 1
+        count += 1
     f2.close()
     f.seek(7801)
-    print(f.readline())
+    #print(f.readline())
     f.close()
+    print(perform_index)
+    # with open('urls.json', 'w') as f3:
+    #     json.dump(ID_dict, f3)
 
-    with open('urls.json', 'w') as f3:
-        json.dump(ID_dict, f3)
+    # # get size of the file in KB
+    # file_size = os.path.getsize('index.txt') / 1024
 
-    # get size of the file in KB
-    file_size = os.path.getsize('index.txt') / 1024
-
-    # generate report
-    with open('report.txt', 'w+') as file:
-        file.write("Team Members:\n")
-        file.write("Joanna Chen, 66238804\n")
-        file.write("Yui Guo, 75458764\n")
-        file.write("Weiyu Hao, 59955246\n")
-        file.write("Ruiyang Wang, 52294785\n")
-        file.write("\n\n\n\n")
-        file.write("Number of Documents: " + str(ID_count))
-        file.write("\n\n")
-        file.write("Number of Unique Tokens: " + str(len(index_dict.index)))
-        file.write("\n\n")
-        file.write("File size of index in disk is " + str(round(file_size, 2)) + "KB")
-        file.write("\n\n")
-        file.write("DocID with URLs:\n")
-        for k, v in ID_dict.items():
-            file.write(f'DocID {k} ----- {v}\n')
+    # # generate report
+    # with open('report.txt', 'w+') as file:
+    #     file.write("Team Members:\n")
+    #     file.write("Joanna Chen, 66238804\n")
+    #     file.write("Yui Guo, 75458764\n")
+    #     file.write("Weiyu Hao, 59955246\n")
+    #     file.write("Ruiyang Wang, 52294785\n")
+    #     file.write("\n\n\n\n")
+    #     file.write("Number of Documents: " + str(ID_count))
+    #     file.write("\n\n")
+    #     file.write("Number of Unique Tokens: " + str(len(index_dict.index)))
+    #     file.write("\n\n")
+    #     file.write("File size of index in disk is " + str(round(file_size, 2)) + "KB")
+    #     file.write("\n\n")
+    #     file.write("DocID with URLs:\n")
+    #     for k, v in ID_dict.items():
+    #         file.write(f'DocID {k} ----- {v}\n')
 
     # for k,v in index_dict.index.items():
     #     print(f"###########{k}: -------------{v}")

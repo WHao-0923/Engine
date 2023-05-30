@@ -4,6 +4,7 @@ import ast
 from nltk.stem import PorterStemmer
 import ranking
 
+
 query = ''
 print("   ########## ##########")
 print("WELCOME TO OUR SEARCH ENGINE")
@@ -19,7 +20,7 @@ while True:
     words = sorted(query.split())
     # [people,running]
     # [people,run] [people,running]
-
+    print("Here")
     words = [ps.stem(w) for w in words]
     byte_pos = dict()
     with open('main_index.txt', 'r+') as f:
@@ -59,7 +60,7 @@ while True:
             # print("1")
             token_tuple = tuple(f2.readline().rstrip('\n').split('---'))
         if token_tuple[0] == k:
-            print(token_tuple)
+            #print(token_tuple)
             final_docID_list.append(token_tuple)
     # Initialize an empty dictionary
     result = {}
@@ -68,7 +69,8 @@ while True:
         # Use ast.literal_eval to safely convert the string to a dictionary and assign it to the key in the result
         result[key] = ast.literal_eval(value)
     final = ranking.compute_tfidf(result, 50000)
-    print(final)
+    #final = result
+    #print(final)
     f2.close()
 
     if len(final) != 0:
