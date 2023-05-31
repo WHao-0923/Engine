@@ -1,0 +1,14 @@
+TESTING QUERIES:
+hello world:
+    Base case, reached below 300ms for the ealiest version.
+
+computer science:
+    Medium case, occurs many times and query slower than 300ms.
+    Added cs related common words to increase the speed.
+
+what is master of computer engineering:
+    Hard case, long query and query in approximately 1500ms.
+    Ignore non-important tokens such as stop wrods to speed up.
+
+study of machienaiofhdsao:
+    Edge case, warbled query, reached below 300ms.
