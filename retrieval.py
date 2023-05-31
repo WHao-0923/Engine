@@ -3,17 +3,22 @@ import time
 import ast
 from nltk.stem import PorterStemmer
 from nltk.stem import SnowballStemmer
+from nltk.corpus import stopwords
 import ranking
 
 with open("perform_index.json",'r') as f:
     perform_index = json.load(f)
 #print(perform_index)
+
+stop_words = set(stopwords.words('english'))
 query = ''
 print("   ########## ##########")
 print("WELCOME TO OUR SEARCH ENGINE")
 while True:
     query = input("> ").lower()
-
+    
+    words = [token for token in words if token not in stop_words]
+    
     stemmer = SnowballStemmer('english', ignore_stopwords=True)
 
     start_time = time.time()
