@@ -1,5 +1,6 @@
 # Engine
 pip install nltk
+pip install openai
 
 GUIDANCE:
 
