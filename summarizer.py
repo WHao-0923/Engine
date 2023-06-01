@@ -3,7 +3,7 @@ class Summarizer:
     
     def __init__(self, api_key) -> None:
         self.api_key= api_key
-        self.MSG_HEADER = 'summarize there messages: '
+        self.MSG_HEADER = 'summarize messages: '
 
     def summarize(self, pages) -> str:
         msg = ' '.join(pages)
