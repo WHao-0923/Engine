@@ -5,10 +5,14 @@ from nltk.stem import PorterStemmer
 from nltk.stem import SnowballStemmer
 from nltk.corpus import stopwords
 import ranking
+from summarizer import Summarizer
 
 with open("perform_index.json",'r') as f:
     perform_index = json.load(f)
 #print(perform_index)
+
+OPENAI_AIPI_KEY = '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'
+openai_summarizer = Summarizer(OPENAI_AIPI_KEY)
 
 stop_words = set(stopwords.words('english'))
 query = ''
@@ -17,7 +21,6 @@ print("WELCOME TO OUR SEARCH ENGINE")
 while True:
     query = input("> ").lower()
     
-    words = [token for token in words if token not in stop_words]
     
     stemmer = SnowballStemmer('english', ignore_stopwords=True)
 
@@ -26,6 +29,7 @@ while True:
         break
     # sort words for query
     words = sorted(query.split())
+    words = [token for token in words if token not in stop_words]
     # [people,running]
     # [people,run] [people,running]
     #print("Here")
@@ -93,7 +97,7 @@ while True:
     final = ranking.compute_tfidf(final_docID_list, 50000)
     #final = set.intersection(*final_docID_list)
     f2.close()
-
+    pages = []
     if len(final) != 0:
         print(f"{len(final)} Results in ", end="")
         print("%s ms:" % round((time.time() - start_time) * 1000, 2))
@@ -103,10 +107,13 @@ while True:
         rank = 1
         for i in final:
             print(f'{rank}: {ID_dict[str(i[0])]}')
+            pages.append(ID_dict[str(i[0])])
             rank += 1
             if rank > 10:
                 break
         f.close()
+        print('Generating summary...')
+        print(f'Summary: {openai_summarizer.summarize(pages)}')
     else:
         print('No Result')
         print("--- %s ms ---" % round((time.time() - start_time) * 1000, 2))
