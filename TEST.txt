@@ -12,3 +12,7 @@ what is master of computer engineering:
 
 study of machienaiofhdsao:
     Edge case, warbled query, reached below 300ms.
+
+to be or not to be:
+    Edge case, contains stop words only, and contains large amount of docIDs.
+    Treat stopword-only query specifically, use cache dict for performance
