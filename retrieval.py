@@ -19,38 +19,52 @@ query = ''
 print("   ########## ##########")
 print("WELCOME TO OUR SEARCH ENGINE")
 while True:
-    query = input("> ").lower()
-    
-    
     stemmer = SnowballStemmer('english', ignore_stopwords=True)
-
-    start_time = time.time()
+    query = input("> ").lower()
     if query == '!quit':
         break
+    start_time = time.time()
+    
     # sort words for query
-    words = sorted(query.split())
-    words = [token for token in words if token not in stop_words]
+    sort_words = sorted(list(set(query.split())))
     # [people,running]
     # [people,run] [people,running]
     #print("Here")
+    stop_only = 0
+    percent_count = 0
+    words = []
+    for token in sort_words:
+        if token in stop_words:
+            percent_count += 1
+        else:
+            words.append(token)
+    # check if a query is mainly stop words
+    if percent_count/len(sort_words) > 0.75:
+        stop_only = 1
+    if stop_only:
+        words = sort_words
+    #words = [token for token in sort_words if token not in stop_words]
 
     # to search for base form only
     words = [stemmer.stem(w) for w in words]
+
     #print(words)
     byte_pos = dict()
     #print(perform_index)
     with open('main_index.txt', 'r+') as f:
+        #main_index_time = time.time()
         text = f.readline()
         
         pointer = 0
         last = text.split()[1]
         while text != '' and (pointer < len(words)):
             token = text.split()[0]
-            # Compare with the cache dict for faster performance
-            if words[pointer] in perform_index:
-                byte_pos[words[pointer]] = str(perform_index[words[pointer]])
-                pointer += 1
-                continue
+            # # Compare with the cache dict for faster performance
+            # if words[pointer] in perform_index:
+            #     byte_pos[words[pointer]] = str(perform_index[words[pointer]])
+            #     pointer += 1
+            #     continue
+
             # Comparison between tokens, save the byte position
             if token == words[pointer]:
                 byte_pos[words[pointer]] = text.split()[1]
@@ -66,37 +80,42 @@ while True:
         while pointer < len(words):
             byte_pos[words[pointer]] = last
             pointer += 1
+    #print("--- main index %s ms ---" % round((time.time() - main_index_time) * 1000, 2))
 
-
+    locate_index_time = time.time()
     # List of docID sets
     ID_sets = set()
     # print(byte_pos)
     f2 = open('index.txt')
     final_docID_list = {}
     for k, v in byte_pos.items():
+        if k in perform_index:
+            #print(k,perform_index[k])
+            final_docID_list[k] = perform_index[k]
+            continue
         # seek directly to the range of the index file
         f2.seek(int(v))
         token_tuple = tuple(f2.readline().rstrip('\n').split('---'))
         # print(token_tuple)
+        #loop_index_time = time.time()
         while len(token_tuple) != 0 and token_tuple[0] < k:
-            # print(token_tuple[0],k)
-            # print("1")
             token_tuple = tuple(f2.readline().rstrip('\n').split('---'))
+        #print("     --- loop index %s ms ---" % round((time.time() - loop_index_time) * 1000, 2))
         if token_tuple[0] == k:
             #print(eval(token_tuple[1]).keys())
             #final_docID_list.append(set(eval(token_tuple[1]).keys()))
-            final_docID_list[token_tuple[0]] = eval(token_tuple[1])
-    # Initialize an empty dictionary
-    result = {}
+            #append_index_time  = time.time()
 
-    # # Loop over the data
-    # for key, value in final_docID_list.items():
-    #     # Use ast.literal_eval to safely convert the string to a dictionary and assign it to the key in the result
-    #     result[key] = ast.literal_eval(value)
+            final_docID_list[token_tuple[0]] = eval(token_tuple[1])
+            #print("     --- append index %s ms ---" % round((time.time() - append_index_time) * 1000, 2))
+    print("--- locate index %s ms ---" % round((time.time() - locate_index_time) * 1000, 2))
+    rank_index_time = time.time()
 
     final = ranking.compute_tfidf(final_docID_list, 50000)
+    print("--- rank %s ms ---" % round((time.time() - rank_index_time) * 1000, 2))
     #final = set.intersection(*final_docID_list)
     f2.close()
+    
     pages = []
     if len(final) != 0:
         print(f"{len(final)} Results in ", end="")
