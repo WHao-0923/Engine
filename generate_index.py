@@ -285,13 +285,13 @@ def merge_file():
 
 # start the program
 if __name__ == '__main__':
-    # read_files()
+    read_files()
 
     # sorted_index = sorted(index_dict.index.items())
 
     count = 0
 
-    # merge_file()
+    merge_file()
 
     perform_index = {}
 
@@ -307,18 +307,18 @@ if __name__ == '__main__':
 
     common_words = ('computer','science','machine','learning','engineering',"algorithm",\
                 "data", "program", "code", "variable", "function", "class", "object", "interface", \
-                "method", "loop", "conditional", "array", "list", "string", "integer", "boolean",\
+                "method", "loop", "conditional", "what", "array", "list", "string", "integer", "boolean",\
                  "file", "database", "network", "server", "client", "protocol", "encryption",\
-                  "decryption", "compiler", "interpreter", "operating system", "memory", "cpu", \
+                  "decryption", "memory", "cpu", \
                   "gpu", "cache", "thread", "process", "concurrency", "parallelism", "big data", \
                   "artificial intelligence", "machine learning", "deep learning", "neural network",\
-                   "cloud computing", "virtualization", "web development", "api", "framework", "security", "vulnerability", "debugging", "testing", "software", "hardware", "database", "management", "data", "structure", "algorithmic", "complexity", "recursion", "sorting", "searching", "graph", "tree", "linked", "list", "queue", "stack", "hashing", "operating", "system", "file", "networking", "client", "server", "internet", "cybersecurity", "cryptography", "authentication", "authorization", "privacy", "integrity", "cloud", "storage", "distributed", "computing", "virtual", "machine", "web", "application", "mobile", "app", "responsive", "design", "user", "interface", "experience", "agile", "development", "version", "control")
+                   "cloud computing", "virtualization", "or", "web development", "api", "framework", "security", "vulnerability", "debugging", "testing", "software", "hardware", "database", "management", "data", "structure", "algorithmic", "to", "complexity", "be", "recursion", "sorting", "searching", "graph", "tree", "linked", "list", "queue", "stack", "hashing", "operating", "system", "file", "networking", "client", "server", "internet", "cybersecurity", "cryptography", "authentication", "authorization", "privacy", "integrity", "cloud", "storage", "distributed", "computing", "virtual", "machine", "web", "not", "application", "mobile", "app", "responsive", "design", "user", "interface", "experience", "agile", "development", "version")
 
     for i in text:
         #f2.write(f"{i[0]} {os.stat('ori_index.txt').st_size}\n")
         # save the most common token in cache
         if i.split('---')[0] in common_words:
-            perform_index[i.split('---')[0]] = byte
+            perform_index[i.split('---')[0]] = eval(i.split('---')[1])
 
         if count % 800 == 0: # this creates 800 main index, and each with 800 interval
             f2.write(f"{i.split('---')[0]} {byte}\n")
