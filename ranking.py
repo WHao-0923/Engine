@@ -14,7 +14,7 @@ def compute_tfidf(index_dict, total_count):
             df = len(doc_freq)
             tf = freq[0]
             weight = freq[1]
-            tf_idf = (1 + math.log(tf, 2) * weight) * math.log(total_count/df, 2)
+            tf_idf = (1 + math.log(tf, 2) + 1 * weight) * math.log(total_count/df, 2)
             if doc_id in tfidf_dict:
                 tfidf_dict[doc_id] += tf_idf
             else:
