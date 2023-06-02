@@ -1,11 +1,5 @@
 Search Engine
 
-# Team Members:
-# Joanna Chen, 66238804
-# Yui Guo, 75458764
-# Weiyu Hao, 59955246
-# Ruiyang Wang, 52294785
-
 pip install nltk
 pip install openai
 pip install flask
