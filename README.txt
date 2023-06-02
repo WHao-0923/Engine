@@ -1,9 +1,16 @@
 Search Engine
 
 pip install nltk
+
+OPTIONAL: 
+	import nltk
+	nltk.download('words')
+
 pip install openai
 pip install flask
 pip install lxml
+
+
 
 GUIDANCE:
 
