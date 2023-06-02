@@ -1,35 +1,29 @@
 import json
 import time
-import ast
-from nltk.stem import PorterStemmer
 from nltk.stem import SnowballStemmer
 from nltk.corpus import stopwords
 import ranking
 from summarizer import Summarizer
 
-with open("perform_index.json",'r') as f:
+with open("perform_index.json", 'r') as f:
     perform_index = json.load(f)
-#print(perform_index)
 
 OPENAI_AIPI_KEY = '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'
 openai_summarizer = Summarizer(OPENAI_AIPI_KEY)
 
 stop_words = set(stopwords.words('english'))
-query = ''
-print("   ########## ##########")
-print("WELCOME TO OUR SEARCH ENGINE")
-while True:
+
+def search(query: str):
+    results = []
+    speed = {}
+    summary = {}
+
     stemmer = SnowballStemmer('english', ignore_stopwords=True)
-    query = input("> ").lower()
-    if query == '!quit':
-        break
+    query = query.lower()
     start_time = time.time()
-    
-    # sort words for query
+
     sort_words = sorted(list(set(query.split())))
-    # [people,running]
-    # [people,run] [people,running]
-    #print("Here")
+
     stop_only = 0
     percent_count = 0
     words = []
@@ -38,19 +32,15 @@ while True:
             percent_count += 1
         else:
             words.append(token)
-    # check if a query is mainly stop words
-    if percent_count/len(sort_words) > 0.75:
+
+    if len(sort_words) > 0 and percent_count / len(sort_words) > 0.75:
         stop_only = 1
     if stop_only:
         words = sort_words
-    #words = [token for token in sort_words if token not in stop_words]
-
-    # to search for base form only
     words = [stemmer.stem(w) for w in words]
 
-    #print(words)
     byte_pos = dict()
-    #print(perform_index)
+
     with open('main_index.txt', 'r+') as f:
         #main_index_time = time.time()
         text = f.readline()
@@ -116,23 +106,39 @@ while True:
     #final = set.intersection(*final_docID_list)
     f2.close()
     
+    speed = {}
+    speed['number'] = len(final)
+    speed['query_time'] = 0
+    speed['gpt_time'] = 0
+    summary = {}
+    summary['summary'] = ''
     pages = []
     if len(final) != 0:
-        print(f"{len(final)} Results in ", end="")
-        print("%s ms:" % round((time.time() - start_time) * 1000, 2))
-        # generate URLs
         f = open('urls.json')
         ID_dict = json.load(f)
         rank = 1
         for i in final:
-            print(f'{rank}: {ID_dict[str(i[0])]}')
-            pages.append(ID_dict[str(i[0])])
+            result_dict = {}
+            result_dict['rank'] = rank
+            result_dict['url'] = ID_dict[str(i[0])]
+            results.append(result_dict)
             rank += 1
             if rank > 10:
                 break
         f.close()
-        print('Generating summary...')
-        print(f'Summary: {openai_summarizer.summarize(pages)}')
+        urls = []
+        for result in results:
+            urls.append(result['url'])
+        speed['query_time'] = round((time.time() - start_time) * 1000, 2)
+        summary_time = time.time()
+        summary['summary'] = openai_summarizer.summarize(urls)
+        speed['gpt_time'] = round((time.time() - summary_time) * 1000, 2)
+
+        
     else:
-        print('No Result')
-        print("--- %s ms ---" % round((time.time() - start_time) * 1000, 2))
+        results.append({'rank': 'N/A', 'url': 'No results', 'summary': ''})
+        speed['query_time'] = 0
+        speed['gpt_time'] = 0
+        summary['summary'] = ''
+
+    return results, summary, speed
