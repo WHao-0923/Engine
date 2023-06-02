@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head>
+    <title>My Website</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='ZotSearchResult.css') }}">
+</head>
+<body>
+    
+    <div id="resultsArea">
+        <img id="zotSearchLogo" src="{{ url_for('static', filename='zotSearchLogo.png') }}" alt="Zot Search Logo">
+        <form id="searchForm" action="/search" method="get">
+            <input type="text" id="searchBar" name="query" placeholder="Enter your search term">
+            <input type="submit" value="Search">
+        </form>
+        {% for result in results %}
+            <div class="result">
+                <p><a href="{{ result['url'] }}">{{ result['url'] }}</a></p>
+            </div>
+        {% endfor %}
+        <p>--- {{speed['number']}} results in {{speed['query_time']}}ms --- </p>
+        <p>Summary: {{summary['summary']}}</p>
+        <p>--- Summary results in {{speed['gpt_time']}}ms --- </p>
+    </div>
+</body>
+</html>
+
+
+
+
