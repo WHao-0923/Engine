@@ -123,7 +123,7 @@ def search(query: str):
             result_dict['url'] = ID_dict[str(i[0])]
             results.append(result_dict)
             rank += 1
-            if rank > 10:
+            if rank > 50:
                 break
         f.close()
         urls = []
