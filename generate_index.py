@@ -333,8 +333,8 @@ if __name__ == '__main__':
     f.close()
     with open("perform_index.json",'w') as file:
         json.dump(perform_index,file)
-    # with open('urls.json', 'w') as f3:
-    #     json.dump(ID_dict, f3)
+    with open('urls.json', 'w') as f3:
+        json.dump(ID_dict, f3)
 
     # # get size of the file in KB
     # file_size = os.path.getsize('index.txt') / 1024
