@@ -12,14 +12,22 @@
             <input type="text" id="searchBar" name="query" placeholder="Enter your search term">
             <input type="submit" value="Search">
         </form>
+        <p>--- {{speed['number']}} results in {{speed['query_time']}}ms --- </p>
         {% for result in results %}
             <div class="result">
                 <p><a href="{{ result['url'] }}">{{ result['url'] }}</a></p>
             </div>
         {% endfor %}
-        <p>--- {{speed['number']}} results in {{speed['query_time']}}ms --- </p>
+        
         <p>Summary: {{summary['summary']}}</p>
         <p>--- Summary results in {{speed['gpt_time']}}ms --- </p>
+        {% if previous_page %}
+            <a href="{{ previous_page }}">Previous Page</a>
+        {% endif %}
+
+        {% if next_page %}
+            <a href="{{ next_page }}">Next Page</a>
+        {% endif %}
     </div>
 </body>
 </html>
